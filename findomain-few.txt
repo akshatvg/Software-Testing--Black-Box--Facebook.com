@@ -1,0 +1,2 @@
+edge-synthetic-e2e-shv-01-fco2.facebook.com
+vault.dns.facebook.com

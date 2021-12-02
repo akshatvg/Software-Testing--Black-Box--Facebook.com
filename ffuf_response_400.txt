@@ -1,0 +1,75 @@
+[2Kgraph.secure.facebook.com [Status: 400, Size: 241, Words: 11, Lines: 1, Duration: 200ms][0m
+[2Kgraph2.facebook.com     [Status: 400, Size: 241, Words: 11, Lines: 1, Duration: 202ms][0m
+[2K_cisco-uds.dns.facebook.com [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 206ms][0m
+[2Kgraph.alpha.facebook.com [Status: 400, Size: 241, Words: 11, Lines: 1, Duration: 202ms][0m
+[2K_cisco-uds._tcp.fbjs.facebook.com [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 207ms][0m
+[2Krupload-xsp1-3.up.facebook.com [Status: 400, Size: 118, Words: 7, Lines: 1, Duration: 198ms][0m
+[2Kb-graph.facebook.com    [Status: 400, Size: 241, Words: 11, Lines: 1, Duration: 204ms][0m
+[2Krupload-sin6-2.up.facebook.com [Status: 400, Size: 118, Words: 7, Lines: 1, Duration: 572ms][0m
+[2Kz-p4-graph.facebook.com [Status: 400, Size: 241, Words: 11, Lines: 1, Duration: 203ms][0m
+[2Kinterngraph.internmc.facebook.com [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 201ms][0m
+[2Krupload-hkt1-1.up.facebook.com [Status: 400, Size: 118, Words: 7, Lines: 1, Duration: 569ms][0m
+[2Krupload-cgk1-2.up.facebook.com [Status: 400, Size: 118, Words: 7, Lines: 1, Duration: 568ms][0m
+[2K_cisco-uds.fbjs.facebook.com [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 205ms][0m
+[2K_dmarc.fbjs.facebook.com [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 207ms][0m
+[2K_collab-edge._tls.dns.facebook.com [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 207ms][0m
+[2Kinterngraph.prod.scgraph.facebook.com [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 200ms][0m
+[2Kz-p3-graph.facebook.com [Status: 400, Size: 241, Words: 11, Lines: 1, Duration: 200ms][0m
+[2Kproxygen_verifier.facebook.com [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 202ms][0m
+[2Korigincache.facebook.com [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 195ms][0m
+[2Kz-p3-rupload.facebook.com [Status: 400, Size: 118, Words: 7, Lines: 1, Duration: 196ms][0m
+[2K_collab-edge._tls.fbjs.facebook.com [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 205ms][0m
+[2Krupload-hkg4-1.up.facebook.com [Status: 400, Size: 118, Words: 7, Lines: 1, Duration: 572ms][0m
+[2K_collab-edge.dns.facebook.com [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 249ms][0m
+[2Krupload-maa2-1.up.facebook.com [Status: 400, Size: 118, Words: 7, Lines: 1, Duration: 573ms][0m
+[2K_tls.fbjs.facebook.com  [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 203ms][0m
+[2Kz-p4-rupload.facebook.com [Status: 400, Size: 118, Words: 7, Lines: 1, Duration: 199ms][0m
+[2Kphabricator.intern.facebook.com [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 197ms][0m
+[2Kz-m-rupload.facebook.com [Status: 400, Size: 118, Words: 7, Lines: 1, Duration: 197ms][0m
+[2Krupload-maa2-2.up.facebook.com [Status: 400, Size: 118, Words: 7, Lines: 1, Duration: 204ms][0m
+[2K_cisco-uds._tcp.dns.facebook.com [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 204ms][0m
+[2Kinterngraph.staging.scgraph.facebook.com [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 198ms][0m
+[2Krupload-xsp1-1.up.facebook.com [Status: 400, Size: 118, Words: 7, Lines: 1, Duration: 197ms][0m
+[2Krupload-kut2-1.up.facebook.com [Status: 400, Size: 118, Words: 7, Lines: 1, Duration: 204ms][0m
+[2K_collab-edge.fbjs.facebook.com [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 208ms][0m
+[2K_cuplogin.fbjs.facebook.com [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 205ms][0m
+[2Kgraph.facebook.com      [Status: 400, Size: 241, Words: 11, Lines: 1, Duration: 204ms][0m
+[2Kinterngraph.intern.facebook.com [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 198ms][0m
+[2Kinterngraph.scgraph.facebook.com [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 200ms][0m
+[2Krupload.facebook.com    [Status: 400, Size: 118, Words: 7, Lines: 1, Duration: 567ms][0m
+[2Kbigzipfiles.facebook.com [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 202ms][0m
+[2Kinterngraph.amplifier.facebook.com [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 199ms][0m
+[2Kb-graph.alpha.facebook.com [Status: 400, Size: 241, Words: 11, Lines: 1, Duration: 303ms][0m
+[2K_dmarc.dns.facebook.com [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 201ms][0m
+[2Krupload-xsp1-2.up.facebook.com [Status: 400, Size: 118, Words: 7, Lines: 1, Duration: 199ms][0m
+[2Krupload-sin6-3.up.facebook.com [Status: 400, Size: 118, Words: 7, Lines: 1, Duration: 569ms][0m
+[2K_mta-sts.fbjs.facebook.com [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 206ms][0m
+[2Kz-p3-graph-video.facebook.com [Status: 400, Size: 241, Words: 11, Lines: 1, Duration: 705ms][0m
+[2K_etcd-server-ssl.dns.facebook.com [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 203ms][0m
+[2Krupload-lax3-1.up.facebook.com [Status: 400, Size: 118, Words: 7, Lines: 1, Duration: 575ms][0m
+[2Krupload-del1-1.up.facebook.com [Status: 400, Size: 118, Words: 7, Lines: 1, Duration: 568ms][0m
+[2K_cuplogin._tcp.dns.facebook.com [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 206ms][0m
+[2Kdownload..facebook.com  [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 205ms][0m
+[2Kz-p1-graph.facebook.com [Status: 400, Size: 241, Words: 11, Lines: 1, Duration: 200ms][0m
+[2Kgraph-video.facebook.com [Status: 400, Size: 241, Words: 11, Lines: 1, Duration: 758ms][0m
+[2Kz-m-graph.facebook.com  [Status: 400, Size: 241, Words: 11, Lines: 1, Duration: 204ms][0m
+[2K_cuplogin.dns.facebook.com [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 205ms][0m
+[2Kgraph.beta.facebook.com [Status: 400, Size: 241, Words: 11, Lines: 1, Duration: 202ms][0m
+[2K_cuplogin._tcp.fbjs.facebook.com [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 200ms][0m
+[2Krupload-hkt1-2.up.facebook.com [Status: 400, Size: 118, Words: 7, Lines: 1, Duration: 570ms][0m
+[2Kphabricator.internmc.facebook.com [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 199ms][0m
+[2Krupload-kut2-2.up.facebook.com [Status: 400, Size: 118, Words: 7, Lines: 1, Duration: 572ms][0m
+[2Krupload-mct1-1.up.facebook.com [Status: 400, Size: 118, Words: 7, Lines: 1, Duration: 198ms][0m
+[2Kgraph.prod.facebook.com [Status: 400, Size: 241, Words: 11, Lines: 1, Duration: 206ms][0m
+[2K_tls.dns.facebook.com   [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 205ms][0m
+[2Krupload-cgk1-1.up.facebook.com [Status: 400, Size: 118, Words: 7, Lines: 1, Duration: 570ms][0m
+[2Krupload-nrt1-1.up.facebook.com [Status: 400, Size: 118, Words: 7, Lines: 1, Duration: 199ms][0m
+[2K_mta-sts.dns.facebook.com [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 200ms][0m
+[2Krupload-sea1-1.up.facebook.com [Status: 400, Size: 118, Words: 7, Lines: 1, Duration: 198ms][0m
+[2K_tcp.dns.facebook.com   [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 206ms][0m
+[2Krupload-sin6-1.up.facebook.com [Status: 400, Size: 118, Words: 7, Lines: 1, Duration: 199ms][0m
+[2K_etcd-server-ssl.fbjs.facebook.com [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 203ms][0m
+[2Kwebdav.facebook.com     [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 200ms][0m
+[2Ksd.facebook.com         [Status: 400, Size: 241, Words: 11, Lines: 1, Duration: 205ms][0m
+[2K_tcp.fbjs.facebook.com  [Status: 400, Size: 1530, Words: 230, Lines: 14, Duration: 203ms][0m
+[2Krupload-hkg4-2.up.facebook.com [Status: 400, Size: 118, Words: 7, Lines: 1, Duration: 196ms][0m

@@ -1,0 +1,37 @@
+Time: Thu Dec  2 20:28:12 2021
+
+301     0B   https://facebook.com:443/html    -> REDIRECTS TO: https://www.facebook.com/html
+301     0B   https://facebook.com:443/js    -> REDIRECTS TO: https://www.facebook.com/js
+200    87KB  https://facebook.com:443/.well-known/apple-app-site-association
+200    87KB  https://facebook.com:443/.well-known/assetlinks.json
+301     0B   https://facebook.com:443/DocProject/Help/html    -> REDIRECTS TO: https://www.facebook.com/DocProject/Help/html
+301     0B   https://facebook.com:443/account/login.shtml    -> REDIRECTS TO: https://www.facebook.com/account/login.shtml
+301     0B   https://facebook.com:443/accounts/login.shtml    -> REDIRECTS TO: https://www.facebook.com/accounts/login.shtml
+301     0B   https://facebook.com:443/adm.shtml    -> REDIRECTS TO: https://www.facebook.com/adm.shtml
+301     0B   https://facebook.com:443/adminjs    -> REDIRECTS TO: https://www.facebook.com/adminjs
+301     0B   https://facebook.com:443/adminhtml    -> REDIRECTS TO: https://www.facebook.com/adminhtml
+301     0B   https://facebook.com:443/admin.shtml    -> REDIRECTS TO: https://www.facebook.com/admin.shtml
+301     0B   https://facebook.com:443/admin/portalcollect.php?f=http://xxx&t=js    -> REDIRECTS TO: https://www.facebook.com/admin/portalcollect.php?f=http%3A%2F%2Fxxx&t=js
+301     0B   https://facebook.com:443/admin_js    -> REDIRECTS TO: https://www.facebook.com/admin_js
+301     0B   https://facebook.com:443/administrator.shtml    -> REDIRECTS TO: https://www.facebook.com/administrator.shtml
+500     1KB  https://facebook.com:443/assets
+500     1KB  https://facebook.com:443/assets/
+301     0B   https://facebook.com:443/cache_html    -> REDIRECTS TO: https://www.facebook.com/cache_html
+301     0B   https://facebook.com:443/core/fragments/moduleInfo.phtml    -> REDIRECTS TO: https://www.facebook.com/core/fragments/moduleInfo.phtml
+301     0B   https://facebook.com:443/controlpanel.shtml    -> REDIRECTS TO: https://www.facebook.com/controlpanel.shtml
+200     1KB  https://facebook.com:443/favicon.ico
+301     0B   https://facebook.com:443/getfiles.php?f=http://xxx&t=js    -> REDIRECTS TO: https://www.facebook.com/getfiles.php?f=http%3A%2F%2Fxxx&t=js
+301     0B   https://facebook.com:443/host-manager/html    -> REDIRECTS TO: https://www.facebook.com/host-manager/html
+301     0B   https://facebook.com:443/index.shtml    -> REDIRECTS TO: https://www.facebook.com/index.shtml
+301     0B   https://facebook.com:443/login.shtml    -> REDIRECTS TO: https://www.facebook.com/login.shtml
+301     0B   https://facebook.com:443/logon/logon.shtml    -> REDIRECTS TO: https://www.facebook.com/logon/logon.shtml
+301     0B   https://facebook.com:443/manager/html    -> REDIRECTS TO: https://www.facebook.com/manager/html
+301     0B   https://facebook.com:443/members.shtml    -> REDIRECTS TO: https://www.facebook.com/members.shtml
+301     0B   https://facebook.com:443/myadminjs    -> REDIRECTS TO: https://www.facebook.com/myadminjs
+301     0B   https://facebook.com:443/myadminhtml    -> REDIRECTS TO: https://www.facebook.com/myadminhtml
+301     0B   https://facebook.com:443/netadmin.shtml    -> REDIRECTS TO: https://www.facebook.com/netadmin.shtml
+301     0B   https://facebook.com:443/opa-debug-js    -> REDIRECTS TO: https://www.facebook.com/opa-debug-js
+301     0B   https://facebook.com:443/public_html    -> REDIRECTS TO: https://www.facebook.com/public_html
+200    86KB  https://facebook.com:443/robots.txt
+301     0B   https://facebook.com:443/signin.shtml    -> REDIRECTS TO: https://www.facebook.com/signin.shtml
+200    19B   https://facebook.com:443/status.php

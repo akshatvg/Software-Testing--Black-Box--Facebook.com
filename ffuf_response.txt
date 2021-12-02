@@ -1,0 +1,1316 @@
+[2Kzh-cn.zh-tw.tr-tr.fbjs.facebook.com [Status: 200, Size: 82918, Words: 760, Lines: 30, Duration: 278ms][0m
+[2Kmr-in.facebook.com      [Status: 200, Size: 87795, Words: 962, Lines: 30, Duration: 298ms][0m
+[2Kwww.ru-ru.developers.prod.facebook.com [Status: 200, Size: 92177, Words: 897, Lines: 28, Duration: 508ms][0m
+[2Ktr-tr.es-la.prod.facebook.com [Status: 200, Size: 84720, Words: 917, Lines: 30, Duration: 254ms][0m
+[2Kde-de.new.facebook.com  [Status: 200, Size: 81574, Words: 914, Lines: 30, Duration: 262ms][0m
+[2Kam-et.facebook.com      [Status: 200, Size: 85729, Words: 923, Lines: 30, Duration: 397ms][0m
+[2Kky-kg.facebook.com      [Status: 200, Size: 88448, Words: 929, Lines: 30, Duration: 286ms][0m
+[2Khi-in.fbjs.facebook.com [Status: 200, Size: 88109, Words: 991, Lines: 30, Duration: 258ms][0m
+[2Kzh-cn.nb-no.prod.facebook.com [Status: 200, Size: 82707, Words: 760, Lines: 30, Duration: 288ms][0m
+[2Kar-ar.zh-cn.af-za.fbjs.facebook.com [Status: 200, Size: 89568, Words: 1020, Lines: 30, Duration: 293ms][0m
+[2Kwww.it-it.tr-tr.prod.facebook.com [Status: 200, Size: 91249, Words: 907, Lines: 30, Duration: 260ms][0m
+[2Kwww.it-it.fr-fr.ro-ro.fbjs.facebook.com [Status: 200, Size: 91460, Words: 907, Lines: 30, Duration: 262ms][0m
+[2Kpt-br.youghaluniteda.f.c.facebook.com [Status: 200, Size: 82209, Words: 997, Lines: 30, Duration: 308ms][0m
+[2Kko-kr.beta.facebook.com [Status: 200, Size: 83707, Words: 872, Lines: 30, Duration: 298ms][0m
+[2Kadmin.dev.facebook.com  [Status: 200, Size: 90303, Words: 907, Lines: 30, Duration: 301ms][0m
+[2Kar-ar.developer.prod.facebook.com [Status: 200, Size: 89494, Words: 1020, Lines: 30, Duration: 297ms][0m
+[2Kpt-br.f1.fbjs.facebook.com [Status: 200, Size: 81801, Words: 997, Lines: 30, Duration: 255ms][0m
+[2Kko-kr.f.b.c.facebook.com [Status: 200, Size: 83743, Words: 872, Lines: 30, Duration: 399ms][0m
+[2Kzh-cn.facebook.com      [Status: 200, Size: 82324, Words: 760, Lines: 30, Duration: 242ms][0m
+[2Kku-tr.facebook.com      [Status: 200, Size: 81820, Words: 953, Lines: 30, Duration: 263ms][0m
+[2Kwww.it-it.th-th.ro-ro.fbjs.facebook.com [Status: 200, Size: 91465, Words: 907, Lines: 30, Duration: 300ms][0m
+[2Kwww.clientsidetesticici.facebook.com [Status: 200, Size: 91348, Words: 907, Lines: 30, Duration: 263ms][0m
+[2Kbg-bg.facebook.com      [Status: 200, Size: 89744, Words: 992, Lines: 30, Duration: 263ms][0m
+[2Kes-la.vi-vn.zer.o.lite.facebook.com [Status: 200, Size: 82253, Words: 978, Lines: 30, Duration: 247ms][0m
+[2Kwww.o.facebook.com      [Status: 200, Size: 90718, Words: 907, Lines: 30, Duration: 318ms][0m
+[2Ksecure.inyour.facebook.com [Status: 200, Size: 90440, Words: 907, Lines: 30, Duration: 297ms][0m
+[2Kwww.internmc.facebook.com [Status: 200, Size: 90947, Words: 907, Lines: 30, Duration: 295ms][0m
+[2Kwww.is-is.fbjs.facebook.com [Status: 200, Size: 91037, Words: 907, Lines: 30, Duration: 415ms][0m
+[2Kde-de.sv-se.ro-ro.fbjs.facebook.com [Status: 200, Size: 82030, Words: 914, Lines: 30, Duration: 305ms][0m
+[2Kro-ro.fbjs.facebook.com [Status: 200, Size: 82229, Words: 1005, Lines: 30, Duration: 321ms][0m
+[2Kbe-by.facebook.com      [Status: 200, Size: 87379, Words: 983, Lines: 30, Duration: 259ms][0m
+[2Kwww.c.connect.facebook.com [Status: 200, Size: 91002, Words: 907, Lines: 30, Duration: 316ms][0m
+[2Kwww.hr-hr.google.fbjs.facebook.com [Status: 200, Size: 91279, Words: 907, Lines: 30, Duration: 294ms][0m
+[2Km.o.facebook.com        [Status: 200, Size: 15499, Words: 589, Lines: 2, Duration: 245ms][0m
+[2Kwww.dewey.vip.facebook.com [Status: 200, Size: 91003, Words: 907, Lines: 30, Duration: 317ms][0m
+[2Kko-kr.vi-vn.en-gb.fbjs.facebook.com [Status: 200, Size: 84127, Words: 872, Lines: 30, Duration: 253ms][0m
+[2Kde-de.beta.facebook.com [Status: 200, Size: 81607, Words: 914, Lines: 30, Duration: 309ms][0m
+[2Kth-th.prod.facebook.com [Status: 200, Size: 88607, Words: 762, Lines: 30, Duration: 286ms][0m
+[2Kit-it.de-de.prod.facebook.com [Status: 200, Size: 81706, Words: 983, Lines: 30, Duration: 593ms][0m
+[2Khi-in.ha.lite.facebook.com [Status: 200, Size: 88217, Words: 991, Lines: 30, Duration: 337ms][0m
+[2Kes-la.register.lite.facebook.com [Status: 200, Size: 82154, Words: 978, Lines: 30, Duration: 293ms][0m
+[2Kdevelopers.zh-tw.tr-tr.fbjs.facebook.com [Status: 200, Size: 175722, Words: 6101, Lines: 91, Duration: 1717ms][0m
+[2Kwww.ak.new.facebook.com [Status: 200, Size: 90911, Words: 907, Lines: 30, Duration: 316ms][0m
+[2Kit-it.new.facebook.com  [Status: 200, Size: 81461, Words: 983, Lines: 30, Duration: 308ms][0m
+[2Kbadge.prod.facebook.com [Status: 200, Size: 90341, Words: 907, Lines: 30, Duration: 263ms][0m
+[2Kde-de.vi-vn.zer.o.lite.facebook.com [Status: 200, Size: 82027, Words: 914, Lines: 30, Duration: 256ms][0m
+[2Kes-la.zh-cn.af-za.fbjs.facebook.com [Status: 200, Size: 82253, Words: 978, Lines: 30, Duration: 273ms][0m
+[2Kzh-tw.dns.facebook.com  [Status: 200, Size: 82697, Words: 765, Lines: 30, Duration: 285ms][0m
+[2Kes-la.tr-tr.prod.facebook.com [Status: 200, Size: 82044, Words: 978, Lines: 30, Duration: 290ms][0m
+[2Km.m.0.facebook.com      [Status: 200, Size: 15511, Words: 589, Lines: 2, Duration: 272ms][0m
+[2Kzh-cn.ru-ru.m.fbjs.facebook.com [Status: 200, Size: 82774, Words: 760, Lines: 30, Duration: 285ms][0m
+[2Kit-it.de-de.ms-my.fbjs.facebook.com [Status: 200, Size: 81907, Words: 983, Lines: 30, Duration: 256ms][0m
+[2Kit-it.id-id.prod.facebook.com [Status: 200, Size: 81698, Words: 983, Lines: 30, Duration: 284ms][0m
+[2Kwww.gd.connect.facebook.com [Status: 200, Size: 91038, Words: 907, Lines: 30, Duration: 404ms][0m
+[2Ken-gb.de-de.es-la.prod.facebook.com [Status: 200, Size: 81893, Words: 944, Lines: 30, Duration: 285ms][0m
+[2Kwww.it-it.fbjs.facebook.com [Status: 200, Size: 91038, Words: 907, Lines: 30, Duration: 289ms][0m
+[2Kko-kr.it-it.lite.on.lite.facebook.com [Status: 200, Size: 84197, Words: 872, Lines: 30, Duration: 287ms][0m
+[2Kko-kr.ru-ru.prod.facebook.com [Status: 200, Size: 83912, Words: 872, Lines: 30, Duration: 247ms][0m
+[2Kko-kr.es-es.c.facebook.com [Status: 200, Size: 83811, Words: 872, Lines: 30, Duration: 242ms][0m
+[2Khi-in.latest.facebook.com [Status: 200, Size: 88164, Words: 991, Lines: 30, Duration: 259ms][0m
+[2Kpt-br.vi-vn.zer.o.lite.facebook.com [Status: 200, Size: 82123, Words: 997, Lines: 30, Duration: 298ms][0m
+[2Kja-jp.en-gb.ro-ro.fbjs.facebook.com [Status: 200, Size: 84856, Words: 715, Lines: 30, Duration: 240ms][0m
+[2Kbg-bg.ja-jp.ms-my.fbjs.facebook.com [Status: 200, Size: 90341, Words: 992, Lines: 30, Duration: 288ms][0m
+[2Kko-kr.ar-ar.m.lite.facebook.com [Status: 200, Size: 83986, Words: 872, Lines: 30, Duration: 287ms][0m
+[2Kzh-cn.hi-in.th-th.fbjs.facebook.com [Status: 200, Size: 82917, Words: 760, Lines: 30, Duration: 395ms][0m
+[2Kwww.nb-no.id-id.prod.facebook.com [Status: 200, Size: 91247, Words: 907, Lines: 30, Duration: 330ms][0m
+[2Kzz-tr.facebook.com      [Status: 200, Size: 81849, Words: 953, Lines: 30, Duration: 353ms][0m
+[2Kja-jp.new.facebook.com  [Status: 200, Size: 84401, Words: 715, Lines: 30, Duration: 247ms][0m
+[2Kar-ar.pt-br.developers.prod.facebook.com [Status: 200, Size: 90486, Words: 1010, Lines: 28, Duration: 348ms][0m
+[2Khr-hr.google.fbjs.facebook.com [Status: 200, Size: 82142, Words: 994, Lines: 30, Duration: 294ms][0m
+[2Kpt-br.vi-vn.lite.facebook.com [Status: 200, Size: 81901, Words: 997, Lines: 30, Duration: 273ms][0m
+[2Kes-la.en-gb.ro-ro.fbjs.facebook.com [Status: 200, Size: 82257, Words: 978, Lines: 30, Duration: 415ms][0m
+[2Kga-ie.facebook.com      [Status: 200, Size: 81892, Words: 1003, Lines: 30, Duration: 391ms][0m
+[2Kkm-kh.facebook.com      [Status: 200, Size: 90877, Words: 782, Lines: 30, Duration: 298ms][0m
+[2Kwww.te-in.developers.prod.facebook.com [Status: 200, Size: 92180, Words: 897, Lines: 28, Duration: 415ms][0m
+[2Kwww.fr-fr.ro-ro.fbjs.facebook.com [Status: 200, Size: 91252, Words: 907, Lines: 30, Duration: 261ms][0m
+[2Kwww.id-id.developers.prod.facebook.com [Status: 200, Size: 92170, Words: 897, Lines: 28, Duration: 740ms][0m
+[2Kzh-cn.gnctrkcll.com.0.facebook.com [Status: 200, Size: 82881, Words: 760, Lines: 30, Duration: 292ms][0m
+[2Kfr-fr.lite.lite.lite.facebook.com [Status: 200, Size: 82228, Words: 997, Lines: 30, Duration: 254ms][0m
+[2Ksecure.intern.facebook.com [Status: 200, Size: 90422, Words: 907, Lines: 30, Duration: 570ms][0m
+[2Kca-es.ja-jp.m.lite.facebook.com [Status: 200, Size: 82614, Words: 1000, Lines: 30, Duration: 299ms][0m
+[2Khi-in.es-es.c.facebook.com [Status: 200, Size: 88473, Words: 991, Lines: 30, Duration: 251ms][0m
+[2Kde-de.fbjs.facebook.com [Status: 200, Size: 81617, Words: 914, Lines: 30, Duration: 647ms][0m
+[2Kja-jp.vi-vn.lite.facebook.com [Status: 200, Size: 84652, Words: 715, Lines: 30, Duration: 243ms][0m
+[2Kpl-pl.es-la.vi-vn.lite.facebook.com [Status: 200, Size: 82479, Words: 979, Lines: 30, Duration: 305ms][0m
+[2Kwww.alpha.facebook.com  [Status: 200, Size: 90865, Words: 907, Lines: 30, Duration: 294ms][0m
+[2Kwww.fr-fr.es-la.prod.facebook.com [Status: 200, Size: 91241, Words: 907, Lines: 30, Duration: 322ms][0m
+[2Kja-ks.facebook.com      [Status: 200, Size: 84870, Words: 717, Lines: 30, Duration: 398ms][0m
+[2Kar-ar.ro-ro.fbjs.facebook.com [Status: 200, Size: 89355, Words: 1020, Lines: 30, Duration: 340ms][0m
+[2Kes-la.es-es.prod.facebook.com [Status: 200, Size: 82048, Words: 978, Lines: 30, Duration: 272ms][0m
+[2Kdevelopers.es-es.f.b.c.facebook.com [Status: 200, Size: 175462, Words: 6101, Lines: 91, Duration: 1875ms][0m
+[2Kwww.fr-fr.es-es.prod.facebook.com [Status: 200, Size: 91246, Words: 907, Lines: 30, Duration: 341ms][0m
+[2Kar-ar.facebook.com      [Status: 200, Size: 88972, Words: 1020, Lines: 30, Duration: 441ms][0m
+[2Kth-th.fbjs.facebook.com [Status: 200, Size: 88602, Words: 762, Lines: 30, Duration: 386ms][0m
+[2Kdevelopers.fr-fr.af-za.fbjs.facebook.com [Status: 200, Size: 175708, Words: 6101, Lines: 91, Duration: 1898ms][0m
+[2Kwww.sims.vvv.facebook.com [Status: 200, Size: 90964, Words: 907, Lines: 30, Duration: 303ms][0m
+[2Kes-es.c.facebook.com    [Status: 200, Size: 81728, Words: 986, Lines: 30, Duration: 258ms][0m
+[2Kit-it.facebook.com      [Status: 200, Size: 81316, Words: 983, Lines: 30, Duration: 325ms][0m
+[2Kdevelopers.developer.prod.facebook.com [Status: 200, Size: 174601, Words: 6078, Lines: 86, Duration: 2168ms][0m
+[2Kpt-br.ro-ro.prod.facebook.com [Status: 200, Size: 81909, Words: 997, Lines: 30, Duration: 351ms][0m
+[2Kko-kr.nb-no.prod.facebook.com [Status: 200, Size: 83918, Words: 872, Lines: 30, Duration: 363ms][0m
+[2Kko-kr.en-gb.ro-ro.fbjs.facebook.com [Status: 200, Size: 84129, Words: 872, Lines: 30, Duration: 375ms][0m
+[2Kid-id.fr-ca.de-de.ms-my.fbjs.facebook.com [Status: 200, Size: 81809, Words: 912, Lines: 30, Duration: 283ms][0m
+[2Kfr-fr.zh-tw.prod.facebook.com [Status: 200, Size: 82092, Words: 997, Lines: 30, Duration: 272ms][0m
+[2Kit-it.nl-nl.fr-fr.prod.facebook.com [Status: 200, Size: 81912, Words: 983, Lines: 30, Duration: 311ms][0m
+[2Knb-no.facebook.com      [Status: 200, Size: 81305, Words: 929, Lines: 30, Duration: 300ms][0m
+[2Kwww.es-es.vi-vn.lite.connect.facebook.com [Status: 200, Size: 91523, Words: 907, Lines: 30, Duration: 337ms][0m
+[2Kfr-fr.alpha.facebook.com [Status: 200, Size: 81913, Words: 997, Lines: 30, Duration: 289ms][0m
+[2Kja-jp.ha.lite.facebook.com [Status: 200, Size: 84551, Words: 715, Lines: 30, Duration: 253ms][0m
+[2Ktr-tr.com.php.0.facebook.com [Status: 200, Size: 84690, Words: 917, Lines: 30, Duration: 262ms][0m
+[2Kwww.vi-nv.connect.facebook.com [Status: 200, Size: 91140, Words: 907, Lines: 30, Duration: 338ms][0m
+[2Kwww.tl-ph.fbjs.facebook.com [Status: 200, Size: 91028, Words: 907, Lines: 30, Duration: 320ms][0m
+[2Kfr-fr.f1.fbjs.facebook.com [Status: 200, Size: 82000, Words: 997, Lines: 30, Duration: 291ms][0m
+[2Kja-jp.m.lite.facebook.com [Status: 200, Size: 84509, Words: 715, Lines: 30, Duration: 386ms][0m
+[2Kpt-pt.es-es.prod.facebook.com [Status: 200, Size: 82015, Words: 1004, Lines: 30, Duration: 445ms][0m
+[2Kpt-pt.ro-ro.fbjs.facebook.com [Status: 200, Size: 82015, Words: 1004, Lines: 30, Duration: 263ms][0m
+[2Kja-jp.ar-ar.m.lite.facebook.com [Status: 200, Size: 84716, Words: 715, Lines: 30, Duration: 247ms][0m
+[2Kwww.cinyourrc.facebook.com [Status: 200, Size: 91004, Words: 907, Lines: 30, Duration: 307ms][0m
+[2Kwww.sv-se.es-es.prod.facebook.com [Status: 200, Size: 91246, Words: 907, Lines: 30, Duration: 299ms][0m
+[2Kur-pk.facebook.com      [Status: 200, Size: 87223, Words: 1018, Lines: 30, Duration: 258ms][0m
+[2Kdevelopers.ru-ru.m.fbjs.facebook.com [Status: 200, Size: 175497, Words: 6101, Lines: 91, Duration: 1831ms][0m
+[2Km.dns.facebook.com      [Status: 200, Size: 15516, Words: 589, Lines: 2, Duration: 277ms][0m
+[2Kfo-fo.facebook.com      [Status: 200, Size: 81166, Words: 910, Lines: 30, Duration: 312ms][0m
+[2Kit-it.beta.facebook.com [Status: 200, Size: 81488, Words: 983, Lines: 30, Duration: 298ms][0m
+[2Kda-dk.lite.facebook.com [Status: 200, Size: 81470, Words: 917, Lines: 30, Duration: 291ms][0m
+[2Kja-jp.ru-ru.m.fbjs.facebook.com [Status: 200, Size: 84717, Words: 715, Lines: 30, Duration: 279ms][0m
+[2Khi-in.es-la.vi-vn.lite.facebook.com [Status: 200, Size: 88530, Words: 991, Lines: 30, Duration: 288ms][0m
+[2Kwww.vi.connect.facebook.com [Status: 200, Size: 91035, Words: 907, Lines: 30, Duration: 294ms][0m
+[2Ksl-si.facebook.com      [Status: 200, Size: 81662, Words: 980, Lines: 30, Duration: 258ms][0m
+[2Km.alpha.facebook.com    [Status: 200, Size: 15523, Words: 589, Lines: 2, Duration: 327ms][0m
+[2Khu-hu.facebook.com      [Status: 200, Size: 82311, Words: 907, Lines: 30, Duration: 345ms][0m
+[2Kzh-cn.prod.facebook.com [Status: 200, Size: 82500, Words: 760, Lines: 30, Duration: 292ms][0m
+[2Kwww.es-la.th-th.ro-ro.fbjs.facebook.com [Status: 200, Size: 91453, Words: 907, Lines: 30, Duration: 260ms][0m
+[2Kpt-br.google.fbjs.facebook.com [Status: 200, Size: 81943, Words: 997, Lines: 30, Duration: 303ms][0m
+[2Kzh-cn.ha.lite.facebook.com [Status: 200, Size: 82601, Words: 760, Lines: 30, Duration: 364ms][0m
+[2Kko-kr.da-dk.c.facebook.com [Status: 200, Size: 83814, Words: 872, Lines: 30, Duration: 262ms][0m
+[2Kpt-br.c.facebook.com    [Status: 200, Size: 81591, Words: 997, Lines: 30, Duration: 492ms][0m
+[2Kzh-cn.sv-se.youghaluniteda.f.c.facebook.com [Status: 200, Size: 83195, Words: 760, Lines: 30, Duration: 279ms][0m
+[2Kde-de.it-it.en-gb.ro-ro.fbjs.facebook.com [Status: 200, Size: 82244, Words: 914, Lines: 30, Duration: 314ms][0m
+[2Khe-il.facebook.com      [Status: 200, Size: 87165, Words: 949, Lines: 30, Duration: 269ms][0m
+[2Khi-in.sv-se.youghaluniteda.f.c.facebook.com [Status: 200, Size: 88827, Words: 991, Lines: 30, Duration: 317ms][0m
+[2Kit-it.ru-ru.es-es.prod.facebook.com [Status: 200, Size: 81911, Words: 983, Lines: 30, Duration: 294ms][0m
+[2Kwww.presto.vip.facebook.com [Status: 200, Size: 91041, Words: 907, Lines: 30, Duration: 444ms][0m
+[2Kit-it.pl-pl.prod.facebook.com [Status: 200, Size: 81699, Words: 983, Lines: 30, Duration: 256ms][0m
+[2Kfr-fr.m.fbjs.facebook.com [Status: 200, Size: 81952, Words: 997, Lines: 30, Duration: 264ms][0m
+[2Kit-it.inyour.facebook.com [Status: 200, Size: 81558, Words: 983, Lines: 30, Duration: 312ms][0m
+[2Ken-gb.sv-se.es-es.prod.facebook.com [Status: 200, Size: 81896, Words: 944, Lines: 30, Duration: 276ms][0m
+[2Kko-kr.af-za.fbjs.facebook.com [Status: 200, Size: 83916, Words: 872, Lines: 30, Duration: 308ms][0m
+[2Kb-www.facebook.com      [Status: 200, Size: 90162, Words: 907, Lines: 30, Duration: 282ms][0m
+[2Kwww.th-th.ro-ro.fbjs.facebook.com [Status: 200, Size: 91249, Words: 907, Lines: 30, Duration: 345ms][0m
+[2Kru-ru.es-es.c.facebook.com [Status: 200, Size: 89952, Words: 982, Lines: 30, Duration: 299ms][0m
+[2Kde-de.es-es.f.b.c.facebook.com [Status: 200, Size: 81851, Words: 914, Lines: 30, Duration: 255ms][0m
+[2Kfr-fr.vi-vn.zer.o.lite.facebook.com [Status: 200, Size: 82300, Words: 997, Lines: 30, Duration: 358ms][0m
+[2Kko-kr.c.facebook.com    [Status: 200, Size: 83600, Words: 872, Lines: 30, Duration: 626ms][0m
+[2Km.intern.facebook.com   [Status: 200, Size: 15529, Words: 589, Lines: 2, Duration: 318ms][0m
+[2Kpt-br.te-in.developers.prod.facebook.com [Status: 200, Size: 83037, Words: 987, Lines: 28, Duration: 673ms][0m
+[2Kpl-pl.sr-rs.developers.prod.facebook.com [Status: 200, Size: 83400, Words: 969, Lines: 28, Duration: 874ms][0m
+[2Kpt-br.hr-hr.google.fbjs.facebook.com [Status: 200, Size: 82152, Words: 997, Lines: 30, Duration: 254ms][0m
+[2Kd.ns.vvv.facebook.com   [Status: 200, Size: 15529, Words: 589, Lines: 2, Duration: 320ms][0m
+[2Km.prod.facebook.com     [Status: 200, Size: 15522, Words: 589, Lines: 2, Duration: 276ms][0m
+[2Khi-in.c.facebook.com    [Status: 200, Size: 88007, Words: 991, Lines: 30, Duration: 344ms][0m
+[2Kwww.ra-ra.connect.facebook.com [Status: 200, Size: 91138, Words: 907, Lines: 30, Duration: 255ms][0m
+[2Km.facebook.com          [Status: 200, Size: 15487, Words: 589, Lines: 2, Duration: 277ms][0m
+[2Kwww.ku-tr.nl-nl.fr-fr.prod.facebook.com [Status: 200, Size: 91454, Words: 907, Lines: 30, Duration: 278ms][0m
+[2Kzh-cn.ro-ro.fbjs.facebook.com [Status: 200, Size: 82720, Words: 760, Lines: 30, Duration: 248ms][0m
+[2Kde-de.fr-fr.af-za.fbjs.facebook.com [Status: 200, Size: 82028, Words: 914, Lines: 30, Duration: 259ms][0m
+[2Kwww.m.0.facebook.com    [Status: 200, Size: 90789, Words: 907, Lines: 30, Duration: 922ms][0m
+[2Kpt-br.sv-se.es-es.prod.facebook.com [Status: 200, Size: 82115, Words: 997, Lines: 30, Duration: 296ms][0m
+[2Kes-la.te-in.developers.prod.facebook.com [Status: 200, Size: 83174, Words: 968, Lines: 28, Duration: 271ms][0m
+[2Kwww.beta.facebook.com   [Status: 200, Size: 90829, Words: 907, Lines: 30, Duration: 305ms][0m
+[2Kwww.vodafone.com.0.facebook.com [Status: 200, Size: 91173, Words: 907, Lines: 30, Duration: 306ms][0m
+[2Ktr-tr.latest.facebook.com [Status: 200, Size: 84834, Words: 917, Lines: 30, Duration: 258ms][0m
+[2Kpt-br.nl-nl.es-la.prod.facebook.com [Status: 200, Size: 82119, Words: 997, Lines: 30, Duration: 734ms][0m
+[2Ktz-ma.nl-nl.prod.facebook.com [Status: 200, Size: 87349, Words: 995, Lines: 30, Duration: 406ms][0m
+[2Kko-kr.sv-se.youghaluniteda.f.c.facebook.com [Status: 200, Size: 84406, Words: 872, Lines: 30, Duration: 249ms][0m
+[2Kpl-pl.facebook.com      [Status: 200, Size: 81890, Words: 979, Lines: 30, Duration: 301ms][0m
+[2Kko-kr.sv-se.es-es.prod.facebook.com [Status: 200, Size: 84129, Words: 872, Lines: 30, Duration: 303ms][0m
+[2Kpt-br.alpha.facebook.com [Status: 200, Size: 81738, Words: 997, Lines: 30, Duration: 303ms][0m
+[2Km.cinyourrc.facebook.com [Status: 200, Size: 15547, Words: 589, Lines: 2, Duration: 242ms][0m
+[2Kdevelopers.fbjs.facebook.com [Status: 200, Size: 174054, Words: 6078, Lines: 86, Duration: 1748ms][0m
+[2Kwww.pt-br.fbjs.facebook.com [Status: 200, Size: 91032, Words: 907, Lines: 30, Duration: 307ms][0m
+[2Km.dev.facebook.com      [Status: 200, Size: 15511, Words: 589, Lines: 2, Duration: 279ms][0m
+[2Kes-la.es-la.tr-tr.prod.facebook.com [Status: 200, Size: 82106, Words: 978, Lines: 30, Duration: 291ms][0m
+[2Kzh-cn.nl-nl.apps.fbjs.facebook.com [Status: 200, Size: 82888, Words: 760, Lines: 30, Duration: 390ms][0m
+[2Kja-jp.beta.facebook.com [Status: 200, Size: 84451, Words: 715, Lines: 30, Duration: 394ms][0m
+[2Kar-ar.nl-nl.es-la.prod.facebook.com [Status: 200, Size: 89568, Words: 1020, Lines: 30, Duration: 289ms][0m
+[2Kwww.ar-ar.zh-cn.hu-hu.fbjs.facebook.com [Status: 200, Size: 91465, Words: 907, Lines: 30, Duration: 373ms][0m
+[2Kvupload.new.facebook.com [Status: 200, Size: 90374, Words: 907, Lines: 30, Duration: 316ms][0m
+[2Kka-ge.fbjs.facebook.com [Status: 200, Size: 92110, Words: 917, Lines: 30, Duration: 257ms][0m
+[2Kcx-ph.facebook.com      [Status: 200, Size: 81461, Words: 1020, Lines: 30, Duration: 255ms][0m
+[2Ken-gb.lite.facebook.com [Status: 200, Size: 81504, Words: 944, Lines: 30, Duration: 293ms][0m
+[2Kwww.pt-br.pt-br.es-es.prod.facebook.com [Status: 200, Size: 91454, Words: 907, Lines: 30, Duration: 298ms][0m
+[2Kit-it.en-gb.ro-ro.fbjs.facebook.com [Status: 200, Size: 81917, Words: 983, Lines: 30, Duration: 390ms][0m
+[2Kupload.latest.facebook.com [Status: 200, Size: 90427, Words: 907, Lines: 30, Duration: 295ms][0m
+[2Kes-la.sv-se.youghaluniteda.f.c.facebook.com [Status: 200, Size: 82532, Words: 978, Lines: 30, Duration: 339ms][0m
+[2Kzh-cn.es-es.eu.lite.facebook.com [Status: 200, Size: 82810, Words: 760, Lines: 30, Duration: 342ms][0m
+[2Kwww.turkcelluygulamalar.com.0.facebook.com [Status: 200, Size: 91559, Words: 907, Lines: 30, Duration: 314ms][0m
+[2Khi-in.google.fbjs.facebook.com [Status: 200, Size: 88353, Words: 991, Lines: 30, Duration: 284ms][0m
+[2Kfr-fr.es-es.prod.facebook.com [Status: 200, Size: 82096, Words: 997, Lines: 30, Duration: 257ms][0m
+[2Kwww.es-es.youghaluniteda.f.c.facebook.com [Status: 200, Size: 91530, Words: 907, Lines: 30, Duration: 262ms][0m
+[2Kes-la.beta.facebook.com [Status: 200, Size: 81839, Words: 978, Lines: 30, Duration: 292ms][0m
+[2Kja-jp.ro-ro.fbjs.facebook.com [Status: 200, Size: 84647, Words: 715, Lines: 30, Duration: 247ms][0m
+[2Kit-it.pl-pl.es-es.roro.fbjs.facebook.com [Status: 200, Size: 82085, Words: 983, Lines: 30, Duration: 255ms][0m
+[2Kko-kr.com.0.facebook.com [Status: 200, Size: 83744, Words: 872, Lines: 30, Duration: 281ms][0m
+[2Kes-la.fbjs.facebook.com [Status: 200, Size: 81838, Words: 978, Lines: 30, Duration: 300ms][0m
+[2Kes-la.ro-ro.fbjs.facebook.com [Status: 200, Size: 82044, Words: 978, Lines: 30, Duration: 258ms][0m
+[2Kit-it.c.facebook.com    [Status: 200, Size: 81388, Words: 983, Lines: 30, Duration: 284ms][0m
+[2Kwww.en-gb.ro-ro.fbjs.facebook.com [Status: 200, Size: 91243, Words: 907, Lines: 30, Duration: 262ms][0m
+[2Kas-in.facebook.com      [Status: 200, Size: 88637, Words: 962, Lines: 30, Duration: 266ms][0m
+[2Kdevelopers.vi-vn.en-gb.fbjs.facebook.com [Status: 200, Size: 175725, Words: 6101, Lines: 91, Duration: 1795ms][0m
+[2Kar-ar.vi-vn.zer.o.lite.facebook.com [Status: 200, Size: 89569, Words: 1020, Lines: 30, Duration: 264ms][0m
+[2Kwww.inyour.facebook.com [Status: 200, Size: 90898, Words: 907, Lines: 30, Duration: 306ms][0m
+[2Kde-de.id-id.developers.prod.facebook.com [Status: 200, Size: 82945, Words: 904, Lines: 28, Duration: 321ms][0m
+[2Kzh-cn.hr-hr.google.fbjs.facebook.com [Status: 200, Size: 82969, Words: 760, Lines: 30, Duration: 283ms][0m
+[2Kit-it.vi-vn.en-gb.fbjs.facebook.com [Status: 200, Size: 81917, Words: 983, Lines: 30, Duration: 297ms][0m
+[2Kmobile.prod.facebook.com [Status: 200, Size: 15547, Words: 589, Lines: 2, Duration: 279ms][0m
+[2Kwww.www.c.facebook.com  [Status: 200, Size: 90763, Words: 907, Lines: 30, Duration: 299ms][0m
+[2Kes-la.th-th.prod.facebook.com [Status: 200, Size: 82045, Words: 978, Lines: 30, Duration: 387ms][0m
+[2Kpt-br.fr-fr.af-za.fbjs.facebook.com [Status: 200, Size: 82113, Words: 997, Lines: 30, Duration: 267ms][0m
+[2Kko-kr.new.facebook.com  [Status: 200, Size: 83674, Words: 872, Lines: 30, Duration: 256ms][0m
+[2Ksn-zw.facebook.com      [Status: 200, Size: 81024, Words: 905, Lines: 30, Duration: 259ms][0m
+[2Kwww.fr-fr.af-za.fbjs.facebook.com [Status: 200, Size: 91249, Words: 907, Lines: 30, Duration: 334ms][0m
+[2Kwww.ha.lite.facebook.com [Status: 200, Size: 90933, Words: 907, Lines: 30, Duration: 285ms][0m
+[2Kzh-tw.tr-tr.fbjs.facebook.com [Status: 200, Size: 82950, Words: 765, Lines: 30, Duration: 262ms][0m
+[2Kko-kr.es-es.f.b.c.facebook.com [Status: 200, Size: 83950, Words: 872, Lines: 30, Duration: 293ms][0m
+[2Kid-id.prod.facebook.com [Status: 200, Size: 81172, Words: 912, Lines: 30, Duration: 280ms][0m
+[2Kzh-cn.af-za.fbjs.facebook.com [Status: 200, Size: 82716, Words: 760, Lines: 30, Duration: 290ms][0m
+[2Kar-ar.it-it.en-gb.ro-ro.fbjs.facebook.com [Status: 200, Size: 89778, Words: 1020, Lines: 30, Duration: 252ms][0m
+[2Kit-it.sv-se.youghaluniteda.f.c.facebook.com [Status: 200, Size: 82189, Words: 983, Lines: 30, Duration: 259ms][0m
+[2Kar-ar.youghaluniteda.f.c.facebook.com [Status: 200, Size: 89637, Words: 1020, Lines: 30, Duration: 247ms][0m
+[2Kde-de.prod.facebook.com [Status: 200, Size: 81612, Words: 914, Lines: 30, Duration: 261ms][0m
+[2Kar-ar.nb-no.id-id.prod.facebook.com [Status: 200, Size: 89568, Words: 1020, Lines: 30, Duration: 268ms][0m
+[2Kzh-cn.id-id.fr-fr.fbjs.facebook.com [Status: 200, Size: 82918, Words: 760, Lines: 30, Duration: 252ms][0m
+[2Kit-it.ms-my.fbjs.facebook.com [Status: 200, Size: 81698, Words: 983, Lines: 30, Duration: 320ms][0m
+[2Kpt-br.ms-my.fbjs.facebook.com [Status: 200, Size: 81908, Words: 997, Lines: 30, Duration: 359ms][0m
+[2Kabout.facebook.com      [Status: 200, Size: 185104, Words: 3895, Lines: 64, Duration: 664ms][0m
+[2Kar-ar.id-id.developers.prod.facebook.com [Status: 200, Size: 90484, Words: 1010, Lines: 28, Duration: 323ms][0m
+[2Kit-it.connect.facebook.com [Status: 200, Size: 81604, Words: 983, Lines: 30, Duration: 303ms][0m
+[2Kit-it.sv-se.ro-ro.fbjs.facebook.com [Status: 200, Size: 81904, Words: 983, Lines: 30, Duration: 383ms][0m
+[2Kko-kr.pl-pl.es-es.prod.facebook.com [Status: 200, Size: 84125, Words: 872, Lines: 30, Duration: 253ms][0m
+[2Kde-de.developers.prod.facebook.com [Status: 200, Size: 82737, Words: 904, Lines: 28, Duration: 392ms][0m
+[2Kde-de.ar-ar.m.lite.facebook.com [Status: 200, Size: 81887, Words: 914, Lines: 30, Duration: 313ms][0m
+[2Kfr-fr.sv-se.es-es.prod.facebook.com [Status: 200, Size: 82299, Words: 997, Lines: 30, Duration: 295ms][0m
+[2Kja-jp.f1.fbjs.facebook.com [Status: 200, Size: 84546, Words: 715, Lines: 30, Duration: 310ms][0m
+[2Kfy-nl.de-de.prod.facebook.com [Status: 200, Size: 81558, Words: 921, Lines: 30, Duration: 301ms][0m
+[2Kit-it.tr-tr.ms-my.fbjs.facebook.com [Status: 200, Size: 81919, Words: 983, Lines: 30, Duration: 250ms][0m
+[2Kwww.ni-ni.m.c.facebook.com [Status: 200, Size: 91001, Words: 907, Lines: 30, Duration: 257ms][0m
+[2Kde-de.hr-hr.google.fbjs.facebook.com [Status: 200, Size: 82063, Words: 914, Lines: 30, Duration: 302ms][0m
+[2Kwww.te-in.it-it.register.lite.facebook.com [Status: 200, Size: 91562, Words: 907, Lines: 30, Duration: 391ms][0m
+[2Kit-it.zh-cn.af-za.fbjs.facebook.com [Status: 200, Size: 81910, Words: 983, Lines: 30, Duration: 344ms][0m
+[2Kbusiness.secure.facebook.com [Status: 200, Size: 158690, Words: 2776, Lines: 24, Duration: 514ms][0m
+[2Khi-in.te-in.developers.prod.facebook.com [Status: 200, Size: 89452, Words: 981, Lines: 28, Duration: 425ms][0m
+[2Ken-gb.ro-ro.fr-fr.fbjs.facebook.com [Status: 200, Size: 81902, Words: 944, Lines: 30, Duration: 244ms][0m
+[2Khi-in.es-es.youghaluniteda.f.c.facebook.com [Status: 200, Size: 88813, Words: 991, Lines: 30, Duration: 295ms][0m
+[2Kwww.m.lite.facebook.com [Status: 200, Size: 90893, Words: 907, Lines: 30, Duration: 278ms][0m
+[2Kmy-mm.facebook.com      [Status: 200, Size: 93510, Words: 856, Lines: 30, Duration: 295ms][0m
+[2Kes-la.vi-vn.en-gb.fbjs.facebook.com [Status: 200, Size: 82276, Words: 978, Lines: 30, Duration: 288ms][0m
+[2Kar-ar.f1.fbjs.facebook.com [Status: 200, Size: 89248, Words: 1020, Lines: 30, Duration: 245ms][0m
+[2Kde-de.c.facebook.com    [Status: 200, Size: 81505, Words: 914, Lines: 30, Duration: 256ms][0m
+[2Khi-in.hr-hr.google.fbjs.facebook.com [Status: 200, Size: 88565, Words: 991, Lines: 30, Duration: 333ms][0m
+[2Kar-ar.ru-ru.developers.prod.facebook.com [Status: 200, Size: 90490, Words: 1010, Lines: 28, Duration: 376ms][0m
+[2Kda-dk.fa-ir.es-es.prod.facebook.com [Status: 200, Size: 81890, Words: 917, Lines: 30, Duration: 273ms][0m
+[2Kpt-br.f.b.c.facebook.com [Status: 200, Size: 81737, Words: 997, Lines: 30, Duration: 265ms][0m
+[2Km.internmc.facebook.com [Status: 200, Size: 15541, Words: 589, Lines: 2, Duration: 321ms][0m
+[2Kbadge.beta.facebook.com [Status: 200, Size: 90345, Words: 907, Lines: 30, Duration: 250ms][0m
+[2Kwww.alex.c.facebook.com [Status: 200, Size: 90898, Words: 907, Lines: 30, Duration: 303ms][0m
+[2Kde-de.en-gb.de-de.fbjs.facebook.com [Status: 200, Size: 81880, Words: 914, Lines: 30, Duration: 298ms][0m
+[2Kde-de.zh-tw.tr-tr.fbjs.facebook.com [Status: 200, Size: 82035, Words: 914, Lines: 30, Duration: 258ms][0m
+[2Khi-in.ru-ru.m.fbjs.facebook.com [Status: 200, Size: 88394, Words: 991, Lines: 30, Duration: 397ms][0m
+[2Kupload-business.facebook.com [Status: 200, Size: 90805, Words: 917, Lines: 32, Duration: 255ms][0m
+[2Kzh-cn.ja-jp.es-es.c.facebook.com [Status: 200, Size: 82809, Words: 760, Lines: 30, Duration: 338ms][0m
+[2Kes-la.lite.facebook.com [Status: 200, Size: 81835, Words: 978, Lines: 30, Duration: 257ms][0m
+[2Knl-be.facebook.com      [Status: 200, Size: 81627, Words: 934, Lines: 30, Duration: 317ms][0m
+[2Kwww.pl-pl.pt-br.prod.facebook.com [Status: 200, Size: 91248, Words: 907, Lines: 30, Duration: 421ms][0m
+[2Kdevelopers.sv-se.es-es.prod.facebook.com [Status: 200, Size: 175731, Words: 6101, Lines: 91, Duration: 1896ms][0m
+[2Klv-lv.facebook.com      [Status: 200, Size: 81676, Words: 937, Lines: 30, Duration: 258ms][0m
+[2Kar-ar.es-es.f.b.c.facebook.com [Status: 200, Size: 89393, Words: 1020, Lines: 30, Duration: 303ms][0m
+[2Kar-ar.vi-vn.en-gb.fbjs.facebook.com [Status: 200, Size: 89565, Words: 1020, Lines: 30, Duration: 282ms][0m
+[2Kwww.vi-vn.lite.facebook.com [Status: 200, Size: 91034, Words: 907, Lines: 30, Duration: 340ms][0m
+[2Kwww.nb-no.prod.facebook.com [Status: 200, Size: 91035, Words: 907, Lines: 30, Duration: 285ms][0m
+[2Km.akbank.com.0.facebook.com [Status: 200, Size: 15570, Words: 589, Lines: 2, Duration: 283ms][0m
+[2Ken-gb.es-es.ww.lite.facebook.com [Status: 200, Size: 81808, Words: 944, Lines: 30, Duration: 243ms][0m
+[2Kde-de.google.fbjs.facebook.com [Status: 200, Size: 81854, Words: 914, Lines: 30, Duration: 295ms][0m
+[2Kar-ar.th-th.ro-ro.fbjs.facebook.com [Status: 200, Size: 89566, Words: 1020, Lines: 30, Duration: 291ms][0m
+[2Kfr-fr.ha.lite.facebook.com [Status: 200, Size: 81990, Words: 997, Lines: 30, Duration: 304ms][0m
+[2Kid-id.new.facebook.com  [Status: 200, Size: 81136, Words: 912, Lines: 30, Duration: 285ms][0m
+[2Kwww.ko-kr.developers.prod.facebook.com [Status: 200, Size: 92187, Words: 897, Lines: 28, Duration: 450ms][0m
+[2Kko-kr.da-dk.lite.facebook.com [Status: 200, Size: 83918, Words: 872, Lines: 30, Duration: 282ms][0m
+[2Kda-dk.facebook.com      [Status: 200, Size: 81307, Words: 917, Lines: 30, Duration: 290ms][0m
+[2Kes-la.pl-pl.developers.prod.facebook.com [Status: 200, Size: 83182, Words: 968, Lines: 28, Duration: 363ms][0m
+[2Kai.facebook.com         [Status: 200, Size: 201897, Words: 6423, Lines: 88, Duration: 3455ms][0m
+[2Kgu-in.facebook.com      [Status: 200, Size: 87566, Words: 964, Lines: 30, Duration: 301ms][0m
+[2Kmbasic.facebook.com     [Status: 200, Size: 15517, Words: 589, Lines: 2, Duration: 316ms][0m
+[2Kpt-br.prod.facebook.com [Status: 200, Size: 81700, Words: 997, Lines: 30, Duration: 304ms][0m
+[2Kzh-cn.es-es.c.facebook.com [Status: 200, Size: 82599, Words: 760, Lines: 30, Duration: 288ms][0m
+[2Kmg-mg.facebook.com      [Status: 200, Size: 81883, Words: 989, Lines: 30, Duration: 259ms][0m
+[2Kwww.conect.connect.facebook.com [Status: 200, Size: 91177, Words: 907, Lines: 30, Duration: 349ms][0m
+[2Khi-in.fr-fr.prod.facebook.com [Status: 200, Size: 88320, Words: 991, Lines: 30, Duration: 257ms][0m
+[2Kfr-ca.facebook.com      [Status: 200, Size: 82065, Words: 1011, Lines: 30, Duration: 263ms][0m
+[2Ksecure.alpha.facebook.com [Status: 200, Size: 90401, Words: 907, Lines: 30, Duration: 344ms][0m
+[2Kde-de.ro-ro.fbjs.facebook.com [Status: 200, Size: 81817, Words: 914, Lines: 30, Duration: 308ms][0m
+[2Ksecure.dns.facebook.com [Status: 200, Size: 90332, Words: 907, Lines: 30, Duration: 298ms][0m
+[2Kwww.es-es.prod.facebook.com [Status: 200, Size: 91035, Words: 907, Lines: 30, Duration: 296ms][0m
+[2Kpt-pt.fbjs.facebook.com [Status: 200, Size: 81800, Words: 1004, Lines: 30, Duration: 287ms][0m
+[2Ktl-ph.he-il.fbjs.facebook.com [Status: 200, Size: 82005, Words: 1057, Lines: 30, Duration: 381ms][0m
+[2Kmobile.dns.facebook.com [Status: 200, Size: 15541, Words: 589, Lines: 2, Duration: 277ms][0m
+[2Kwww.a.c.c.facebook.com  [Status: 200, Size: 91427, Words: 907, Lines: 30, Duration: 292ms][0m
+[2Kfr-fr.fr-ca.ms-my.fbjs.facebook.com [Status: 200, Size: 82307, Words: 997, Lines: 30, Duration: 255ms][0m
+[2Kdevelopers.f.b.c.facebook.com [Status: 200, Size: 174114, Words: 6078, Lines: 86, Duration: 1955ms][0m
+[2Kpt-br.fbjs.facebook.com [Status: 200, Size: 81700, Words: 997, Lines: 30, Duration: 259ms][0m
+[2Kzh-cn.ko-kr.m.lite.facebook.com [Status: 200, Size: 82778, Words: 760, Lines: 30, Duration: 247ms][0m
+[2Kja-jp.google.fbjs.facebook.com [Status: 200, Size: 84689, Words: 715, Lines: 30, Duration: 363ms][0m
+[2Kar-ar.fr-ca.ms-my.fbjs.facebook.com [Status: 200, Size: 89564, Words: 1020, Lines: 30, Duration: 283ms][0m
+[2Kzh-cn.nb-no.id-id.prod.facebook.com [Status: 200, Size: 82914, Words: 760, Lines: 30, Duration: 249ms][0m
+[2Ken-gb.connect.facebook.com [Status: 200, Size: 81584, Words: 944, Lines: 30, Duration: 283ms][0m
+[2Kzh-cn.vi-vn.zer.o.lite.facebook.com [Status: 200, Size: 82915, Words: 760, Lines: 30, Duration: 280ms][0m
+[2Kpt-br.register.lite.facebook.com [Status: 200, Size: 82015, Words: 997, Lines: 30, Duration: 299ms][0m
+[2Ksq-al.fbjs.facebook.com [Status: 200, Size: 82063, Words: 986, Lines: 30, Duration: 294ms][0m
+[2Kde-de.ms-my.lite.lite.facebook.com [Status: 200, Size: 81994, Words: 914, Lines: 30, Duration: 310ms][0m
+[2Kja-ks.ja-jp.m.lite.facebook.com [Status: 200, Size: 85328, Words: 717, Lines: 30, Duration: 314ms][0m
+[2Kwww.nl-nl.fr-fr.prod.facebook.com [Status: 200, Size: 91245, Words: 907, Lines: 30, Duration: 296ms][0m
+[2Kwww.jenkins.presto.data.facebook.com [Status: 200, Size: 91349, Words: 907, Lines: 30, Duration: 389ms][0m
+[2Kwww.google.fbjs.facebook.com [Status: 200, Size: 91090, Words: 907, Lines: 30, Duration: 302ms][0m
+[2Kzh-cn.en-gb.prod.facebook.com [Status: 200, Size: 82710, Words: 760, Lines: 30, Duration: 255ms][0m
+[2Khi-in.alpha.facebook.com [Status: 200, Size: 88146, Words: 991, Lines: 30, Duration: 375ms][0m
+[2Kes-la.fr-ca.ms-my.fbjs.facebook.com [Status: 200, Size: 82267, Words: 978, Lines: 30, Duration: 299ms][0m
+[2Kpt-br.it-it.en-gb.ro-ro.fbjs.facebook.com [Status: 200, Size: 82332, Words: 997, Lines: 30, Duration: 268ms][0m
+[2Ktr-tr.aa.connect.facebook.com [Status: 200, Size: 84721, Words: 917, Lines: 30, Duration: 300ms][0m
+[2Kwww.ms-my.pt-br.lite.lite.facebook.com [Status: 200, Size: 91435, Words: 907, Lines: 30, Duration: 331ms][0m
+[2Kour.intern.facebook.com [Status: 200, Size: 89556, Words: 907, Lines: 30, Duration: 432ms][0m
+[2Kmtouch.facebook.com     [Status: 200, Size: 65345, Words: 1015, Lines: 33, Duration: 340ms][0m
+[2Kpt-br.new.facebook.com  [Status: 200, Size: 81660, Words: 997, Lines: 30, Duration: 306ms][0m
+[2Kca-es.facebook.com      [Status: 200, Size: 81894, Words: 1000, Lines: 30, Duration: 317ms][0m
+[2Kde-de.youghaluniteda.f.c.facebook.com [Status: 200, Size: 82099, Words: 914, Lines: 30, Duration: 274ms][0m
+[2Km-partners.facebook.com [Status: 200, Size: 15546, Words: 589, Lines: 2, Duration: 315ms][0m
+[2Kfr-fr.sv-se.ro-ro.fbjs.facebook.com [Status: 200, Size: 82301, Words: 997, Lines: 30, Duration: 278ms][0m
+[2Kde-de.f.connect.facebook.com [Status: 200, Size: 81781, Words: 914, Lines: 30, Duration: 261ms][0m
+[2Kdevelopers.vi-vn.lite.facebook.com [Status: 200, Size: 175394, Words: 6101, Lines: 91, Duration: 1824ms][0m
+[2Kcs-cz.new.facebook.com  [Status: 200, Size: 82566, Words: 983, Lines: 30, Duration: 491ms][0m
+[2Khi-in.developer.prod.facebook.com [Status: 200, Size: 88459, Words: 991, Lines: 30, Duration: 263ms][0m
+[2Kar-ar.fr-ca.es-la.apps.fbjs.facebook.com [Status: 200, Size: 89739, Words: 1020, Lines: 30, Duration: 244ms][0m
+[2Kar-ar.ar-ar.en-gb.fbjs.facebook.com [Status: 200, Size: 89421, Words: 1020, Lines: 30, Duration: 287ms][0m
+[2Kar-ar.es-la.vi-vn.lite.facebook.com [Status: 200, Size: 89565, Words: 1020, Lines: 30, Duration: 290ms][0m
+[2Kja-jp.da-dk.c.facebook.com [Status: 200, Size: 84548, Words: 715, Lines: 30, Duration: 240ms][0m
+[2Khi-in.ru-ru.es-es.c.facebook.com [Status: 200, Size: 88425, Words: 991, Lines: 30, Duration: 289ms][0m
+[2Kte-in.developers.prod.facebook.com [Status: 200, Size: 91041, Words: 920, Lines: 28, Duration: 402ms][0m
+[2Kpt-br.id-id.developers.prod.facebook.com [Status: 200, Size: 83042, Words: 987, Lines: 28, Duration: 610ms][0m
+[2Kpt-br.beta.facebook.com [Status: 200, Size: 81695, Words: 997, Lines: 30, Duration: 305ms][0m
+[2Kja-jp.zh-tw.tr-tr.fbjs.facebook.com [Status: 200, Size: 84865, Words: 715, Lines: 30, Duration: 287ms][0m
+[2Kpt-br.id-id.prod.facebook.com [Status: 200, Size: 81906, Words: 997, Lines: 30, Duration: 309ms][0m
+[2Kzh-cn.fr-ca.ms-my.fbjs.facebook.com [Status: 200, Size: 82918, Words: 760, Lines: 30, Duration: 248ms][0m
+[2Kwww.connect.connect.connect.facebook.com [Status: 200, Size: 91499, Words: 907, Lines: 30, Duration: 335ms][0m
+[2Kdevelopers.m.lite.facebook.com [Status: 200, Size: 174158, Words: 6078, Lines: 86, Duration: 1812ms][0m
+[2Knl-nl.facebook.com      [Status: 200, Size: 81302, Words: 921, Lines: 30, Duration: 293ms][0m
+[2Kpt-br.es-es.c.facebook.com [Status: 200, Size: 81802, Words: 997, Lines: 30, Duration: 273ms][0m
+[2Kde-de.af-za.fbjs.facebook.com [Status: 200, Size: 81818, Words: 914, Lines: 30, Duration: 308ms][0m
+[2Kzh-cn.new.facebook.com  [Status: 200, Size: 82463, Words: 760, Lines: 30, Duration: 256ms][0m
+[2Kwww.it-it.pt-pt.fbjs.facebook.com [Status: 200, Size: 91249, Words: 907, Lines: 30, Duration: 459ms][0m
+[2Kit-it.ha.lite.facebook.com [Status: 200, Size: 81592, Words: 983, Lines: 30, Duration: 344ms][0m
+[2Kwww.pt-br.de-de.prod.facebook.com [Status: 200, Size: 91243, Words: 907, Lines: 30, Duration: 294ms][0m
+[2Kes-es.f.b.c.facebook.com [Status: 200, Size: 81868, Words: 986, Lines: 30, Duration: 288ms][0m
+[2Khi-in.en-gb.prod.facebook.com [Status: 200, Size: 88318, Words: 991, Lines: 30, Duration: 303ms][0m
+[2Kpt-br.nb-no.id-id.prod.facebook.com [Status: 200, Size: 82118, Words: 997, Lines: 30, Duration: 273ms][0m
+[2Kes-la.fr-fr.af-za.fbjs.facebook.com [Status: 200, Size: 82253, Words: 978, Lines: 30, Duration: 417ms][0m
+[2Kpt-br.af-za.fbjs.facebook.com [Status: 200, Size: 81917, Words: 997, Lines: 30, Duration: 300ms][0m
+[2Kbr-fr.facebook.com      [Status: 200, Size: 82065, Words: 1080, Lines: 30, Duration: 314ms][0m
+[2Kes-la.de-de.ms-my.fbjs.facebook.com [Status: 200, Size: 82255, Words: 978, Lines: 30, Duration: 283ms][0m
+[2Kvupload-edge.facebook.com [Status: 200, Size: 90354, Words: 907, Lines: 30, Duration: 290ms][0m
+[2Khelp.fbjs.facebook.com  [Status: 200, Size: 90308, Words: 907, Lines: 30, Duration: 308ms][0m
+[2Ksk-sk.facebook.com      [Status: 200, Size: 82289, Words: 981, Lines: 30, Duration: 298ms][0m
+[2Kpa-in.facebook.com      [Status: 200, Size: 87443, Words: 997, Lines: 30, Duration: 269ms][0m
+[2Kit-it.id-id.developers.prod.facebook.com [Status: 200, Size: 82834, Words: 973, Lines: 28, Duration: 460ms][0m
+[2Kzh-cn.pt-br.pt-pt.ro-ro.fbjs.facebook.com [Status: 200, Size: 83120, Words: 760, Lines: 30, Duration: 292ms][0m
+[2Kwww.ror-ro.fbjs.facebook.com [Status: 200, Size: 91075, Words: 907, Lines: 30, Duration: 587ms][0m
+[2Kde-de.ms-my.fbjs.facebook.com [Status: 200, Size: 81820, Words: 914, Lines: 30, Duration: 304ms][0m
+[2Kdevelopers.intern.facebook.com [Status: 200, Size: 174101, Words: 6078, Lines: 86, Duration: 2018ms][0m
+[2Ksq-al.facebook.com      [Status: 200, Size: 81893, Words: 986, Lines: 30, Duration: 342ms][0m
+[2Kja-jp.fr-ca.ms-my.fbjs.facebook.com [Status: 200, Size: 84859, Words: 715, Lines: 30, Duration: 241ms][0m
+[2Kde-de.developer.prod.facebook.com [Status: 200, Size: 81959, Words: 914, Lines: 30, Duration: 300ms][0m
+[2Kwww.fo-fo.ro.connect.facebook.com [Status: 200, Size: 91241, Words: 907, Lines: 30, Duration: 377ms][0m
+[2Kwww.dg.connect.facebook.com [Status: 200, Size: 91037, Words: 907, Lines: 30, Duration: 371ms][0m
+[2Kes-la.ru-ru.es-es.c.facebook.com [Status: 200, Size: 82157, Words: 978, Lines: 30, Duration: 358ms][0m
+[2Kzh-cn.fr-ca.de-de.ms-my.fbjs.facebook.com [Status: 200, Size: 83121, Words: 760, Lines: 30, Duration: 287ms][0m
+[2Kco-fr.facebook.com      [Status: 200, Size: 81704, Words: 1000, Lines: 30, Duration: 282ms][0m
+[2Keducation.facebook.com  [Status: 200, Size: 250273, Words: 3485, Lines: 628, Duration: 1665ms][0m
+[2Kar-ar.c.facebook.com    [Status: 200, Size: 89051, Words: 1020, Lines: 30, Duration: 287ms][0m
+[2Kar-ar.register.lite.facebook.com [Status: 200, Size: 89460, Words: 1020, Lines: 30, Duration: 251ms][0m
+[2Kdataforgood.facebook.com [Status: 200, Size: 87138, Words: 1009, Lines: 64, Duration: 2491ms][0m
+[2Kdevelopers.internmc.facebook.com [Status: 200, Size: 174181, Words: 6078, Lines: 86, Duration: 1878ms][0m
+[2Kgl-es.facebook.com      [Status: 200, Size: 81341, Words: 963, Lines: 30, Duration: 302ms][0m
+[2Ksecure.internmcr.facebook.com [Status: 200, Size: 90536, Words: 907, Lines: 30, Duration: 258ms][0m
+[2Kvupload.facebook.com    [Status: 200, Size: 90216, Words: 907, Lines: 30, Duration: 271ms][0m
+[2Kjv-id.facebook.com      [Status: 200, Size: 81304, Words: 898, Lines: 30, Duration: 404ms][0m
+[2Kes-la.id-id.developers.prod.facebook.com [Status: 200, Size: 83176, Words: 968, Lines: 28, Duration: 405ms][0m
+[2Kht-ht.facebook.com      [Status: 200, Size: 81034, Words: 942, Lines: 30, Duration: 397ms][0m
+[2Kwww.bankasya.0.facebook.com [Status: 200, Size: 91038, Words: 907, Lines: 30, Duration: 332ms][0m
+[2Kfr-fr.new.facebook.com  [Status: 200, Size: 81843, Words: 997, Lines: 30, Duration: 372ms][0m
+[2Kwww.es-la.pt-br.fbjs.facebook.com [Status: 200, Size: 91256, Words: 907, Lines: 30, Duration: 879ms][0m
+[2Kzh-cn.register.lite.facebook.com [Status: 200, Size: 82825, Words: 760, Lines: 30, Duration: 443ms][0m
+[2Kx.facebook.com          [Status: 200, Size: 65300, Words: 1015, Lines: 33, Duration: 263ms][0m
+[2Kko-kr.tr-tr.es-la.prod.facebook.com [Status: 200, Size: 84122, Words: 872, Lines: 30, Duration: 316ms][0m
+[2Kzh-cn.ru-ru.es-es.c.facebook.com [Status: 200, Size: 82807, Words: 760, Lines: 30, Duration: 295ms][0m
+[2Kzh-cn.en-gb.fbjs.facebook.com [Status: 200, Size: 82708, Words: 760, Lines: 30, Duration: 362ms][0m
+[2Kar-ar.ru-ru.es-es.c.facebook.com [Status: 200, Size: 89458, Words: 1020, Lines: 30, Duration: 422ms][0m
+[2Kps-af.facebook.com      [Status: 200, Size: 86527, Words: 1014, Lines: 30, Duration: 299ms][0m
+[2Kwww.log.in.lite.facebook.com [Status: 200, Size: 91059, Words: 907, Lines: 30, Duration: 295ms][0m
+[2Khi-in.es-la.prod.facebook.com [Status: 200, Size: 88333, Words: 991, Lines: 30, Duration: 283ms][0m
+[2Knb-no.id-id.prod.facebook.com [Status: 200, Size: 81693, Words: 929, Lines: 30, Duration: 273ms][0m
+[2Kes-la.ru-ru.m.fbjs.facebook.com [Status: 200, Size: 82112, Words: 978, Lines: 30, Duration: 284ms][0m
+[2Kdevelopers.ak.new.facebook.com [Status: 200, Size: 174160, Words: 6078, Lines: 86, Duration: 1801ms][0m
+[2Kzh-cn.sv-se.es-es.prod.facebook.com [Status: 200, Size: 82914, Words: 760, Lines: 30, Duration: 284ms][0m
+[2Kfr-fr.vi-vn.lite.facebook.com [Status: 200, Size: 82094, Words: 997, Lines: 30, Duration: 260ms][0m
+[2Kko-kr.id-id.developers.prod.facebook.com [Status: 200, Size: 85047, Words: 862, Lines: 28, Duration: 399ms][0m
+[2Kid-id.da-dk.lite.facebook.com [Status: 200, Size: 81373, Words: 912, Lines: 30, Duration: 388ms][0m
+[2Kde-de.vi-vn.en-gb.fbjs.facebook.com [Status: 200, Size: 82026, Words: 914, Lines: 30, Duration: 323ms][0m
+[2Kde-de.m.prod.facebook.com [Status: 200, Size: 81676, Words: 914, Lines: 30, Duration: 261ms][0m
+[2Khi-in.m.lite.facebook.com [Status: 200, Size: 88180, Words: 991, Lines: 30, Duration: 245ms][0m
+[2Kwww.ru-ru.prod.facebook.com [Status: 200, Size: 91033, Words: 907, Lines: 30, Duration: 295ms][0m
+[2Kwww.symsrv.vip.facebook.com [Status: 200, Size: 91041, Words: 907, Lines: 30, Duration: 318ms][0m
+[2Kfr-fr.sv-se.youghaluniteda.f.c.facebook.com [Status: 200, Size: 82579, Words: 997, Lines: 30, Duration: 267ms][0m
+[2Kit-it.en-gb.prod.facebook.com [Status: 200, Size: 81708, Words: 983, Lines: 30, Duration: 262ms][0m
+[2Kit-it.ru-ru.prod.facebook.com [Status: 200, Size: 81708, Words: 983, Lines: 30, Duration: 290ms][0m
+[2Kar-ar.ru-ru.m.fbjs.facebook.com [Status: 200, Size: 89432, Words: 1020, Lines: 30, Duration: 289ms][0m
+[2Kpt-br.nb-no.prod.facebook.com [Status: 200, Size: 81907, Words: 997, Lines: 30, Duration: 301ms][0m
+[2Khi-in.ms-my.fbjs.facebook.com [Status: 200, Size: 88315, Words: 991, Lines: 30, Duration: 294ms][0m
+[2Khi-in.beta.facebook.com [Status: 200, Size: 88118, Words: 991, Lines: 30, Duration: 260ms][0m
+[2Kwww.lite.lite.facebook.com [Status: 200, Size: 91003, Words: 907, Lines: 30, Duration: 248ms][0m
+[2Kadmin.dns.facebook.com  [Status: 200, Size: 90302, Words: 907, Lines: 30, Duration: 305ms][0m
+[2Kar-ar.fr-ca.de-de.ms-my.fbjs.facebook.com [Status: 200, Size: 89781, Words: 1020, Lines: 30, Duration: 283ms][0m
+[2Kdevelopers.f1.fbjs.facebook.com [Status: 200, Size: 174245, Words: 6078, Lines: 86, Duration: 1804ms][0m
+[2Kes-la.tr-tr.es-la.prod.facebook.com [Status: 200, Size: 82105, Words: 978, Lines: 30, Duration: 249ms][0m
+[2Km.0.facebook.com        [Status: 200, Size: 15499, Words: 589, Lines: 2, Duration: 283ms][0m
+[2Kit-it.cs-cz.prod.facebook.com [Status: 200, Size: 81697, Words: 983, Lines: 30, Duration: 302ms][0m
+[2Kko-kr.zer.o.lite.facebook.com [Status: 200, Size: 83917, Words: 872, Lines: 30, Duration: 367ms][0m
+[2Kth-th.facebook.com      [Status: 200, Size: 88425, Words: 762, Lines: 30, Duration: 284ms][0m
+[2Kdevelopers.ar-ar.m.lite.facebook.com [Status: 200, Size: 175488, Words: 6101, Lines: 91, Duration: 1713ms][0m
+[2Kko-kr.lm.prod.facebook.com [Status: 200, Size: 83811, Words: 872, Lines: 30, Duration: 282ms][0m
+[2Kwww.tr-tr.prod.facebook.com [Status: 200, Size: 91058, Words: 907, Lines: 30, Duration: 260ms][0m
+[2Ken-gb.facebook.com      [Status: 200, Size: 81307, Words: 944, Lines: 30, Duration: 287ms][0m
+[2Km.developers.prod.facebook.com [Status: 200, Size: 15588, Words: 589, Lines: 2, Duration: 235ms][0m
+[2Kit-it.tr-tr.es-la.prod.facebook.com [Status: 200, Size: 81925, Words: 983, Lines: 30, Duration: 397ms][0m
+[2Kde-de.de-de.ms-my.fbjs.facebook.com [Status: 200, Size: 81872, Words: 914, Lines: 30, Duration: 512ms][0m
+[2Kja-jp.de-de.ms-my.fbjs.facebook.com [Status: 200, Size: 84858, Words: 715, Lines: 30, Duration: 291ms][0m
+[2Kzh-cn.hi-in.developers.prod.facebook.com [Status: 200, Size: 83837, Words: 750, Lines: 28, Duration: 248ms][0m
+[2Khi-in.fr-ca.ms-my.fbjs.facebook.com [Status: 200, Size: 91871, Words: 991, Lines: 30, Duration: 253ms][0m
+[2Kpt-br.es-es.es-es.fbjs.facebook.com [Status: 200, Size: 82115, Words: 997, Lines: 30, Duration: 296ms][0m
+[2Kwww.pt-br.developers.prod.facebook.com [Status: 200, Size: 92181, Words: 897, Lines: 28, Duration: 378ms][0m
+[2Kar-ar.fr-fr.es-es.prod.facebook.com [Status: 200, Size: 89565, Words: 1020, Lines: 30, Duration: 315ms][0m
+[2Kes-la.youghaluniteda.f.c.facebook.com [Status: 200, Size: 82323, Words: 978, Lines: 30, Duration: 251ms][0m
+[2Kte-in.facebook.com      [Status: 200, Size: 89735, Words: 930, Lines: 30, Duration: 270ms][0m
+[2Kne-np.facebook.com      [Status: 200, Size: 89396, Words: 957, Lines: 30, Duration: 304ms][0m
+[2Km.beta.facebook.com     [Status: 200, Size: 15522, Words: 589, Lines: 2, Duration: 290ms][0m
+[2Kfr-fr.es-la.prod.facebook.com [Status: 200, Size: 82089, Words: 997, Lines: 30, Duration: 255ms][0m
+[2Kde-de.nb-no.id-id.prod.facebook.com [Status: 200, Size: 82033, Words: 914, Lines: 30, Duration: 303ms][0m
+[2Kpt-br.facebook.com      [Status: 200, Size: 81522, Words: 997, Lines: 30, Duration: 298ms][0m
+[2Kko-kr.ru-ru.m.fbjs.facebook.com [Status: 200, Size: 83986, Words: 872, Lines: 30, Duration: 243ms][0m
+[2Kja-jp.ru-ru.es-es.c.facebook.com [Status: 200, Size: 84756, Words: 715, Lines: 30, Duration: 251ms][0m
+[2Kwww.c.c.facebook.com    [Status: 200, Size: 90810, Words: 907, Lines: 30, Duration: 273ms][0m
+[2Kes-la.es-la.vi-vn.lite.facebook.com [Status: 200, Size: 82104, Words: 978, Lines: 30, Duration: 320ms][0m
+[2Kwww.sv-se.youghaluniteda.f.c.facebook.com [Status: 200, Size: 91520, Words: 907, Lines: 30, Duration: 462ms][0m
+[2Ktr-tr.ct.connect.facebook.com [Status: 200, Size: 84723, Words: 917, Lines: 30, Duration: 255ms][0m
+[2Kit-it.nb-no.prod.facebook.com [Status: 200, Size: 81712, Words: 983, Lines: 30, Duration: 304ms][0m
+[2Kfr-fr.nb-no.id-id.prod.facebook.com [Status: 200, Size: 82303, Words: 997, Lines: 30, Duration: 258ms][0m
+[2Kru-ru.inyour.facebook.com [Status: 200, Size: 89343, Words: 982, Lines: 30, Duration: 299ms][0m
+[2Kar-ar.fr-fr.af-za.fbjs.facebook.com [Status: 200, Size: 89566, Words: 1020, Lines: 30, Duration: 269ms][0m
+[2Kpt-pt.fi-fi.ro-ro.c.facebook.com [Status: 200, Size: 82117, Words: 1004, Lines: 30, Duration: 307ms][0m
+[2Kko-kr.developer.prod.facebook.com [Status: 200, Size: 84057, Words: 872, Lines: 30, Duration: 239ms][0m
+[2Ktl-ph.fbjs.facebook.com [Status: 200, Size: 81797, Words: 1057, Lines: 30, Duration: 297ms][0m
+[2Kt.facebook.com          [Status: 200, Size: 90052, Words: 907, Lines: 30, Duration: 283ms][0m
+[2Kes-la.id-id.tr-tr.prod.facebook.com [Status: 200, Size: 82253, Words: 978, Lines: 30, Duration: 316ms][0m
+[2Kwww.dns.facebook.com    [Status: 200, Size: 90794, Words: 907, Lines: 30, Duration: 334ms][0m
+[2Kko-kr.ror-ro.fbjs.facebook.com [Status: 200, Size: 83951, Words: 872, Lines: 30, Duration: 301ms][0m
+[2Km.fbjs.facebook.com     [Status: 200, Size: 15517, Words: 589, Lines: 2, Duration: 282ms][0m
+[2Kwww.es-la.fbjs.facebook.com [Status: 200, Size: 91037, Words: 907, Lines: 30, Duration: 297ms][0m
+[2Ksk-sk.es-es.fr-fr.prod.facebook.com [Status: 200, Size: 82888, Words: 981, Lines: 30, Duration: 354ms][0m
+[2Ksk-sk.da-dk.c.facebook.com [Status: 200, Size: 82574, Words: 981, Lines: 30, Duration: 254ms][0m
+[2Kja-jp.es-es.f.b.c.facebook.com [Status: 200, Size: 84682, Words: 715, Lines: 30, Duration: 274ms][0m
+[2Kfa-ir.facebook.com      [Status: 200, Size: 87326, Words: 975, Lines: 30, Duration: 298ms][0m
+[2Kzh-tw.facebook.com      [Status: 200, Size: 85909, Words: 765, Lines: 30, Duration: 317ms][0m
+[2Kzh-cn.sv-se.ro-ro.fbjs.facebook.com [Status: 200, Size: 82918, Words: 760, Lines: 30, Duration: 297ms][0m
+[2Khi-in.vi-vn.lite.facebook.com [Status: 200, Size: 88330, Words: 991, Lines: 30, Duration: 258ms][0m
+[2Ken-gb.es-la.th-th.ro-ro.fbjs.facebook.com [Status: 200, Size: 82111, Words: 944, Lines: 30, Duration: 246ms][0m
+[2Kes-la.m.fbjs.facebook.com [Status: 200, Size: 81911, Words: 978, Lines: 30, Duration: 249ms][0m
+[2Kfr-fr.prod.facebook.com [Status: 200, Size: 81882, Words: 997, Lines: 30, Duration: 252ms][0m
+[2Kwww.pl-pl.es-es.prod.facebook.com [Status: 200, Size: 91247, Words: 907, Lines: 30, Duration: 299ms][0m
+[2Kko-kr.vi-vn.zer.o.lite.facebook.com [Status: 200, Size: 84130, Words: 872, Lines: 30, Duration: 260ms][0m
+[2Khi-in.id-id.es-es.prod.facebook.com [Status: 200, Size: 88528, Words: 991, Lines: 30, Duration: 254ms][0m
+[2Kff-ng.facebook.com      [Status: 200, Size: 81177, Words: 933, Lines: 30, Duration: 272ms][0m
+[2Kar-ar.es-es.c.facebook.com [Status: 200, Size: 89260, Words: 1020, Lines: 30, Duration: 312ms][0m
+[2Kaf-za.prod.facebook.com [Status: 200, Size: 81334, Words: 939, Lines: 30, Duration: 307ms][0m
+[2Kit-it.da-dk.lite.facebook.com [Status: 200, Size: 81702, Words: 983, Lines: 30, Duration: 294ms][0m
+[2Khi-in.ro-ro.fbjs.facebook.com [Status: 200, Size: 88326, Words: 991, Lines: 30, Duration: 249ms][0m
+[2Kwww.cs-cz.prod.facebook.com [Status: 200, Size: 91029, Words: 907, Lines: 30, Duration: 327ms][0m
+[2Kzh-cn.vi-vn.lite.facebook.com [Status: 200, Size: 82711, Words: 760, Lines: 30, Duration: 245ms][0m
+[2Kpl-pl.nb-no.id-id.prod.facebook.com [Status: 200, Size: 82495, Words: 979, Lines: 30, Duration: 355ms][0m
+[2Kwww.pt-br.c.facebook.com [Status: 200, Size: 90928, Words: 907, Lines: 30, Duration: 298ms][0m
+[2Kar-ar.prod.facebook.com [Status: 200, Size: 89148, Words: 1020, Lines: 30, Duration: 366ms][0m
+[2Kid-id.nb-no.id-id.prod.facebook.com [Status: 200, Size: 81443, Words: 912, Lines: 30, Duration: 246ms][0m
+[2Kko-kr.fr-fr.af-za.fbjs.facebook.com [Status: 200, Size: 84130, Words: 872, Lines: 30, Duration: 286ms][0m
+[2Khu-hu.fr-fr.ro-ro.fbjs.facebook.com [Status: 200, Size: 82909, Words: 907, Lines: 30, Duration: 302ms][0m
+[2Kwww.pl-pl.developers.prod.facebook.com [Status: 200, Size: 92173, Words: 897, Lines: 28, Duration: 523ms][0m
+[2Kzh-cn.id-id.developers.prod.facebook.com [Status: 200, Size: 83843, Words: 750, Lines: 28, Duration: 408ms][0m
+[2Kwww.es-es.developers.prod.facebook.com [Status: 200, Size: 92180, Words: 897, Lines: 28, Duration: 429ms][0m
+[2Khi-in.es-es.f.b.c.facebook.com [Status: 200, Size: 88353, Words: 991, Lines: 30, Duration: 383ms][0m
+[2Kwww.pl-pl.ru-ru.pl-pl.lite.facebook.com [Status: 200, Size: 91470, Words: 907, Lines: 30, Duration: 262ms][0m
+[2Km.c.facebook.com        [Status: 200, Size: 15499, Words: 589, Lines: 2, Duration: 284ms][0m
+[2Kzh-cn.f1.fbjs.facebook.com [Status: 200, Size: 82599, Words: 760, Lines: 30, Duration: 253ms][0m
+[2Kja-jp.it-it.fr-fr.ro-ro.fbjs.facebook.com [Status: 200, Size: 85070, Words: 715, Lines: 30, Duration: 289ms][0m
+[2Kar-ar.ar-ar.prod.facebook.com [Status: 200, Size: 89209, Words: 1020, Lines: 30, Duration: 333ms][0m
+[2Kdevelopers.ms-my.fbjs.facebook.com [Status: 200, Size: 175383, Words: 6101, Lines: 91, Duration: 1856ms][0m
+[2Kfr-fr.beta.facebook.com [Status: 200, Size: 81782, Words: 991, Lines: 30, Duration: 258ms][0m
+[2Kwww.vi-vn.zer.o.lite.facebook.com [Status: 200, Size: 91245, Words: 907, Lines: 30, Duration: 292ms][0m
+[2Kzh-hk.fbjs.facebook.com [Status: 200, Size: 82735, Words: 763, Lines: 30, Duration: 247ms][0m
+[2Kes-la.vi-vn.lite.facebook.com [Status: 200, Size: 82048, Words: 978, Lines: 30, Duration: 293ms][0m
+[2Kaz-az.facebook.com      [Status: 200, Size: 81887, Words: 921, Lines: 30, Duration: 301ms][0m
+[2Kde-de.es-la.prod.facebook.com [Status: 200, Size: 81817, Words: 914, Lines: 30, Duration: 441ms][0m
+[2Kwww.fr-ca.zh-tw.tr-tr.fbjs.facebook.com [Status: 200, Size: 91460, Words: 907, Lines: 30, Duration: 303ms][0m
+[2Kdevelopers.c10r.facebook.com [Status: 200, Size: 174049, Words: 6078, Lines: 86, Duration: 1745ms][0m
+[2Kfr-fr.ru-ru.es-es.c.facebook.com [Status: 200, Size: 82192, Words: 997, Lines: 30, Duration: 304ms][0m
+[2Km.axisworld.co.id.0.facebook.com [Status: 200, Size: 15600, Words: 589, Lines: 2, Duration: 275ms][0m
+[2Kzh-cn.developer.prod.facebook.com [Status: 200, Size: 82845, Words: 760, Lines: 30, Duration: 282ms][0m
+[2Khr-hr.fbjs.facebook.com [Status: 200, Size: 81886, Words: 994, Lines: 30, Duration: 278ms][0m
+[2Ktl-ph.facebook.com      [Status: 200, Size: 81621, Words: 1057, Lines: 30, Duration: 241ms][0m
+[2Kpt-br.zer.o.lite.facebook.com [Status: 200, Size: 81908, Words: 997, Lines: 30, Duration: 294ms][0m
+[2Kit-it.m.fbjs.facebook.com [Status: 200, Size: 81563, Words: 983, Lines: 30, Duration: 280ms][0m
+[2Kja-jp.id-id.developers.prod.facebook.com [Status: 200, Size: 85778, Words: 705, Lines: 28, Duration: 544ms][0m
+[2Kpt-br.ha.lite.facebook.com [Status: 200, Size: 81808, Words: 997, Lines: 30, Duration: 294ms][0m
+[2Kbg-bg.th-th.wwwwww.lite.facebook.com [Status: 200, Size: 90366, Words: 992, Lines: 30, Duration: 263ms][0m
+[2Khi-in.m.fbjs.facebook.com [Status: 200, Size: 88183, Words: 991, Lines: 30, Duration: 263ms][0m
+[2Kes-la.nb-no.prod.facebook.com [Status: 200, Size: 82042, Words: 978, Lines: 30, Duration: 449ms][0m
+[2Kvi-vn.zer.o.lite.facebook.com [Status: 200, Size: 83330, Words: 1067, Lines: 30, Duration: 251ms][0m
+[2Kzh-tw.en-gb.ro.fbjs.facebook.com [Status: 200, Size: 83049, Words: 765, Lines: 30, Duration: 316ms][0m
+[2Kupload.dns.facebook.com [Status: 200, Size: 90327, Words: 907, Lines: 30, Duration: 259ms][0m
+[2Kde-de.m.c.facebook.com  [Status: 200, Size: 81578, Words: 914, Lines: 30, Duration: 318ms][0m
+[2Kar-ar.es-la.bs-ba.developers.prod.facebook.com [Status: 200, Size: 90692, Words: 1010, Lines: 28, Duration: 602ms][0m
+[2Kportal.facebook.com     [Status: 200, Size: 534188, Words: 11030, Lines: 105, Duration: 1952ms][0m
+[2Kz-m-www.facebook.com    [Status: 200, Size: 90215, Words: 907, Lines: 30, Duration: 262ms][0m
+[2Khi-in.en-gb.fbjs.facebook.com [Status: 200, Size: 88321, Words: 991, Lines: 30, Duration: 263ms][0m
+[2Kko-kr.de-de.ms-my.fbjs.facebook.com [Status: 200, Size: 84135, Words: 872, Lines: 30, Duration: 282ms][0m
+[2Ksv-se.youghaluniteda.f.c.facebook.com [Status: 200, Size: 82093, Words: 918, Lines: 30, Duration: 349ms][0m
+[2Kwww.ru-ru.fr-fr.fbjs.facebook.com [Status: 200, Size: 91247, Words: 907, Lines: 30, Duration: 284ms][0m
+[2Kde-de.es-es.prod.facebook.com [Status: 200, Size: 81819, Words: 914, Lines: 30, Duration: 295ms][0m
+[2Kja-jp.zh-cn.af-za.fbjs.facebook.com [Status: 200, Size: 84857, Words: 715, Lines: 30, Duration: 243ms][0m
+[2Khi-in.id-id.developers.prod.facebook.com [Status: 200, Size: 89455, Words: 981, Lines: 28, Duration: 429ms][0m
+[2Kis-is.facebook.com      [Status: 200, Size: 81445, Words: 919, Lines: 30, Duration: 324ms][0m
+[2Kit-it.vi-vn.lite.facebook.com [Status: 200, Size: 81712, Words: 983, Lines: 30, Duration: 283ms][0m
+[2Kzh-cn.es-es.prod.facebook.com [Status: 200, Size: 82718, Words: 760, Lines: 30, Duration: 300ms][0m
+[2Khi-in.nb-no.id-id.prod.facebook.com [Status: 200, Size: 88536, Words: 991, Lines: 30, Duration: 370ms][0m
+[2Kupload.fbjs.facebook.com [Status: 200, Size: 90362, Words: 907, Lines: 30, Duration: 255ms][0m
+[2Kzh-cn.es-la.tr-tr.prod.facebook.com [Status: 200, Size: 82920, Words: 760, Lines: 30, Duration: 249ms][0m
+[2Kwww.ms-my.fbjs.facebook.com [Status: 200, Size: 91038, Words: 907, Lines: 30, Duration: 332ms][0m
+[2Kwww.developer.prod.facebook.com [Status: 200, Size: 91178, Words: 907, Lines: 30, Duration: 293ms][0m
+[2Kit-it.nb-no.id-id.prod.facebook.com [Status: 200, Size: 81912, Words: 983, Lines: 30, Duration: 302ms][0m
+[2Kpl-pl.hi-in.en-gb.pt-br.fbjs.facebook.com [Status: 200, Size: 82689, Words: 979, Lines: 30, Duration: 268ms][0m
+[2Kar-ar.developers.prod.facebook.com [Status: 200, Size: 90278, Words: 1010, Lines: 28, Duration: 447ms][0m
+[2Khi-in.af-za.fbjs.facebook.com [Status: 200, Size: 88320, Words: 991, Lines: 30, Duration: 412ms][0m
+[2Kde-de.es-la.tr-tr.prod.facebook.com [Status: 200, Size: 82029, Words: 914, Lines: 30, Duration: 304ms][0m
+[2Km.m.lite.facebook.com   [Status: 200, Size: 15529, Words: 589, Lines: 2, Duration: 251ms][0m
+[2Kzh-cn.c.facebook.com    [Status: 200, Size: 82395, Words: 760, Lines: 30, Duration: 285ms][0m
+[2Kfr-fr.developers.prod.facebook.com [Status: 200, Size: 83017, Words: 987, Lines: 28, Duration: 515ms][0m
+[2Kwww.sv-se.ro-ro.fbjs.facebook.com [Status: 200, Size: 91251, Words: 907, Lines: 30, Duration: 290ms][0m
+[2Kes-la.id-id.prod.facebook.com [Status: 200, Size: 82041, Words: 978, Lines: 30, Duration: 343ms][0m
+[2Kwww.zh-cn.af-za.fbjs.facebook.com [Status: 200, Size: 91258, Words: 907, Lines: 30, Duration: 267ms][0m
+[2Kja-jp.fbjs.facebook.com [Status: 200, Size: 84438, Words: 715, Lines: 30, Duration: 250ms][0m
+[2Kar-ar.ror-ro.fbjs.facebook.com [Status: 200, Size: 89389, Words: 1020, Lines: 30, Duration: 307ms][0m
+[2Kar-ar.www.c.facebook.com [Status: 200, Size: 89180, Words: 1020, Lines: 30, Duration: 474ms][0m
+[2Ksw-ke.facebook.com      [Status: 200, Size: 81181, Words: 957, Lines: 30, Duration: 264ms][0m
+[2Kwww.ru-ru.es-es.prod.facebook.com [Status: 200, Size: 91248, Words: 907, Lines: 30, Duration: 316ms][0m
+[2Kit-it.zer.o.lite.facebook.com [Status: 200, Size: 81697, Words: 983, Lines: 30, Duration: 304ms][0m
+[2Kwww.intern.facebook.com [Status: 200, Size: 90884, Words: 907, Lines: 30, Duration: 305ms][0m
+[2Kwww.az-az.developers.prod.facebook.com [Status: 200, Size: 92180, Words: 897, Lines: 28, Duration: 399ms][0m
+[2Kwww.telkomsel.com.0.facebook.com [Status: 200, Size: 91209, Words: 907, Lines: 30, Duration: 275ms][0m
+[2Ken-gb.da-dk.c.facebook.com [Status: 200, Size: 81579, Words: 944, Lines: 30, Duration: 284ms][0m
+[2Kar-ar.id-id.prod.facebook.com [Status: 200, Size: 89356, Words: 1020, Lines: 30, Duration: 301ms][0m
+[2Kde-de.es-la.pt-pt.fbjs.facebook.com [Status: 200, Size: 82025, Words: 914, Lines: 30, Duration: 300ms][0m
+[2Kpt-br.ro-ro.fbjs.facebook.com [Status: 200, Size: 81919, Words: 997, Lines: 30, Duration: 310ms][0m
+[2Kfr-fr.register.lite.facebook.com [Status: 200, Size: 82091, Words: 991, Lines: 30, Duration: 246ms][0m
+[2Kpt-br.m.lite.facebook.com [Status: 200, Size: 81771, Words: 997, Lines: 30, Duration: 311ms][0m
+[2Ksv-se.ro-ro.fbjs.facebook.com [Status: 200, Size: 81810, Words: 918, Lines: 30, Duration: 276ms][0m
+[2Kit-it.developers.prod.facebook.com [Status: 200, Size: 82624, Words: 973, Lines: 28, Duration: 296ms][0m
+[2Kpt-br.ru-ru.es-es.c.facebook.com [Status: 200, Size: 82017, Words: 997, Lines: 30, Duration: 264ms][0m
+[2Kzh-cn.f.b.c.facebook.com [Status: 200, Size: 82531, Words: 760, Lines: 30, Duration: 318ms][0m
+[2Km.es-es.prod.facebook.com [Status: 200, Size: 15553, Words: 589, Lines: 2, Duration: 242ms][0m
+[2Kpt-br.da-dk.c.facebook.com [Status: 200, Size: 81804, Words: 997, Lines: 30, Duration: 298ms][0m
+[2Ktz-ma.facebook.com      [Status: 200, Size: 86959, Words: 995, Lines: 30, Duration: 294ms][0m
+[2Kja-jp.sv-se.es-es.prod.facebook.com [Status: 200, Size: 84857, Words: 715, Lines: 30, Duration: 284ms][0m
+[2Kwww.id-id.prod.facebook.com [Status: 200, Size: 91034, Words: 907, Lines: 30, Duration: 299ms][0m
+[2Kfr-fr.connect.facebook.com [Status: 200, Size: 81996, Words: 997, Lines: 30, Duration: 262ms][0m
+[2Kid-id.id-id.es-la.prod.facebook.com [Status: 200, Size: 81448, Words: 912, Lines: 30, Duration: 247ms][0m
+[2Kportal.fbjs.facebook.com [Status: 200, Size: 534559, Words: 11030, Lines: 105, Duration: 2034ms][0m
+[2Kbs-ba.fbjs.facebook.com [Status: 200, Size: 82107, Words: 1008, Lines: 30, Duration: 300ms][0m
+[2Ktr-tr.en-pi.connect.facebook.com [Status: 200, Size: 84830, Words: 917, Lines: 30, Duration: 256ms][0m
+[2Kes-la.hr-hr.google.fbjs.facebook.com [Status: 200, Size: 82284, Words: 978, Lines: 30, Duration: 248ms][0m
+[2Kja-jp.fr-fr.af-za.fbjs.facebook.com [Status: 200, Size: 84860, Words: 715, Lines: 30, Duration: 247ms][0m
+[2Kpt-br.tr-tr.es-la.prod.facebook.com [Status: 200, Size: 82118, Words: 997, Lines: 30, Duration: 263ms][0m
+[2Khi-in.lite.facebook.com [Status: 200, Size: 88115, Words: 991, Lines: 30, Duration: 345ms][0m
+[2Knl-nl.beta.facebook.com [Status: 200, Size: 81461, Words: 921, Lines: 30, Duration: 540ms][0m
+[2Kfr-fr.lite.facebook.com [Status: 200, Size: 81879, Words: 997, Lines: 30, Duration: 382ms][0m
+[2Khi-in.new.facebook.com  [Status: 200, Size: 88079, Words: 991, Lines: 30, Duration: 288ms][0m
+[2Kzh-cn.m.lite.facebook.com [Status: 200, Size: 82560, Words: 760, Lines: 30, Duration: 262ms][0m
+[2Kwww.facebook.com        [Status: 200, Size: 90650, Words: 907, Lines: 30, Duration: 242ms][0m
+[2Kzh-cn.m.fbjs.facebook.com [Status: 200, Size: 82570, Words: 760, Lines: 30, Duration: 262ms][0m
+[2Kfr-fr.f.b.c.facebook.com [Status: 200, Size: 81916, Words: 997, Lines: 30, Duration: 290ms][0m
+[2Krw-rw.facebook.com      [Status: 200, Size: 81440, Words: 938, Lines: 30, Duration: 331ms][0m
+[2Kde-de.te-in.developers.prod.facebook.com [Status: 200, Size: 82948, Words: 904, Lines: 28, Duration: 549ms][0m
+[2Kde-de.sv-se.es-es.prod.facebook.com [Status: 200, Size: 82025, Words: 914, Lines: 30, Duration: 304ms][0m
+[2Kdevelopers.fr-ca.ms-my.fbjs.facebook.com [Status: 200, Size: 175733, Words: 6101, Lines: 91, Duration: 1804ms][0m
+[2Khr-hr.af-za.fbjs.facebook.com [Status: 200, Size: 82102, Words: 994, Lines: 30, Duration: 258ms][0m
+[2Kko-kr.es-la.vi-vn.lite.facebook.com [Status: 200, Size: 84126, Words: 872, Lines: 30, Duration: 253ms][0m
+[2Kwww.login-inlog-in.connect.facebook.com [Status: 200, Size: 91457, Words: 907, Lines: 30, Duration: 292ms][0m
+[2Km.mobile.prod.facebook.com [Status: 200, Size: 15564, Words: 589, Lines: 2, Duration: 257ms][0m
+[2Kwww.th-th.c.facebook.com [Status: 200, Size: 90932, Words: 907, Lines: 30, Duration: 298ms][0m
+[2Kde-de.alex.c.facebook.com [Status: 200, Size: 81677, Words: 914, Lines: 30, Duration: 285ms][0m
+[2Kor-in.facebook.com      [Status: 200, Size: 89615, Words: 976, Lines: 30, Duration: 302ms][0m
+[2Kru-ru.vi-vn.zer.o.lite.facebook.com [Status: 200, Size: 89689, Words: 982, Lines: 30, Duration: 271ms][0m
+[2Ksecure.fbjs.facebook.com [Status: 200, Size: 90622, Words: 907, Lines: 30, Duration: 303ms][0m
+[2Kar-ar.beta.facebook.com [Status: 200, Size: 89157, Words: 1020, Lines: 30, Duration: 255ms][0m
+[2Kwww.lm.prod.facebook.com [Status: 200, Size: 90934, Words: 907, Lines: 30, Duration: 321ms][0m
+[2Kwww.google.0.facebook.com [Status: 200, Size: 90965, Words: 907, Lines: 30, Duration: 327ms][0m
+[2Kzh-cn.es-es.f.b.c.facebook.com [Status: 200, Size: 82758, Words: 760, Lines: 30, Duration: 372ms][0m
+[2Kwww.es-la.vi-vn.lite.facebook.com [Status: 200, Size: 91252, Words: 907, Lines: 30, Duration: 253ms][0m
+[2Kfr-fr.cs-cz.ro-ro.fbjs.facebook.com [Status: 200, Size: 82298, Words: 997, Lines: 30, Duration: 256ms][0m
+[2Kar-ar.tr-tr.es-la.prod.facebook.com [Status: 200, Size: 89566, Words: 1020, Lines: 30, Duration: 277ms][0m
+[2Kdevelopers.ro-ro.fbjs.facebook.com [Status: 200, Size: 175383, Words: 6101, Lines: 91, Duration: 1944ms][0m
+[2Kko-kr.google.fbjs.facebook.com [Status: 200, Size: 83956, Words: 872, Lines: 30, Duration: 302ms][0m
+[2Ksy-sy.facebook.com      [Status: 200, Size: 84848, Words: 917, Lines: 30, Duration: 256ms][0m
+[2Kbg-bg.ro-ro.fbjs.facebook.com [Status: 200, Size: 90126, Words: 992, Lines: 30, Duration: 301ms][0m
+[2Kko-kr.google.lite.facebook.com [Status: 200, Size: 83952, Words: 872, Lines: 30, Duration: 361ms][0m
+[2Kdevelopers.es-es.c.facebook.com [Status: 200, Size: 175225, Words: 6101, Lines: 91, Duration: 1854ms][0m
+[2Kko-kr.ro-ro.prod.facebook.com [Status: 200, Size: 83929, Words: 872, Lines: 30, Duration: 297ms][0m
+[2Kfr-fr.es-la.vi-vn.lite.facebook.com [Status: 200, Size: 82300, Words: 997, Lines: 30, Duration: 397ms][0m
+[2Kwww.lite.lite.lite.facebook.com [Status: 200, Size: 91174, Words: 907, Lines: 30, Duration: 417ms][0m
+[2Kwww.fr-fr.prod.facebook.com [Status: 200, Size: 91037, Words: 907, Lines: 30, Duration: 264ms][0m
+[2Kwww.latest.facebook.com [Status: 200, Size: 90899, Words: 907, Lines: 30, Duration: 327ms][0m
+[2Kzh-cn.id-id.prod.facebook.com [Status: 200, Size: 82706, Words: 760, Lines: 30, Duration: 293ms][0m
+[2Kro-ro.c.facebook.com    [Status: 200, Size: 82117, Words: 1005, Lines: 30, Duration: 263ms][0m
+[2Khi-in.developers.prod.facebook.com [Status: 200, Size: 89238, Words: 981, Lines: 28, Duration: 302ms][0m
+[2Kar-ar.tr-tr.fbjs.facebook.com [Status: 200, Size: 89356, Words: 1020, Lines: 30, Duration: 270ms][0m
+[2Kpages.facebook.com      [Status: 200, Size: 15511, Words: 589, Lines: 2, Duration: 316ms][0m
+[2Kmr-in.aa.connect.facebook.com [Status: 200, Size: 88176, Words: 962, Lines: 30, Duration: 258ms][0m
+[2Kko-kr.lite.facebook.com [Status: 200, Size: 83705, Words: 872, Lines: 30, Duration: 286ms][0m
+[2Khu-hu.fbjs.facebook.com [Status: 200, Size: 82490, Words: 907, Lines: 30, Duration: 262ms][0m
+[2Ksv-se.es-es.prod.facebook.com [Status: 200, Size: 81809, Words: 918, Lines: 30, Duration: 300ms][0m
+[2Kid-id.id-id.developers.prod.facebook.com [Status: 200, Size: 82365, Words: 902, Lines: 28, Duration: 401ms][0m
+[2Kwww.zer.o.lite.facebook.com [Status: 200, Size: 91035, Words: 907, Lines: 30, Duration: 328ms][0m
+[2Kde-de.f1.fbjs.facebook.com [Status: 200, Size: 81707, Words: 914, Lines: 30, Duration: 267ms][0m
+[2Kde-de.ru-ru.de-de.prod.facebook.com [Status: 200, Size: 81882, Words: 914, Lines: 30, Duration: 292ms][0m
+[2Kde-de.tr-tr.es-la.prod.facebook.com [Status: 200, Size: 82027, Words: 914, Lines: 30, Duration: 297ms][0m
+[2Kwww.ro-ro.es-la.prod.facebook.com [Status: 200, Size: 91250, Words: 907, Lines: 30, Duration: 251ms][0m
+[2Kar-ar.vi-vn.lite.facebook.com [Status: 200, Size: 89356, Words: 1020, Lines: 30, Duration: 263ms][0m
+[2Kwww.ru-ru.es-es.c.facebook.com [Status: 200, Size: 91134, Words: 907, Lines: 30, Duration: 293ms][0m
+[2Kit-it.te-in.developers.prod.facebook.com [Status: 200, Size: 82831, Words: 973, Lines: 28, Duration: 322ms][0m
+[2Kfr-fr.youghaluniteda.f.c.facebook.com [Status: 200, Size: 82370, Words: 997, Lines: 30, Duration: 250ms][0m
+[2Kwww.f.b.c.facebook.com  [Status: 200, Size: 90874, Words: 907, Lines: 30, Duration: 258ms][0m
+[2Khi-in.tr-tr.fbjs.facebook.com [Status: 200, Size: 88332, Words: 991, Lines: 30, Duration: 267ms][0m
+[2Kwww.ar-ar.m.lite.facebook.com [Status: 200, Size: 91106, Words: 907, Lines: 30, Duration: 290ms][0m
+[2Kwww.es-la.fr-fr.ro-ro.fbjs.facebook.com [Status: 200, Size: 91468, Words: 907, Lines: 30, Duration: 270ms][0m
+[2Kdevelopers.da-dk.lite.facebook.com [Status: 200, Size: 175399, Words: 6101, Lines: 91, Duration: 1796ms][0m
+[2Kwww.yo-yo.fbjs.facebook.com [Status: 200, Size: 91037, Words: 907, Lines: 30, Duration: 333ms][0m
+[2Kzh-tw.g.c.facebook.com  [Status: 200, Size: 82704, Words: 765, Lines: 30, Duration: 248ms][0m
+[2Kwww.ja-jp.cy-gb.fbjs.facebook.com [Status: 200, Size: 91247, Words: 907, Lines: 30, Duration: 296ms][0m
+[2Kpt-br.es-es.f.b.c.facebook.com [Status: 200, Size: 81942, Words: 997, Lines: 30, Duration: 297ms][0m
+[2Kpt-br.m.fbjs.facebook.com [Status: 200, Size: 81768, Words: 997, Lines: 30, Duration: 358ms][0m
+[2Kvupload-edge-business.facebook.com [Status: 200, Size: 90959, Words: 917, Lines: 32, Duration: 313ms][0m
+[2Kpay.facebook.com        [Status: 200, Size: 218659, Words: 6387, Lines: 32, Duration: 624ms][0m
+[2Kwww.nl-nl.es-la.prod.facebook.com [Status: 200, Size: 91245, Words: 907, Lines: 30, Duration: 295ms][0m
+[2Kit-it.hr-hr.google.fbjs.facebook.com [Status: 200, Size: 81957, Words: 983, Lines: 30, Duration: 294ms][0m
+[2Kde-de.lite.facebook.com [Status: 200, Size: 81611, Words: 914, Lines: 30, Duration: 271ms][0m
+[2Kfr-fr.en-gb.prod.facebook.com [Status: 200, Size: 82092, Words: 997, Lines: 30, Duration: 256ms][0m
+[2Km.fr-fr.es-es.prod.facebook.com [Status: 200, Size: 15589, Words: 589, Lines: 2, Duration: 298ms][0m
+[2Kes-la.es-es.youghaluniteda.f.c.facebook.com [Status: 200, Size: 82535, Words: 978, Lines: 30, Duration: 407ms][0m
+[2Kwww.et-ee.fbjs.facebook.com [Status: 200, Size: 91036, Words: 907, Lines: 30, Duration: 298ms][0m
+[2Kwww.es-la.tr-tr.prod.facebook.com [Status: 200, Size: 91239, Words: 907, Lines: 30, Duration: 314ms][0m
+[2Kfr-fr.fr-fr.af-za.fbjs.facebook.com [Status: 200, Size: 82152, Words: 997, Lines: 30, Duration: 256ms][0m
+[2Kit-it.vi-vn.zer.o.lite.facebook.com [Status: 200, Size: 81908, Words: 983, Lines: 30, Duration: 311ms][0m
+[2Kit-it.alpha.facebook.com [Status: 200, Size: 81527, Words: 983, Lines: 30, Duration: 262ms][0m
+[2Kit-it.fr-ca.de-de.ms-my.fbjs.facebook.com [Status: 200, Size: 82118, Words: 983, Lines: 30, Duration: 291ms][0m
+[2Kes-la.prod.facebook.com [Status: 200, Size: 81842, Words: 978, Lines: 30, Duration: 309ms][0m
+[2Kwww.es-es.c.facebook.com [Status: 200, Size: 90931, Words: 907, Lines: 30, Duration: 329ms][0m
+[2Kzh-tw.fbjs.facebook.com [Status: 200, Size: 82734, Words: 765, Lines: 30, Duration: 300ms][0m
+[2Kpt-br.sv-se.youghaluniteda.f.c.facebook.com [Status: 200, Size: 82396, Words: 997, Lines: 30, Duration: 296ms][0m
+[2Kpt-pt.facebook.com      [Status: 200, Size: 81625, Words: 1004, Lines: 30, Duration: 359ms][0m
+[2Kzh-hk.facebook.com      [Status: 200, Size: 82559, Words: 763, Lines: 30, Duration: 258ms][0m
+[2Kwww.es-es.nl-nl.es-la.prod.facebook.com [Status: 200, Size: 91455, Words: 907, Lines: 30, Duration: 282ms][0m
+[2Kzh-cn.ur-pk.zh-hk.fbjs.facebook.com [Status: 200, Size: 82924, Words: 760, Lines: 30, Duration: 279ms][0m
+[2Kpt-br.lite.facebook.com [Status: 200, Size: 81696, Words: 997, Lines: 30, Duration: 293ms][0m
+[2Kwww.tr-tr.es-la.prod.facebook.com [Status: 200, Size: 91246, Words: 907, Lines: 30, Duration: 303ms][0m
+[2Kar-ar.m.lite.facebook.com [Status: 200, Size: 89222, Words: 1020, Lines: 30, Duration: 258ms][0m
+[2Keu-es.facebook.com      [Status: 200, Size: 81384, Words: 925, Lines: 30, Duration: 322ms][0m
+[2Kkk-kz.facebook.com      [Status: 200, Size: 87537, Words: 924, Lines: 30, Duration: 293ms][0m
+[2Ksecure.latest.facebook.com [Status: 200, Size: 90421, Words: 907, Lines: 30, Duration: 288ms][0m
+[2Kda-dk.lm.prod.facebook.com [Status: 200, Size: 81573, Words: 917, Lines: 30, Duration: 266ms][0m
+[2Kwww.pl-pl.prod.facebook.com [Status: 200, Size: 91038, Words: 907, Lines: 30, Duration: 296ms][0m
+[2Khu-hu.af-za.fbjs.facebook.com [Status: 200, Size: 82704, Words: 907, Lines: 30, Duration: 306ms][0m
+[2Kportal.dns.facebook.com [Status: 200, Size: 534577, Words: 11030, Lines: 105, Duration: 1909ms][0m
+[2Ktr-tr.facebook.com.0.facebook.com [Status: 200, Size: 84861, Words: 917, Lines: 30, Duration: 305ms][0m
+[2Kko-kr.pt-br.prod.facebook.com [Status: 200, Size: 83918, Words: 872, Lines: 30, Duration: 247ms][0m
+[2Kdevelopers.es-es.youghaluniteda.f.c.facebook.com [Status: 200, Size: 176150, Words: 6101, Lines: 91, Duration: 1912ms][0m
+[2Kzh-cn.sv-se.prod.facebook.com [Status: 200, Size: 82727, Words: 760, Lines: 30, Duration: 242ms][0m
+[2Km.da-dk.lite.facebook.com [Status: 200, Size: 15553, Words: 589, Lines: 2, Duration: 252ms][0m
+[2Kko-kr.te-in.developers.prod.facebook.com [Status: 200, Size: 88403, Words: 862, Lines: 28, Duration: 394ms][0m
+[2Kar-ar.en-gb.fbjs.facebook.com [Status: 200, Size: 89357, Words: 1020, Lines: 30, Duration: 283ms][0m
+[2Kko-kr.m.fbjs.facebook.com [Status: 200, Size: 83776, Words: 872, Lines: 30, Duration: 291ms][0m
+[2Kko-kr.es-es.developers.prod.facebook.com [Status: 200, Size: 85047, Words: 862, Lines: 28, Duration: 255ms][0m
+[2Kwww.en-gb.prod.facebook.com [Status: 200, Size: 91039, Words: 907, Lines: 30, Duration: 613ms][0m
+[2Kro-ro.facebook.com      [Status: 200, Size: 82057, Words: 1005, Lines: 30, Duration: 297ms][0m
+[2Khi-in.ar-ar.m.lite.facebook.com [Status: 200, Size: 88388, Words: 991, Lines: 30, Duration: 367ms][0m
+[2Kit-it.youghaluniteda.f.c.facebook.com [Status: 200, Size: 81976, Words: 983, Lines: 30, Duration: 372ms][0m
+[2Kzh-cn.fr-fr.af-za.fbjs.facebook.com [Status: 200, Size: 82928, Words: 760, Lines: 30, Duration: 330ms][0m
+[2Km.id-id.developers.prod.facebook.com [Status: 200, Size: 15624, Words: 589, Lines: 2, Duration: 418ms][0m
+[2Kha-ng.facebook.com      [Status: 200, Size: 81446, Words: 1010, Lines: 30, Duration: 616ms][0m
+[2Kit-it.fr-fr.af-za.fbjs.facebook.com [Status: 200, Size: 81928, Words: 983, Lines: 30, Duration: 370ms][0m
+[2Kko-kr.nb-no.id-id.prod.facebook.com [Status: 200, Size: 84126, Words: 872, Lines: 30, Duration: 285ms][0m
+[2Khi-in.de-de.ms-my.fbjs.facebook.com [Status: 200, Size: 88529, Words: 991, Lines: 30, Duration: 255ms][0m
+[2Ktr-tr.turkcell.com.0.facebook.com [Status: 200, Size: 84874, Words: 917, Lines: 30, Duration: 475ms][0m
+[2Kwww.com.tr.0.facebook.com [Status: 200, Size: 91227, Words: 907, Lines: 30, Duration: 260ms][0m
+[2Kpt-br.en-gb.ro-ro.fbjs.facebook.com [Status: 200, Size: 82121, Words: 997, Lines: 30, Duration: 308ms][0m
+[2Kwww.id-id.es-es.prod.facebook.com [Status: 200, Size: 91247, Words: 907, Lines: 30, Duration: 326ms][0m
+[2Kwww.yocto-mirror.vip.facebook.com [Status: 200, Size: 91246, Words: 907, Lines: 30, Duration: 307ms][0m
+[2Kka-ge.facebook.com      [Status: 200, Size: 91936, Words: 917, Lines: 30, Duration: 316ms][0m
+[2Kes-la.fr-ca.de-de.ms-my.fbjs.facebook.com [Status: 200, Size: 82457, Words: 978, Lines: 30, Duration: 292ms][0m
+[2Kwww.pt-pt.sl-si.prod.facebook.com [Status: 200, Size: 91250, Words: 907, Lines: 30, Duration: 318ms][0m
+[2Kit-it.es-la.prod.facebook.com [Status: 200, Size: 81710, Words: 983, Lines: 30, Duration: 294ms][0m
+[2Kid-id.hr-hr.google.fbjs.facebook.com [Status: 200, Size: 81628, Words: 912, Lines: 30, Duration: 261ms][0m
+[2Kko-kr.zh-tw.tr-tr.fbjs.facebook.com [Status: 200, Size: 84133, Words: 872, Lines: 30, Duration: 251ms][0m
+[2Kzh-cn.developers.prod.facebook.com [Status: 200, Size: 83629, Words: 750, Lines: 28, Duration: 390ms][0m
+[2Kte-in.prod.facebook.com [Status: 200, Size: 89906, Words: 930, Lines: 30, Duration: 294ms][0m
+[2Kfr-fr.en-gb.ro-ro.fbjs.facebook.com [Status: 200, Size: 82299, Words: 997, Lines: 30, Duration: 297ms][0m
+[2Kwww.goalmaximesaj.com.0.facebook.com [Status: 200, Size: 91352, Words: 907, Lines: 30, Duration: 529ms][0m
+[2Ken-gb.tr-tr.ja-jp.fbjs.facebook.com [Status: 200, Size: 81901, Words: 944, Lines: 30, Duration: 258ms][0m
+[2Kvi-vn.lite.facebook.com [Status: 200, Size: 83123, Words: 1067, Lines: 30, Duration: 254ms][0m
+[2Khi-in.zer.o.lite.facebook.com [Status: 200, Size: 88320, Words: 991, Lines: 30, Duration: 264ms][0m
+[2Kwww.es-la.prod.facebook.com [Status: 200, Size: 91031, Words: 907, Lines: 30, Duration: 295ms][0m
+[2Kpl-pl.fbjs.facebook.com [Status: 200, Size: 82060, Words: 979, Lines: 30, Duration: 254ms][0m
+[2Klv-lv.fbjs.facebook.com [Status: 200, Size: 81861, Words: 937, Lines: 30, Duration: 265ms][0m
+[2Ksecure.beta.facebook.com [Status: 200, Size: 90366, Words: 907, Lines: 30, Duration: 278ms][0m
+[2Ksecure.dev.facebook.com [Status: 200, Size: 90331, Words: 907, Lines: 30, Duration: 266ms][0m
+[2Kupload.intern.facebook.com [Status: 200, Size: 90414, Words: 907, Lines: 30, Duration: 311ms][0m
+[2Kes-la.sv-se.es-es.prod.facebook.com [Status: 200, Size: 82259, Words: 978, Lines: 30, Duration: 312ms][0m
+[2Kko-kr.ms-my.fbjs.facebook.com [Status: 200, Size: 83922, Words: 872, Lines: 30, Duration: 250ms][0m
+[2Kfr-fr.id-id.developers.prod.facebook.com [Status: 200, Size: 83222, Words: 987, Lines: 28, Duration: 469ms][0m
+[2Kde-de.id-id.prod.facebook.com [Status: 200, Size: 81817, Words: 914, Lines: 30, Duration: 245ms][0m
+[2Ksi-lk.facebook.com      [Status: 200, Size: 89867, Words: 993, Lines: 30, Duration: 298ms][0m
+[2Kes-la.developer.prod.facebook.com [Status: 200, Size: 82185, Words: 978, Lines: 30, Duration: 297ms][0m
+[2Kupload.facebook.com     [Status: 200, Size: 90199, Words: 907, Lines: 30, Duration: 345ms][0m
+[2Kpt-br.th-th.prod.facebook.com [Status: 200, Size: 82170, Words: 997, Lines: 30, Duration: 252ms][0m
+[2Kwww.ar-ar.youghaluniteda.f.c.facebook.com [Status: 200, Size: 91524, Words: 907, Lines: 30, Duration: 312ms][0m
+[2Ksr-rs.facebook.com      [Status: 200, Size: 88245, Words: 1005, Lines: 30, Duration: 256ms][0m
+[2Kde-de.en-gb.fbjs.facebook.com [Status: 200, Size: 81817, Words: 914, Lines: 30, Duration: 293ms][0m
+[2Kes-la.ms-my.fbjs.facebook.com [Status: 200, Size: 82044, Words: 978, Lines: 30, Duration: 248ms][0m
+[2Kzh-cn.blog.en-gb.fbjs.facebook.com [Status: 200, Size: 82875, Words: 760, Lines: 30, Duration: 251ms][0m
+[2Kmobile.facebook.com     [Status: 200, Size: 15517, Words: 589, Lines: 2, Duration: 278ms][0m
+[2Khi-in.da-dk.c.facebook.com [Status: 200, Size: 88232, Words: 991, Lines: 30, Duration: 304ms][0m
+[2Kde-de.m.lite.facebook.com [Status: 200, Size: 81675, Words: 914, Lines: 30, Duration: 305ms][0m
+[2Ken-gb.new.facebook.com  [Status: 200, Size: 81443, Words: 944, Lines: 30, Duration: 249ms][0m
+[2Kar-ar.sv-se.ro-ro.fbjs.facebook.com [Status: 200, Size: 89564, Words: 1020, Lines: 30, Duration: 294ms][0m
+[2Kde-de.ha.lite.facebook.com [Status: 200, Size: 81711, Words: 914, Lines: 30, Duration: 305ms][0m
+[2Kfr-fr.hr-hr.google.fbjs.facebook.com [Status: 200, Size: 82335, Words: 997, Lines: 30, Duration: 301ms][0m
+[2Kfeedback.facebook.com   [Status: 200, Size: 90244, Words: 907, Lines: 30, Duration: 303ms][0m
+[2Kwww.id-id.af-za.fbjs.facebook.com [Status: 200, Size: 91247, Words: 907, Lines: 30, Duration: 331ms][0m
+[2Kwww.el-gr.fbjs.facebook.com [Status: 200, Size: 91037, Words: 907, Lines: 30, Duration: 298ms][0m
+[2Kfr-fr.it-it-it.connect.facebook.com [Status: 200, Size: 82313, Words: 997, Lines: 30, Duration: 282ms][0m
+[2Khi-in.sv-se.ro-ro.fbjs.facebook.com [Status: 200, Size: 88529, Words: 991, Lines: 30, Duration: 474ms][0m
+[2Kde-de.zh-cn.af-za.fbjs.facebook.com [Status: 200, Size: 82031, Words: 914, Lines: 30, Duration: 295ms][0m
+[2Kwww.prod.facebook.com   [Status: 200, Size: 90828, Words: 907, Lines: 30, Duration: 296ms][0m
+[2Kzh-cn.vi-vn.en-gb.fbjs.facebook.com [Status: 200, Size: 82915, Words: 760, Lines: 30, Duration: 241ms][0m
+[2Kar-ar.lite.facebook.com [Status: 200, Size: 89142, Words: 1020, Lines: 30, Duration: 246ms][0m
+[2Ksecure.c10r.facebook.com [Status: 200, Size: 90366, Words: 907, Lines: 30, Duration: 293ms][0m
+[2Kbs-ba.facebook.com      [Status: 200, Size: 81938, Words: 1008, Lines: 30, Duration: 259ms][0m
+[2Kes-la.en-gb.fbjs.facebook.com [Status: 200, Size: 82043, Words: 978, Lines: 30, Duration: 298ms][0m
+[2Kwww.lt-lt.fbjs.facebook.com [Status: 200, Size: 91038, Words: 907, Lines: 30, Duration: 337ms][0m
+[2Kwww.nn-no.hi-in.fbjs.facebook.com [Status: 200, Size: 91243, Words: 907, Lines: 30, Duration: 321ms][0m
+[2Kko-kr.hr-hr.google.fbjs.facebook.com [Status: 200, Size: 84164, Words: 872, Lines: 30, Duration: 279ms][0m
+[2Kbusiness.th-th.c.facebook.com [Status: 200, Size: 158093, Words: 2766, Lines: 22, Duration: 399ms][0m
+[2Kde-de.fa-ir.ro-ro.fbjs.facebook.com [Status: 200, Size: 82027, Words: 914, Lines: 30, Duration: 251ms][0m
+[2Kfr-fr.zh-cn.af-za.fbjs.facebook.com [Status: 200, Size: 82301, Words: 997, Lines: 30, Duration: 264ms][0m
+[2Ktr-tr.connectlogin.connect.facebook.com [Status: 200, Size: 85074, Words: 917, Lines: 30, Duration: 252ms][0m
+[2Ktg-tj.facebook.com      [Status: 200, Size: 86298, Words: 956, Lines: 30, Duration: 270ms][0m
+[2Kit-it.af-za.fbjs.facebook.com [Status: 200, Size: 81696, Words: 983, Lines: 30, Duration: 293ms][0m
+[2Kko-kr.sv-se.ro-ro.fbjs.facebook.com [Status: 200, Size: 84140, Words: 872, Lines: 30, Duration: 250ms][0m
+[2Ksc-it.facebook.com      [Status: 200, Size: 81668, Words: 1011, Lines: 30, Duration: 289ms][0m
+[2Kar-ar.fbjs.facebook.com [Status: 200, Size: 89144, Words: 1020, Lines: 30, Duration: 243ms][0m
+[2Kde-de.nb-no.prod.facebook.com [Status: 200, Size: 81817, Words: 914, Lines: 30, Duration: 303ms][0m
+[2Kes-la.tl-ph.fbjs.facebook.com [Status: 200, Size: 82043, Words: 978, Lines: 30, Duration: 276ms][0m
+[2Khi-in.register.lite.facebook.com [Status: 200, Size: 88429, Words: 991, Lines: 30, Duration: 254ms][0m
+[2Kel-gr.fbjs.facebook.com [Status: 200, Size: 90892, Words: 1000, Lines: 30, Duration: 302ms][0m
+[2Kwww.dewey-lfs.vip.facebook.com [Status: 200, Size: 91139, Words: 907, Lines: 30, Duration: 335ms][0m
+[2Khi-in.es-es.prod.facebook.com [Status: 200, Size: 88318, Words: 991, Lines: 30, Duration: 303ms][0m
+[2Ken-gb.cs-cz.bg-bg.fbjs.facebook.com [Status: 200, Size: 81915, Words: 944, Lines: 30, Duration: 292ms][0m
+[2Kfr-fr.es-la.it-it.fbjs.facebook.com [Status: 200, Size: 82297, Words: 997, Lines: 30, Duration: 296ms][0m
+[2Kgn-py.facebook.com      [Status: 200, Size: 81601, Words: 925, Lines: 30, Duration: 272ms][0m
+[2Kiphone.facebook.com     [Status: 200, Size: 65402, Words: 1015, Lines: 33, Duration: 267ms][0m
+[2Kes-es.youghaluniteda.f.c.facebook.com [Status: 200, Size: 82325, Words: 986, Lines: 30, Duration: 301ms][0m
+[2Ket-ee.fbjs.facebook.com [Status: 200, Size: 81125, Words: 873, Lines: 30, Duration: 300ms][0m
+[2Kes-la.facebook.com      [Status: 200, Size: 81661, Words: 978, Lines: 30, Duration: 253ms][0m
+[2Kdevelopers.es-la.vi-vn.lite.facebook.com [Status: 200, Size: 175719, Words: 6101, Lines: 91, Duration: 1858ms][0m
+[2Kzh-cn.en-gb.ro-ro.fbjs.facebook.com [Status: 200, Size: 82921, Words: 760, Lines: 30, Duration: 296ms][0m
+[2Kmt-mt.facebook.com      [Status: 200, Size: 82090, Words: 978, Lines: 30, Duration: 314ms][0m
+[2Kit-it.da-dk.c.facebook.com [Status: 200, Size: 81594, Words: 983, Lines: 30, Duration: 294ms][0m
+[2Kpt-br.zh-cn.af-za.fbjs.facebook.com [Status: 200, Size: 82114, Words: 997, Lines: 30, Duration: 293ms][0m
+[2Kz-p3-upload.facebook.com [Status: 200, Size: 90594, Words: 907, Lines: 30, Duration: 296ms][0m
+[2Kar-ar.af-za.fbjs.facebook.com [Status: 200, Size: 89358, Words: 1020, Lines: 30, Duration: 278ms][0m
+[2Kpt-br.developers.prod.facebook.com [Status: 200, Size: 82827, Words: 987, Lines: 28, Duration: 376ms][0m
+[2Keo-eo.facebook.com      [Status: 200, Size: 81056, Words: 919, Lines: 30, Duration: 583ms][0m
+[2Kko-kr.prod.facebook.com [Status: 200, Size: 83968, Words: 872, Lines: 30, Duration: 248ms][0m
+[2Kja-jp.te-in.developers.prod.facebook.com [Status: 200, Size: 85777, Words: 705, Lines: 28, Duration: 289ms][0m
+[2Ktt-ru.facebook.com      [Status: 200, Size: 86712, Words: 931, Lines: 30, Duration: 453ms][0m
+[2Kit-it.ar-ar.m.lite.facebook.com [Status: 200, Size: 81767, Words: 983, Lines: 30, Duration: 294ms][0m
+[2Kpt-br.fr-ca.ms-my.fbjs.facebook.com [Status: 200, Size: 82117, Words: 997, Lines: 30, Duration: 287ms][0m
+[2Khelp.dns.facebook.com   [Status: 200, Size: 90273, Words: 907, Lines: 30, Duration: 295ms][0m
+[2Kpt-pt.connect.facebook.com [Status: 200, Size: 81913, Words: 1004, Lines: 30, Duration: 260ms][0m
+[2Kpt-pt.new.facebook.com  [Status: 200, Size: 81765, Words: 1004, Lines: 30, Duration: 311ms][0m
+[2Kfy-nl.facebook.com      [Status: 200, Size: 81168, Words: 921, Lines: 30, Duration: 308ms][0m
+[2Kfr-fr.ar-ar.m.lite.facebook.com [Status: 200, Size: 82158, Words: 997, Lines: 30, Duration: 251ms][0m
+[2Khr-hr.facebook.com      [Status: 200, Size: 81717, Words: 994, Lines: 30, Duration: 258ms][0m
+[2Kit-it.lite.facebook.com [Status: 200, Size: 81485, Words: 983, Lines: 30, Duration: 291ms][0m
+[2Kwww.fbjs.facebook.com   [Status: 200, Size: 90828, Words: 907, Lines: 30, Duration: 289ms][0m
+[2Kpt-br.vi-vn.en-gb.fbjs.facebook.com [Status: 200, Size: 82133, Words: 997, Lines: 30, Duration: 289ms][0m
+[2Ksv-se.facebook.com      [Status: 200, Size: 81430, Words: 918, Lines: 30, Duration: 305ms][0m
+[2Kes-la.m.lite.facebook.com [Status: 200, Size: 81903, Words: 978, Lines: 30, Duration: 279ms][0m
+[2Kso-so.facebook.com      [Status: 200, Size: 81118, Words: 937, Lines: 30, Duration: 316ms][0m
+[2Kde-de.tr-tr.fbjs.facebook.com [Status: 200, Size: 81819, Words: 914, Lines: 30, Duration: 264ms][0m
+[2Kpl-pl.it-it.en-gb.ro-ro.fbjs.facebook.com [Status: 200, Size: 82693, Words: 979, Lines: 30, Duration: 295ms][0m
+[2Kfa-ir.gb.connect.facebook.com [Status: 200, Size: 87714, Words: 975, Lines: 30, Duration: 258ms][0m
+[2Kja-jp.vi-vn.en-gb.fbjs.facebook.com [Status: 200, Size: 84857, Words: 715, Lines: 30, Duration: 256ms][0m
+[2Kit-it.developer.prod.facebook.com [Status: 200, Size: 81842, Words: 983, Lines: 30, Duration: 260ms][0m
+[2Kwww.developers.facebook.com [Status: 200, Size: 91790, Words: 897, Lines: 28, Duration: 692ms][0m
+[2Kit-it.sv-se.es-es.prod.facebook.com [Status: 200, Size: 81911, Words: 983, Lines: 30, Duration: 259ms][0m
+[2Kit-it.ro.connect.facebook.com [Status: 200, Size: 81701, Words: 983, Lines: 30, Duration: 266ms][0m
+[2Kde-de.ror-ro.fbjs.facebook.com [Status: 200, Size: 81855, Words: 914, Lines: 30, Duration: 294ms][0m
+[2Kde-de.zer.o.lite.facebook.com [Status: 200, Size: 81820, Words: 914, Lines: 30, Duration: 310ms][0m
+[2Klt-lt.facebook.com      [Status: 200, Size: 82730, Words: 962, Lines: 30, Duration: 300ms][0m
+[2Kwww.it-it.en-gb.ro-ro.fbjs.facebook.com [Status: 200, Size: 91453, Words: 907, Lines: 30, Duration: 284ms][0m
+[2Kja-jp.sv-se.ro-ro.fbjs.facebook.com [Status: 200, Size: 84857, Words: 715, Lines: 30, Duration: 283ms][0m
+[2Kmobile.fbjs.facebook.com [Status: 200, Size: 15552, Words: 589, Lines: 2, Duration: 238ms][0m
+[2Kwww.th-th.prod.facebook.com [Status: 200, Size: 91040, Words: 907, Lines: 30, Duration: 289ms][0m
+[2Kqz-mm.facebook.com      [Status: 200, Size: 90166, Words: 907, Lines: 30, Duration: 313ms][0m
+[2Kko-kr.es-es.prod.facebook.com [Status: 200, Size: 83915, Words: 872, Lines: 30, Duration: 289ms][0m
+[2Kwww.conncect.connect.facebook.com [Status: 200, Size: 91244, Words: 907, Lines: 30, Duration: 294ms][0m
+[2Km.fr-ca.ms-my.fbjs.facebook.com [Status: 200, Size: 15594, Words: 589, Lines: 2, Duration: 315ms][0m
+[2Kit-it.sv-se.prod.facebook.com [Status: 200, Size: 81701, Words: 983, Lines: 30, Duration: 258ms][0m
+[2Kko-kr.zh-cn.af-za.fbjs.facebook.com [Status: 200, Size: 84126, Words: 872, Lines: 30, Duration: 290ms][0m
+[2Kpt-br.es-la.prod.facebook.com [Status: 200, Size: 81905, Words: 997, Lines: 30, Duration: 291ms][0m
+[2Kko-kr.nl-nl.es-la.prod.facebook.com [Status: 200, Size: 84126, Words: 872, Lines: 30, Duration: 302ms][0m
+[2Kzh-cn.google.fbjs.facebook.com [Status: 200, Size: 82735, Words: 760, Lines: 30, Duration: 311ms][0m
+[2Kwww.od.connect.facebook.com [Status: 200, Size: 91035, Words: 907, Lines: 30, Duration: 608ms][0m
+[2Kzh-cn.tr-tr.es-la.prod.facebook.com [Status: 200, Size: 82915, Words: 760, Lines: 30, Duration: 250ms][0m
+[2Kit-it.tr-tr.fbjs.facebook.com [Status: 200, Size: 81702, Words: 983, Lines: 30, Duration: 314ms][0m
+[2Ktr-tr.www.0.facebook.com [Status: 200, Size: 84548, Words: 917, Lines: 30, Duration: 266ms][0m
+[2Kdevelopers.ru-ru.es-es.c.facebook.com [Status: 200, Size: 175553, Words: 6101, Lines: 91, Duration: 3984ms][0m
+[2Kja-jp.es-la.tr-tr.prod.facebook.com [Status: 200, Size: 84862, Words: 715, Lines: 30, Duration: 249ms][0m
+[2Kwww.intern.inyour.facebook.com [Status: 200, Size: 91140, Words: 907, Lines: 30, Duration: 304ms][0m
+[2Kpl-pl.beta.facebook.com [Status: 200, Size: 82063, Words: 979, Lines: 30, Duration: 269ms][0m
+[2Kfr-ca.de-de.ms-my.fbjs.facebook.com [Status: 200, Size: 82654, Words: 1011, Lines: 30, Duration: 292ms][0m
+[2Kvi-vn.en-gb.fbjs.facebook.com [Status: 200, Size: 83343, Words: 1067, Lines: 30, Duration: 283ms][0m
+[2Khi-in.fr-fr.af-za.fbjs.facebook.com [Status: 200, Size: 88536, Words: 991, Lines: 30, Duration: 266ms][0m
+[2Kit-it.zh-tw.tr-tr.fbjs.facebook.com [Status: 200, Size: 81914, Words: 983, Lines: 30, Duration: 300ms][0m
+[2Kja-jp.sv-se.youghaluniteda.f.c.facebook.com [Status: 200, Size: 85138, Words: 715, Lines: 30, Duration: 258ms][0m
+[2Kwww.youghaluniteda.f.c.facebook.com [Status: 200, Size: 91316, Words: 907, Lines: 30, Duration: 274ms][0m
+[2Kfr-fr.developer.prod.facebook.com [Status: 200, Size: 82229, Words: 997, Lines: 30, Duration: 299ms][0m
+[2Kel-gr.ja-jp.hr-hr.fbjs.facebook.com [Status: 200, Size: 91311, Words: 1000, Lines: 30, Duration: 315ms][0m
+[2Khi-in.da-dk.lite.facebook.com [Status: 200, Size: 88317, Words: 991, Lines: 30, Duration: 293ms][0m
+[2Kit-it.es-es.prod.facebook.com [Status: 200, Size: 81706, Words: 983, Lines: 30, Duration: 302ms][0m
+[2Kpt-br.es-la.vi-vn.lite.facebook.com [Status: 200, Size: 82119, Words: 997, Lines: 30, Duration: 303ms][0m
+[2Kit-it.es-la.vi-vn.lite.facebook.com [Status: 200, Size: 81909, Words: 983, Lines: 30, Duration: 294ms][0m
+[2Ken-gb.es-es.th-th.ro-ro.fbjs.facebook.com [Status: 200, Size: 82115, Words: 944, Lines: 30, Duration: 253ms][0m
+[2Kfr-fr.ro-ro.fbjs.facebook.com [Status: 200, Size: 82087, Words: 997, Lines: 30, Duration: 291ms][0m
+[2Kid-id.developers.prod.facebook.com [Status: 200, Size: 82302, Words: 902, Lines: 28, Duration: 518ms][0m
+[2Kpt-pt.id-id.ru-ru.fbjs.facebook.com [Status: 200, Size: 82228, Words: 1004, Lines: 30, Duration: 383ms][0m
+[2Kko-kr.alpha.facebook.com [Status: 200, Size: 83740, Words: 872, Lines: 30, Duration: 412ms][0m
+[2Kar-ar.f.b.c.facebook.com [Status: 200, Size: 89180, Words: 1020, Lines: 30, Duration: 257ms][0m
+[2Kzh-cn.te-in.developers.prod.facebook.com [Status: 200, Size: 83837, Words: 750, Lines: 28, Duration: 412ms][0m
+[2Kfr-fr.tr-tr.fbjs.facebook.com [Status: 200, Size: 82092, Words: 997, Lines: 30, Duration: 283ms][0m
+[2Kp.facebook.com          [Status: 200, Size: 15487, Words: 589, Lines: 2, Duration: 368ms][0m
+[2Kdevelopers.tr-tr.fbjs.facebook.com [Status: 200, Size: 175392, Words: 6101, Lines: 91, Duration: 2117ms][0m
+[2Kfr-fr.google.fbjs.facebook.com [Status: 200, Size: 82127, Words: 997, Lines: 30, Duration: 296ms][0m
+[2Kfr-fr.c.facebook.com    [Status: 200, Size: 81775, Words: 997, Lines: 30, Duration: 254ms][0m
+[2Kerror.facebook.com      [Status: 200, Size: 90161, Words: 907, Lines: 30, Duration: 304ms][0m
+[2Kko-kr.ha.lite.facebook.com [Status: 200, Size: 83812, Words: 872, Lines: 30, Duration: 300ms][0m
+[2Kzh-tw.c.facebook.com    [Status: 200, Size: 82628, Words: 765, Lines: 30, Duration: 299ms][0m
+[2Kwww.it-it.hi-in.fbjs.facebook.com [Status: 200, Size: 91241, Words: 907, Lines: 30, Duration: 266ms][0m
+[2Kes-la.developers.prod.facebook.com [Status: 200, Size: 82963, Words: 968, Lines: 28, Duration: 406ms][0m
+[2Kpt-br.th-th.c.facebook.com [Status: 200, Size: 81805, Words: 997, Lines: 30, Duration: 289ms][0m
+[2Kwww.sv-se.prod.facebook.com [Status: 200, Size: 91037, Words: 907, Lines: 30, Duration: 262ms][0m
+[2Ktr-tr.0.lite.facebook.com [Status: 200, Size: 84582, Words: 917, Lines: 30, Duration: 281ms][0m
+[2Ktr-tr.prod.facebook.com [Status: 200, Size: 84516, Words: 917, Lines: 30, Duration: 255ms][0m
+[2Kwww.lite.facebook.com   [Status: 200, Size: 90824, Words: 907, Lines: 30, Duration: 257ms][0m
+[2Ktouch.facebook.com      [Status: 200, Size: 65329, Words: 1015, Lines: 33, Duration: 319ms][0m
+[2Kmn-mn.facebook.com      [Status: 200, Size: 89309, Words: 937, Lines: 30, Duration: 294ms][0m
+[2Kar-ar.nb-no.prod.facebook.com [Status: 200, Size: 89359, Words: 1020, Lines: 30, Duration: 296ms][0m
+[2Ksecure.prod.facebook.com [Status: 200, Size: 90367, Words: 907, Lines: 30, Duration: 300ms][0m
+[2Kzh-cn.ar-ar.m.lite.facebook.com [Status: 200, Size: 82785, Words: 760, Lines: 30, Duration: 288ms][0m
+[2Kwww.ja-jp.m.lite.facebook.com [Status: 200, Size: 91107, Words: 907, Lines: 30, Duration: 295ms][0m
+[2Km.nl-nl.developers.prod.facebook.com [Status: 200, Size: 15619, Words: 589, Lines: 2, Duration: 243ms][0m
+[2Kja-jp.da-dk.lite.facebook.com [Status: 200, Size: 84649, Words: 715, Lines: 30, Duration: 292ms][0m
+[2Kbusiness.facebook.com   [Status: 200, Size: 157967, Words: 2766, Lines: 22, Duration: 344ms][0m
+[2Kko-kr.fr-ca.ms-my.fbjs.facebook.com [Status: 200, Size: 84126, Words: 872, Lines: 30, Duration: 284ms][0m
+[2Kar-ar.ar-ar.m.lite.facebook.com [Status: 200, Size: 89269, Words: 1020, Lines: 30, Duration: 263ms][0m
+[2Kja-jp.facebook.com      [Status: 200, Size: 84267, Words: 715, Lines: 30, Duration: 287ms][0m
+[2Ktr-tr.facebook.com      [Status: 200, Size: 84338, Words: 917, Lines: 30, Duration: 258ms][0m
+[2Khi-in.nl-nl.tr-tr.prod.facebook.com [Status: 200, Size: 88528, Words: 991, Lines: 30, Duration: 477ms][0m
+[2Ksk-sk.sk-sk.developers.prod.facebook.com [Status: 200, Size: 83668, Words: 971, Lines: 28, Duration: 705ms][0m
+[2Kwww.m.prod.facebook.com [Status: 200, Size: 90899, Words: 907, Lines: 30, Duration: 325ms][0m
+[2Kko-kr.ro-ro.fbjs.facebook.com [Status: 200, Size: 83920, Words: 872, Lines: 30, Duration: 259ms][0m
+[2Kde-de.ru-ru.es-es.c.facebook.com [Status: 200, Size: 81921, Words: 914, Lines: 30, Duration: 259ms][0m
+[2Kar-ar.pt-br.prod.facebook.com [Status: 200, Size: 89352, Words: 1020, Lines: 30, Duration: 254ms][0m
+[2Kdevelopers.zer.o.lite.facebook.com [Status: 200, Size: 174375, Words: 6078, Lines: 86, Duration: 2246ms][0m
+[2Kdevelopers.id-id.prod.facebook.com [Status: 200, Size: 175385, Words: 6101, Lines: 91, Duration: 1698ms][0m
+[2Kes-la.de-de.prod.facebook.com [Status: 200, Size: 82042, Words: 978, Lines: 30, Duration: 245ms][0m
+[2Keo-eo.fbjs.facebook.com [Status: 200, Size: 81221, Words: 919, Lines: 30, Duration: 334ms][0m
+[2Kar-ar.de-de.ms-my.fbjs.facebook.com [Status: 200, Size: 89564, Words: 1020, Lines: 30, Duration: 644ms][0m
+[2Kes-la.nb-no.id-id.prod.facebook.com [Status: 200, Size: 82252, Words: 978, Lines: 30, Duration: 244ms][0m
+[2Kit-it.register.lite.facebook.com [Status: 200, Size: 81805, Words: 983, Lines: 30, Duration: 304ms][0m
+[2Kfr-fr.ru-ru.m.fbjs.facebook.com [Status: 200, Size: 82158, Words: 997, Lines: 30, Duration: 263ms][0m
+[2Kes-la.f1.fbjs.facebook.com [Status: 200, Size: 81938, Words: 978, Lines: 30, Duration: 263ms][0m
+[2Kde-de.fr-ca.de-de.ms-my.fbjs.facebook.com [Status: 200, Size: 82089, Words: 914, Lines: 30, Duration: 292ms][0m
+[2Kit-it.ar-ar.prod.facebook.com [Status: 200, Size: 81701, Words: 983, Lines: 30, Duration: 294ms][0m
+[2Kar-ar.hr-hr.google.fbjs.facebook.com [Status: 200, Size: 89605, Words: 1020, Lines: 30, Duration: 256ms][0m
+[2Kwww.ca-es.ro-ro.fbjs.facebook.com [Status: 200, Size: 91248, Words: 907, Lines: 30, Duration: 301ms][0m
+[2Ket-ee.facebook.com      [Status: 200, Size: 80947, Words: 873, Lines: 30, Duration: 273ms][0m
+[2Kdevelopers.en-gb.ro-ro.fbjs.facebook.com [Status: 200, Size: 175727, Words: 6101, Lines: 91, Duration: 1705ms][0m
+[2Kes-la.da-dk.lite.facebook.com [Status: 200, Size: 82061, Words: 978, Lines: 30, Duration: 254ms][0m
+[2Kcb-iq.facebook.com      [Status: 200, Size: 88331, Words: 945, Lines: 30, Duration: 305ms][0m
+[2Ktr-tr.inyour.facebook.com [Status: 200, Size: 84583, Words: 917, Lines: 30, Duration: 302ms][0m
+[2Kzh-cn.da-dk.c.facebook.com [Status: 200, Size: 82601, Words: 760, Lines: 30, Duration: 288ms][0m
+[2Kit-it.f.b.c.facebook.com [Status: 200, Size: 81525, Words: 983, Lines: 30, Duration: 269ms][0m
+[2Kde-de.ru-ru.m.fbjs.facebook.com [Status: 200, Size: 81890, Words: 914, Lines: 30, Duration: 312ms][0m
+[2Kwww.apps.cs-cz.bg-bg.fbjs.facebook.com [Status: 200, Size: 91420, Words: 907, Lines: 30, Duration: 300ms][0m
+[2Kpixel.facebook.com      [Status: 200, Size: 90159, Words: 907, Lines: 30, Duration: 300ms][0m
+[2Ksk-sk.id-id.pt-br.fbjs.facebook.com [Status: 200, Size: 82886, Words: 981, Lines: 30, Duration: 262ms][0m
+[2Kwww.af-za.fbjs.facebook.com [Status: 200, Size: 91035, Words: 907, Lines: 30, Duration: 297ms][0m
+[2Kit-it.pt-br.de-de.prod.facebook.com [Status: 200, Size: 81903, Words: 983, Lines: 30, Duration: 274ms][0m
+[2Kko-kr.en-gb.fbjs.facebook.com [Status: 200, Size: 83920, Words: 872, Lines: 30, Duration: 249ms][0m
+[2Knn-no.facebook.com      [Status: 200, Size: 81276, Words: 935, Lines: 30, Duration: 268ms][0m
+[2Kko-kr.it-it.en-gb.ro-ro.fbjs.facebook.com [Status: 200, Size: 84336, Words: 872, Lines: 30, Duration: 344ms][0m
+[2Kwww.id-id.hi-in.fbjs.facebook.com [Status: 200, Size: 91246, Words: 907, Lines: 30, Duration: 291ms][0m
+[2Kes-es.es-es.prod.facebook.com [Status: 200, Size: 81893, Words: 986, Lines: 30, Duration: 296ms][0m
+[2Kde-de.facebook.com      [Status: 200, Size: 81447, Words: 914, Lines: 30, Duration: 302ms][0m
+[2Kvupload2.facebook.com   [Status: 200, Size: 90241, Words: 907, Lines: 30, Duration: 1254ms][0m
+[2Kpixel.prod.facebook.com [Status: 200, Size: 90337, Words: 907, Lines: 30, Duration: 319ms][0m
+[2Kar-ar.ro-ro.prod.facebook.com [Status: 200, Size: 89354, Words: 1020, Lines: 30, Duration: 296ms][0m
+[2Kwww.it-it.it-it.fbjs.facebook.com [Status: 200, Size: 91250, Words: 907, Lines: 30, Duration: 269ms][0m
+[2Kwww.ms-my.prod.facebook.com [Status: 200, Size: 91031, Words: 907, Lines: 30, Duration: 306ms][0m
+[2Ken-gb.ro-ro.fbjs.facebook.com [Status: 200, Size: 81689, Words: 944, Lines: 30, Duration: 283ms][0m
+[2Ksk-sk.fbjs.facebook.com [Status: 200, Size: 82467, Words: 981, Lines: 30, Duration: 271ms][0m
+[2Kps-af.fbjs.facebook.com [Status: 200, Size: 86711, Words: 1014, Lines: 30, Duration: 316ms][0m
+[2Kdevelopers.m.fbjs.facebook.com [Status: 200, Size: 174165, Words: 6078, Lines: 86, Duration: 2008ms][0m
+[2Kes-es.prod.facebook.com [Status: 200, Size: 81841, Words: 986, Lines: 30, Duration: 290ms][0m
+[2Kko-kr.youghaluniteda.f.c.facebook.com [Status: 200, Size: 84195, Words: 872, Lines: 30, Duration: 256ms][0m
+[2Kar-ar.ha.lite.facebook.com [Status: 200, Size: 89247, Words: 1020, Lines: 30, Duration: 295ms][0m
+[2Kko-kr.ru-ru.es-es.c.facebook.com [Status: 200, Size: 84031, Words: 872, Lines: 30, Duration: 260ms][0m
+[2Kwww.68.209.1.0.facebook.com [Status: 200, Size: 91052, Words: 907, Lines: 30, Duration: 270ms][0m
+[2Kar-ar.zer.o.lite.facebook.com [Status: 200, Size: 89358, Words: 1020, Lines: 30, Duration: 250ms][0m
+[2Kar-ar.th-th.c.facebook.com [Status: 200, Size: 89247, Words: 1020, Lines: 30, Duration: 297ms][0m
+[2Kz-upload.facebook.com   [Status: 200, Size: 90242, Words: 907, Lines: 30, Duration: 299ms][0m
+[2Kit-it.it-it.en-gb.ro-ro.fbjs.facebook.com [Status: 200, Size: 81973, Words: 983, Lines: 30, Duration: 259ms][0m
+[2Kde-de.m.fbjs.facebook.com [Status: 200, Size: 81676, Words: 914, Lines: 30, Duration: 276ms][0m
+[2Kde-de.th-th.de-de.prod.facebook.com [Status: 200, Size: 81880, Words: 914, Lines: 30, Duration: 267ms][0m
+[2Kwww.nl-nl.roro.fbjs.facebook.com [Status: 200, Size: 91209, Words: 907, Lines: 30, Duration: 452ms][0m
+[2Khi-in.fr-ca.de-de.ms-my.fbjs.facebook.com [Status: 200, Size: 88737, Words: 991, Lines: 30, Duration: 309ms][0m
+[2Kb-m.facebook.com        [Status: 200, Size: 15499, Words: 589, Lines: 2, Duration: 273ms][0m
+[2Kfr-fr.pt-br.developers.prod.facebook.com [Status: 200, Size: 83218, Words: 987, Lines: 28, Duration: 434ms][0m
+[2Kwww.dev.facebook.com    [Status: 200, Size: 90787, Words: 907, Lines: 30, Duration: 243ms][0m
+[2Kwww.ar-ar.et-ee.fbjs.facebook.com [Status: 200, Size: 91243, Words: 907, Lines: 30, Duration: 338ms][0m
+[2Kja-jp.c.facebook.com    [Status: 200, Size: 84336, Words: 715, Lines: 30, Duration: 251ms][0m
+[2Kdevelopers.de-de.ms-my.fbjs.facebook.com [Status: 200, Size: 175714, Words: 6101, Lines: 91, Duration: 1761ms][0m
+[2Kwww.ru-ru.m.fbjs.facebook.com [Status: 200, Size: 91114, Words: 907, Lines: 30, Duration: 264ms][0m
+[2Khi-in.apps.prod.facebook.com [Status: 200, Size: 88283, Words: 991, Lines: 30, Duration: 324ms][0m
+[2Kel-gr.facebook.com      [Status: 200, Size: 90719, Words: 1000, Lines: 30, Duration: 307ms][0m
+[2Kml-in.facebook.com      [Status: 200, Size: 91024, Words: 909, Lines: 30, Duration: 272ms][0m
+[2Kar-ar.ms-my.fbjs.facebook.com [Status: 200, Size: 89356, Words: 1020, Lines: 30, Duration: 310ms][0m
+[2Kcy-gb.facebook.com      [Status: 200, Size: 81433, Words: 979, Lines: 30, Duration: 286ms][0m
+[2Kzh-cn.fbjs.facebook.com [Status: 200, Size: 82504, Words: 760, Lines: 30, Duration: 288ms][0m
+[2Kpt-br.da-dk.lite.facebook.com [Status: 200, Size: 81905, Words: 997, Lines: 30, Duration: 267ms][0m
+[2Kwww.register.lite.facebook.com [Status: 200, Size: 91139, Words: 907, Lines: 30, Duration: 259ms][0m
+[2Kro-ro.prod.facebook.com [Status: 200, Size: 82225, Words: 1005, Lines: 30, Duration: 302ms][0m
+[2Kko-kr.0.facebook.com    [Status: 200, Size: 83603, Words: 872, Lines: 30, Duration: 265ms][0m
+[2Khi-in.tr-tr.es-la.prod.facebook.com [Status: 200, Size: 88794, Words: 991, Lines: 30, Duration: 259ms][0m
+[2Kdevelopers.new.facebook.com [Status: 200, Size: 174014, Words: 6078, Lines: 86, Duration: 1868ms][0m
+[2Kdevelopers.vi-vn.zer.o.lite.facebook.com [Status: 200, Size: 175727, Words: 6101, Lines: 91, Duration: 1822ms][0m
+[2Kfr-fr.ar-ar.de-de.lite.facebook.com [Status: 200, Size: 82300, Words: 997, Lines: 30, Duration: 249ms][0m
+[2Kwww.es-es.f.b.c.facebook.com [Status: 200, Size: 91065, Words: 907, Lines: 30, Duration: 310ms][0m
+[2Kwww.es-la.o.register.lite.facebook.com [Status: 200, Size: 91419, Words: 907, Lines: 30, Duration: 265ms][0m
+[2Kzh-cn.hi-in.fr-fr.pt-br.prod.facebook.com [Status: 200, Size: 83130, Words: 760, Lines: 30, Duration: 282ms][0m
+[2Kdevelopers.prod.facebook.com [Status: 200, Size: 174059, Words: 6078, Lines: 86, Duration: 1783ms][0m
+[2Kde-de.zh-tw.prod.facebook.com [Status: 200, Size: 81816, Words: 914, Lines: 30, Duration: 292ms][0m
+[2Kzh-cn.alpha.facebook.com [Status: 200, Size: 82533, Words: 760, Lines: 30, Duration: 243ms][0m
+[2Kfr-fr.fr-ca.de-de.ms-my.fbjs.facebook.com [Status: 200, Size: 82507, Words: 997, Lines: 30, Duration: 302ms][0m
+[2Kit-it.pl-pl.de-de.prod.facebook.com [Status: 200, Size: 81909, Words: 983, Lines: 30, Duration: 255ms][0m
+[2Kp-upload.facebook.com   [Status: 200, Size: 90244, Words: 907, Lines: 30, Duration: 301ms][0m
+[2Kja-jp.ms-my.fbjs.facebook.com [Status: 200, Size: 84659, Words: 715, Lines: 30, Duration: 290ms][0m
+[2Kd.facebook.com          [Status: 200, Size: 15492, Words: 589, Lines: 2, Duration: 325ms][0m
+[2Ktr-tr.com.0.facebook.com [Status: 200, Size: 84546, Words: 917, Lines: 30, Duration: 289ms][0m
+[2Kde-de.alpha.facebook.com [Status: 200, Size: 81644, Words: 914, Lines: 30, Duration: 254ms][0m
+[2Kit-it.th-th.c.facebook.com [Status: 200, Size: 81596, Words: 983, Lines: 30, Duration: 292ms][0m
+[2Kwww.ar-ar.es-la.zh-cn.fbjs.facebook.com [Status: 200, Size: 91454, Words: 907, Lines: 30, Duration: 296ms][0m
+[2Kko-kr.fbjs.facebook.com [Status: 200, Size: 83706, Words: 872, Lines: 30, Duration: 240ms][0m
+[2Kit-it.m.prod.facebook.com [Status: 200, Size: 81558, Words: 983, Lines: 30, Duration: 273ms][0m
+[2Kit-it.fbjs.facebook.com [Status: 200, Size: 81496, Words: 983, Lines: 30, Duration: 263ms][0m
+[2Klo-la.facebook.com      [Status: 200, Size: 86200, Words: 821, Lines: 30, Duration: 252ms][0m
+[2Kdevelopers.secure.facebook.com [Status: 200, Size: 173857, Words: 6083, Lines: 87, Duration: 1841ms][0m
+[2Kes-la.da-dk.c.facebook.com [Status: 200, Size: 81946, Words: 978, Lines: 30, Duration: 252ms][0m
+[2Kzh-cn.ja-jp.de-de.en-gb.fbjs.facebook.com [Status: 200, Size: 83126, Words: 760, Lines: 30, Duration: 293ms][0m
+[2Ktablet.facebook.com     [Status: 200, Size: 90187, Words: 907, Lines: 30, Duration: 294ms][0m
+[2Kzh-cn.zer.o.lite.facebook.com [Status: 200, Size: 82704, Words: 760, Lines: 30, Duration: 241ms][0m
+[2Kde-de.da-dk.lite.facebook.com [Status: 200, Size: 81820, Words: 914, Lines: 30, Duration: 302ms][0m
+[2Khi-in.youghaluniteda.f.c.facebook.com [Status: 200, Size: 88602, Words: 991, Lines: 30, Duration: 302ms][0m
+[2Kwww.ar-ar.prod.facebook.com [Status: 200, Size: 91035, Words: 907, Lines: 30, Duration: 256ms][0m
+[2Ken-gb.fbjs.facebook.com [Status: 200, Size: 81484, Words: 944, Lines: 30, Duration: 254ms][0m
+[2Kit-it.en-gb.es-la.prod.facebook.com [Status: 200, Size: 81908, Words: 983, Lines: 30, Duration: 257ms][0m
+[2Kms-my.prod.facebook.com [Status: 200, Size: 81311, Words: 929, Lines: 30, Duration: 467ms][0m
+[2Kde-de.es-es.youghaluniteda.f.c.facebook.com [Status: 200, Size: 82307, Words: 914, Lines: 30, Duration: 270ms][0m
+[2Kbadge.new.facebook.com  [Status: 200, Size: 90304, Words: 907, Lines: 30, Duration: 255ms][0m
+[2Kwww.de-de.prod.facebook.com [Status: 200, Size: 91041, Words: 907, Lines: 30, Duration: 312ms][0m
+[2Kpt-br.pt-br.developers.prod.facebook.com [Status: 200, Size: 82890, Words: 987, Lines: 28, Duration: 401ms][0m
+[2Kpt-br.ar-ar.m.lite.facebook.com [Status: 200, Size: 81981, Words: 997, Lines: 30, Duration: 365ms][0m
+[2Kpt-br.es-es.youghaluniteda.f.c.facebook.com [Status: 200, Size: 82397, Words: 997, Lines: 30, Duration: 581ms][0m
+[2Kfr-fr.tr-tr.es-la.prod.facebook.com [Status: 200, Size: 82304, Words: 997, Lines: 30, Duration: 256ms][0m
+[2Kes-la.sv-se.ro-ro.fbjs.facebook.com [Status: 200, Size: 82260, Words: 978, Lines: 30, Duration: 520ms][0m
+[2Khi-in.ro-ro.prod.facebook.com [Status: 200, Size: 88317, Words: 991, Lines: 30, Duration: 474ms][0m
+[2Kwww.connecct.connect.facebook.com [Status: 200, Size: 91248, Words: 907, Lines: 30, Duration: 381ms][0m
+[2Khi-in.facebook.com      [Status: 200, Size: 87933, Words: 991, Lines: 30, Duration: 279ms][0m
+[2Kja-jp.tr-tr.fbjs.facebook.com [Status: 200, Size: 84654, Words: 715, Lines: 30, Duration: 249ms][0m
+[2Kdesign.facebook.com     [Status: 200, Size: 178386, Words: 4537, Lines: 127, Duration: 780ms][0m
+[2Kdevelopers.ha.lite.facebook.com [Status: 200, Size: 174211, Words: 6078, Lines: 86, Duration: 1992ms][0m
+[2Kit-it.pl-pl.ro-ro.fbjs.facebook.com [Status: 200, Size: 81909, Words: 983, Lines: 30, Duration: 256ms][0m
+[2Kzh-cn.zh-cn.af-za.fbjs.facebook.com [Status: 200, Size: 82767, Words: 760, Lines: 30, Duration: 291ms][0m
+[2Kes-la.ar-ar.m.lite.facebook.com [Status: 200, Size: 82120, Words: 978, Lines: 30, Duration: 248ms][0m
+[2Kpt-pt.zh-hk.es-es.roro.fbjs.facebook.com [Status: 200, Size: 82401, Words: 1004, Lines: 30, Duration: 299ms][0m
+[2Kko-kr.fr-ca.de-de.ms-my.fbjs.facebook.com [Status: 200, Size: 84338, Words: 872, Lines: 30, Duration: 279ms][0m
+[2Kdevelopers.sv-se.ro-ro.fbjs.facebook.com [Status: 200, Size: 175726, Words: 6101, Lines: 91, Duration: 1808ms][0m
+[2Kd.ns.facebook.com       [Status: 200, Size: 15505, Words: 589, Lines: 2, Duration: 277ms][0m
+[2Kdevelopers.it-it.en-gb.ro-ro.fbjs.facebook.com [Status: 200, Size: 176028, Words: 6101, Lines: 91, Duration: 1845ms][0m
+[2Kzh-cn.lt-lt.youghaluniteda.f.c.facebook.com [Status: 200, Size: 83194, Words: 760, Lines: 30, Duration: 290ms][0m
+[2Kwww.da-dk.lite.facebook.com [Status: 200, Size: 91036, Words: 907, Lines: 30, Duration: 253ms][0m
+[2Kid-id.es-la.vi-vn.lite.facebook.com [Status: 200, Size: 81593, Words: 912, Lines: 30, Duration: 244ms][0m
+[2Kit-it.google.fbjs.facebook.com [Status: 200, Size: 81735, Words: 983, Lines: 30, Duration: 290ms][0m
+[2Ksecure.trunkstable.facebook.com [Status: 200, Size: 90612, Words: 907, Lines: 30, Duration: 256ms][0m
+[2Kid-id.ko-kr.de-de.fbjs.facebook.com [Status: 200, Size: 81598, Words: 912, Lines: 30, Duration: 302ms][0m
+[2Khi-in.it-it.en-gb.ro-ro.fbjs.facebook.com [Status: 200, Size: 88739, Words: 991, Lines: 30, Duration: 244ms][0m
+[2Kpt-br.developer.prod.facebook.com [Status: 200, Size: 82046, Words: 997, Lines: 30, Duration: 258ms][0m
+[2Kde-de.fr-ca.ms-my.fbjs.facebook.com [Status: 200, Size: 82026, Words: 914, Lines: 30, Duration: 290ms][0m
+[2Ktr-tr.turkcell-imbenim.0.facebook.com [Status: 200, Size: 85005, Words: 917, Lines: 30, Duration: 254ms][0m
+[2Kar-ar.new.facebook.com  [Status: 200, Size: 89105, Words: 1020, Lines: 30, Duration: 250ms][0m
+[2Kwww.hi-in.th-th.fbjs.facebook.com [Status: 200, Size: 91243, Words: 907, Lines: 30, Duration: 260ms][0m
+[2Kfr-fr.ms-my.fbjs.facebook.com [Status: 200, Size: 82092, Words: 997, Lines: 30, Duration: 292ms][0m
+[2Kko-kr.tr-tr.fbjs.facebook.com [Status: 200, Size: 83916, Words: 872, Lines: 30, Duration: 288ms][0m
+[2Kzh-cn.ms-my.fbjs.facebook.com [Status: 200, Size: 82707, Words: 760, Lines: 30, Duration: 279ms][0m
+[2Kar-ar.en-gb.prod.facebook.com [Status: 200, Size: 89357, Words: 1020, Lines: 30, Duration: 289ms][0m
+[2Kar-ar.google.fbjs.facebook.com [Status: 200, Size: 89388, Words: 1020, Lines: 30, Duration: 264ms][0m
+[2Kdevelopers.zh-cn.af-za.fbjs.facebook.com [Status: 200, Size: 175719, Words: 6101, Lines: 91, Duration: 1964ms][0m
+[2Kwww.fr-ca.ms-my.fbjs.facebook.com [Status: 200, Size: 91244, Words: 907, Lines: 30, Duration: 271ms][0m
+[2Kdevelopers.en-gb.fbjs.facebook.com [Status: 200, Size: 175416, Words: 6101, Lines: 91, Duration: 1997ms][0m
+[2Kfr-fr.da-dk.c.facebook.com [Status: 200, Size: 81986, Words: 997, Lines: 30, Duration: 260ms][0m
+[2Kfr-fr.es-es.youghaluniteda.f.c.facebook.com [Status: 200, Size: 82582, Words: 997, Lines: 30, Duration: 240ms][0m
+[2Kdevelopers.google.fbjs.facebook.com [Status: 200, Size: 174473, Words: 6078, Lines: 86, Duration: 1941ms][0m
+[2Kwww.da-dk.c.facebook.com [Status: 200, Size: 90931, Words: 907, Lines: 30, Duration: 452ms][0m
+[2Kpt-br.es-la.tr-tr.prod.facebook.com [Status: 200, Size: 82119, Words: 997, Lines: 30, Duration: 305ms][0m
+[2Kvi-vn.facebook.com      [Status: 200, Size: 82945, Words: 1067, Lines: 30, Duration: 285ms][0m
+[2Kde-de.da-dk.c.facebook.com [Status: 200, Size: 81710, Words: 914, Lines: 30, Duration: 294ms][0m
+[2Kwww.developers.prod.facebook.com [Status: 200, Size: 91963, Words: 897, Lines: 28, Duration: 432ms][0m
+[2Khi-in.vi-vn.zer.o.lite.facebook.com [Status: 200, Size: 88535, Words: 991, Lines: 30, Duration: 297ms][0m
+[2Kmbasic.beta.facebook.com [Status: 200, Size: 15552, Words: 589, Lines: 2, Duration: 240ms][0m
+[2Kzh-cn.es-es.youghaluniteda.f.c.facebook.com [Status: 200, Size: 83196, Words: 760, Lines: 30, Duration: 241ms][0m
+[2Kes-la.th-th.wwwwww.lite.facebook.com [Status: 200, Size: 82294, Words: 978, Lines: 30, Duration: 262ms][0m
+[2Ksecure.interninyour.facebook.com [Status: 200, Size: 90646, Words: 907, Lines: 30, Duration: 259ms][0m
+[2Kdevelopers.sv-se.youghaluniteda.f.c.facebook.com [Status: 200, Size: 176139, Words: 6101, Lines: 91, Duration: 1764ms][0m
+[2Kes-es.zh-tw.upps.lite.facebook.com [Status: 200, Size: 82217, Words: 986, Lines: 30, Duration: 276ms][0m
+[2Kko-kr.developers.prod.facebook.com [Status: 200, Size: 84836, Words: 862, Lines: 28, Duration: 438ms][0m
+[2Kfr-fr.zh-tw.tr-tr.fbjs.facebook.com [Status: 200, Size: 82297, Words: 997, Lines: 30, Duration: 250ms][0m
+[2Kfr-ca.www.c.facebook.com [Status: 200, Size: 82270, Words: 1011, Lines: 30, Duration: 307ms][0m
+[2Kes-la.af-za.fbjs.facebook.com [Status: 200, Size: 82045, Words: 978, Lines: 30, Duration: 294ms][0m
+[2Kpt-br.ru-ru.m.fbjs.facebook.com [Status: 200, Size: 81980, Words: 997, Lines: 30, Duration: 257ms][0m
+[2Kes-la.alpha.facebook.com [Status: 200, Size: 81874, Words: 978, Lines: 30, Duration: 245ms][0m
+[2Khi-in.zh-cn.af-za.fbjs.facebook.com [Status: 200, Size: 88527, Words: 991, Lines: 30, Duration: 276ms][0m
+[2Kru-ru.m.fbjs.facebook.com [Status: 200, Size: 89350, Words: 982, Lines: 30, Duration: 310ms][0m
+[2Kpt-br.sv-se.ro-ro.fbjs.facebook.com [Status: 200, Size: 82118, Words: 997, Lines: 30, Duration: 301ms][0m
+[2Kja-jp.es-es.youghaluniteda.f.c.facebook.com [Status: 200, Size: 85140, Words: 715, Lines: 30, Duration: 287ms][0m
+[2Kbusiness.prod.facebook.com [Status: 200, Size: 158037, Words: 2766, Lines: 22, Duration: 331ms][0m
+[2Kfr-ca.ms-my.fbjs.facebook.com [Status: 200, Size: 82448, Words: 1011, Lines: 30, Duration: 293ms][0m
+[2Kja-jp.af-za.fbjs.facebook.com [Status: 200, Size: 84650, Words: 715, Lines: 30, Duration: 244ms][0m
+[2Kpt-br.es-es.prod.facebook.com [Status: 200, Size: 81908, Words: 997, Lines: 30, Duration: 305ms][0m
+[2Kcs-cz.facebook.com      [Status: 200, Size: 82425, Words: 983, Lines: 30, Duration: 288ms][0m
+[2Kwww.svn.vip.facebook.com [Status: 200, Size: 90927, Words: 907, Lines: 30, Duration: 266ms][0m
+[2Kms-my.ro-ro.fbjs.facebook.fbjs.facebook.com [Status: 200, Size: 82021, Words: 929, Lines: 30, Duration: 256ms][0m
+[2Km.latest.facebook.com   [Status: 200, Size: 15529, Words: 589, Lines: 2, Duration: 239ms][0m
+[2Kfr-fr.es-es.f.b.c.facebook.com [Status: 200, Size: 82123, Words: 997, Lines: 30, Duration: 333ms][0m
+[2Kwww.es-la.fr-fr.fbjs.facebook.com [Status: 200, Size: 91245, Words: 907, Lines: 30, Duration: 240ms][0m
+[2Kadmin.fbjs.facebook.com [Status: 200, Size: 90335, Words: 907, Lines: 30, Duration: 255ms][0m
+[2Ktr-tr.co.connect.facebook.com [Status: 200, Size: 84724, Words: 917, Lines: 30, Duration: 310ms][0m
+[2Kvi-vn.alex.c.facebook.com [Status: 200, Size: 83198, Words: 1067, Lines: 30, Duration: 292ms][0m
+[2Khi-in.vi-vn.en-gb.fbjs.facebook.com [Status: 200, Size: 88530, Words: 991, Lines: 30, Duration: 289ms][0m
+[2Kpt-br.zh-tw.tr-tr.fbjs.facebook.com [Status: 200, Size: 82115, Words: 997, Lines: 30, Duration: 303ms][0m
+[2Kwww.f1.fbjs.facebook.com [Status: 200, Size: 90929, Words: 907, Lines: 30, Duration: 261ms][0m
+[2Kko-kr.m.lite.facebook.com [Status: 200, Size: 83775, Words: 872, Lines: 30, Duration: 261ms][0m
+[2Kour.internmc.facebook.com [Status: 200, Size: 89612, Words: 907, Lines: 30, Duration: 258ms][0m
+[2Kzh-cn.th-th.vi-vn.prod.facebook.com [Status: 200, Size: 82915, Words: 760, Lines: 30, Duration: 353ms][0m
+[2Khi-in.id-id.tr-tr.prod.facebook.com [Status: 200, Size: 88530, Words: 991, Lines: 30, Duration: 260ms][0m
+[2Khi-in.sv-se.es-es.prod.facebook.com [Status: 200, Size: 88532, Words: 991, Lines: 30, Duration: 262ms][0m
+[2Kzh-cn.it-it.en-gb.ro-ro.fbjs.facebook.com [Status: 200, Size: 83132, Words: 760, Lines: 30, Duration: 280ms][0m
+[2Kzh-cn.youghaluniteda.f.c.facebook.com [Status: 200, Size: 82989, Words: 760, Lines: 30, Duration: 280ms][0m
+[2Khi-in.prod.facebook.com [Status: 200, Size: 88111, Words: 991, Lines: 30, Duration: 351ms][0m
+[2Kru-ru.facebook.com      [Status: 200, Size: 89100, Words: 982, Lines: 30, Duration: 263ms][0m
+[2Kfr-fr.nb-no.prod.facebook.com [Status: 200, Size: 82096, Words: 997, Lines: 30, Duration: 270ms][0m
+[2Kko-kr.vi-vn.lite.facebook.com [Status: 200, Size: 83916, Words: 872, Lines: 30, Duration: 292ms][0m
+[2Kit-it.es-es.f.b.c.facebook.com [Status: 200, Size: 81734, Words: 983, Lines: 30, Duration: 297ms][0m
+[2Kit-it.ko-kr.it-it.login.lite.facebook.com [Status: 200, Size: 81970, Words: 983, Lines: 30, Duration: 350ms][0m
+[2Kpt-br.en-gb.fbjs.facebook.com [Status: 200, Size: 81906, Words: 997, Lines: 30, Duration: 287ms][0m
+[2Khi-in.nb-no.prod.facebook.com [Status: 200, Size: 88319, Words: 991, Lines: 30, Duration: 262ms][0m
+[2Kaf-za.fbjs.facebook.com [Status: 200, Size: 81331, Words: 939, Lines: 30, Duration: 299ms][0m
+[2Kdevelopers.youghaluniteda.f.c.facebook.com [Status: 200, Size: 174823, Words: 6078, Lines: 86, Duration: 1937ms][0m
+[2Kkn-in.facebook.com      [Status: 200, Size: 89524, Words: 940, Lines: 30, Duration: 281ms][0m
+[2Kfr-fr.id-id.prod.facebook.com [Status: 200, Size: 82094, Words: 997, Lines: 30, Duration: 302ms][0m
+[2Ksecure.facebook.com     [Status: 200, Size: 90182, Words: 907, Lines: 30, Duration: 264ms][0m
+[2Ken-ud.facebook.com      [Status: 200, Size: 90172, Words: 907, Lines: 30, Duration: 316ms][0m
+[2Kdevelopers.beta.facebook.com [Status: 200, Size: 174071, Words: 6078, Lines: 86, Duration: 1960ms][0m
+[2Kfr-fr.en-gb.fbjs.facebook.com [Status: 200, Size: 82093, Words: 997, Lines: 30, Duration: 265ms][0m
+[2Kfr-fr.da-dk.lite.facebook.com [Status: 200, Size: 82091, Words: 997, Lines: 30, Duration: 237ms][0m
+[2Kko-kr.ca-es.developers.prod.facebook.com [Status: 200, Size: 85049, Words: 862, Lines: 28, Duration: 420ms][0m
+[2Kko-kr.id-id.prod.facebook.com [Status: 200, Size: 83919, Words: 872, Lines: 30, Duration: 281ms][0m
+[2Kwww.zh-tw.prod.facebook.com [Status: 200, Size: 91040, Words: 907, Lines: 30, Duration: 290ms][0m
+[2Kes-la.zh-tw.tr-tr.fbjs.facebook.com [Status: 200, Size: 82254, Words: 978, Lines: 30, Duration: 243ms][0m
+[2Khi-in.en-gb.ro-ro.fbjs.facebook.com [Status: 200, Size: 88533, Words: 991, Lines: 30, Duration: 260ms][0m
+[2Kwww.hu-hu.fbjs.facebook.com [Status: 200, Size: 91039, Words: 907, Lines: 30, Duration: 302ms][0m
+[2Kzh-cn.ro-ro.prod.facebook.com [Status: 200, Size: 82704, Words: 760, Lines: 30, Duration: 283ms][0m
+[2Ken-gb.prod.facebook.com [Status: 200, Size: 81476, Words: 944, Lines: 30, Duration: 251ms][0m
+[2Kbadge.facebook.com      [Status: 200, Size: 90163, Words: 907, Lines: 30, Duration: 248ms][0m
+[2Kko-kr.es-la.prod.facebook.com [Status: 200, Size: 83924, Words: 872, Lines: 30, Duration: 290ms][0m
+[2Kes-la.es-es.f.b.c.facebook.com [Status: 200, Size: 82078, Words: 978, Lines: 30, Duration: 241ms][0m
+[2Kfr-fr.fbjs.facebook.com [Status: 200, Size: 81879, Words: 997, Lines: 30, Duration: 281ms][0m
+[2Kwww.hi-in.es-la.fbjs.facebook.com [Status: 200, Size: 91244, Words: 907, Lines: 30, Duration: 311ms][0m
+[2Kwww.v6.facebook.com     [Status: 200, Size: 90755, Words: 907, Lines: 30, Duration: 259ms][0m
+[2Kde-de.ro-ro.hr-hr.fbjs.facebook.com [Status: 200, Size: 82025, Words: 914, Lines: 30, Duration: 293ms][0m
+[2Ksecure.internmc.facebook.com [Status: 200, Size: 90486, Words: 907, Lines: 30, Duration: 311ms][0m
+[2Khy-am.facebook.com      [Status: 200, Size: 88019, Words: 923, Lines: 30, Duration: 322ms][0m
+[2Kzh-tw.new.facebook.com  [Status: 200, Size: 82706, Words: 765, Lines: 30, Duration: 240ms][0m
+[2Kfr-fr.es-es.c.facebook.com [Status: 200, Size: 81994, Words: 997, Lines: 30, Duration: 263ms][0m
+[2Kde-de.pt-pt.th-th.alex.c.facebook.com [Status: 200, Size: 82112, Words: 914, Lines: 30, Duration: 283ms][0m
+[2Kda-dk.c.facebook.com    [Status: 200, Size: 81364, Words: 917, Lines: 30, Duration: 304ms][0m
+[2Kes-es.fbjs.facebook.com [Status: 200, Size: 81840, Words: 986, Lines: 30, Duration: 293ms][0m
+[2Ksz-pl.facebook.com      [Status: 200, Size: 81485, Words: 957, Lines: 30, Duration: 256ms][0m
+[2Kdevelopers.af-za.fbjs.facebook.com [Status: 200, Size: 175397, Words: 6101, Lines: 91, Duration: 1995ms][0m
+[2Kwww.0.facebook.com      [Status: 200, Size: 94132, Words: 907, Lines: 30, Duration: 314ms][0m
+[2Kbg-bg.prod.facebook.com [Status: 200, Size: 89928, Words: 992, Lines: 30, Duration: 303ms][0m
+[2Kko-kr.es-es.youghaluniteda.f.c.facebook.com [Status: 200, Size: 84407, Words: 872, Lines: 30, Duration: 281ms][0m
+[2Ktr-tr.c.facebook.com    [Status: 200, Size: 84413, Words: 917, Lines: 30, Duration: 261ms][0m
+[2Kar-ar.es-es.prod.facebook.com [Status: 200, Size: 89924, Words: 1020, Lines: 30, Duration: 295ms][0m
+[2Khi-in.ror-ro.fbjs.facebook.com [Status: 200, Size: 88370, Words: 991, Lines: 30, Duration: 287ms][0m
+[2Kzh-cn.es-la.vi-vn.lite.facebook.com [Status: 200, Size: 82914, Words: 760, Lines: 30, Duration: 241ms][0m
+[2Kwww.pl-pl.de-de.prod.facebook.com [Status: 200, Size: 91245, Words: 907, Lines: 30, Duration: 307ms][0m
+[2Km.lite.facebook.com     [Status: 200, Size: 15517, Words: 589, Lines: 2, Duration: 323ms][0m
+[2Kit-it.pt-br.developers.prod.facebook.com [Status: 200, Size: 82828, Words: 973, Lines: 28, Duration: 379ms][0m
+[2Kwww.en-gb.fbjs.facebook.com [Status: 200, Size: 91043, Words: 907, Lines: 30, Duration: 302ms][0m
+[2Kfr-fr.nl-nl.pt-br.fbjs.facebook.com [Status: 200, Size: 82298, Words: 997, Lines: 30, Duration: 267ms][0m
+[2Kit-it.ru-ru.m.fbjs.facebook.com [Status: 200, Size: 81772, Words: 983, Lines: 30, Duration: 261ms][0m
+[2Ksr-rs.developer.prod.facebook.com [Status: 200, Size: 88767, Words: 1005, Lines: 30, Duration: 310ms][0m
+[2Kja-jp.youghaluniteda.f.c.facebook.com [Status: 200, Size: 84930, Words: 715, Lines: 30, Duration: 281ms][0m
+[2Kar-ar.m.fbjs.facebook.com [Status: 200, Size: 89225, Words: 1020, Lines: 30, Duration: 295ms][0m
+[2Kar-ar.sv-se.youghaluniteda.f.c.facebook.com [Status: 200, Size: 89846, Words: 1020, Lines: 30, Duration: 287ms][0m
+[2Kdevelopers.facebook.com [Status: 200, Size: 173793, Words: 6078, Lines: 86, Duration: 2063ms][0m
+[2Kdevelopers.nb-no.id-id.prod.facebook.com [Status: 200, Size: 175724, Words: 6101, Lines: 91, Duration: 1720ms][0m
+[2Kzh-cn.vn.connect.facebook.com [Status: 200, Size: 82705, Words: 760, Lines: 30, Duration: 245ms][0m
+[2Kes-la.es-es.c.facebook.com [Status: 200, Size: 81937, Words: 978, Lines: 30, Duration: 307ms][0m
+[2Kzh-cn.de-de.ms-my.fbjs.facebook.com [Status: 200, Size: 82919, Words: 760, Lines: 30, Duration: 252ms][0m
+[2Kit-it.ro-ro.prod.facebook.com [Status: 200, Size: 81708, Words: 983, Lines: 30, Duration: 304ms][0m
+[2Kpixel.connect.facebook.com [Status: 200, Size: 90444, Words: 907, Lines: 30, Duration: 251ms][0m
+[2Kwww.zh-hk.es-la.connect.facebook.com [Status: 200, Size: 91350, Words: 907, Lines: 30, Duration: 303ms][0m
+[2Kdevelopers.es-la.prod.facebook.com [Status: 200, Size: 175396, Words: 6101, Lines: 91, Duration: 1963ms][0m
+[2Kde-de.register.lite.facebook.com [Status: 200, Size: 81921, Words: 914, Lines: 30, Duration: 257ms][0m
+[2Kwww.pt-pt.nb-no.c.facebook.com [Status: 200, Size: 91143, Words: 907, Lines: 30, Duration: 245ms][0m
+[2Kes-la.new.facebook.com  [Status: 200, Size: 81802, Words: 978, Lines: 30, Duration: 241ms][0m
+[2Kaf-za.facebook.com      [Status: 200, Size: 81157, Words: 939, Lines: 30, Duration: 297ms][0m
+[2Kfr-fr.m.lite.facebook.com [Status: 200, Size: 81962, Words: 997, Lines: 30, Duration: 323ms][0m
+[2Kwww.apps.prod.facebook.com [Status: 200, Size: 91006, Words: 907, Lines: 30, Duration: 285ms][0m
+[2Kit-it.fr-ca.ms-my.fbjs.facebook.com [Status: 200, Size: 81908, Words: 983, Lines: 30, Duration: 249ms][0m
+[2Kwww.es-la.connect.login.connect.facebook.com [Status: 200, Size: 91642, Words: 907, Lines: 30, Duration: 316ms][0m
+[2Kar-ar.alpha.facebook.com [Status: 200, Size: 89190, Words: 1020, Lines: 30, Duration: 252ms][0m
+[2Kit-it.f1.fbjs.facebook.com [Status: 200, Size: 81593, Words: 983, Lines: 30, Duration: 255ms][0m
+[2Kdevelopers.id-id.developers.prod.facebook.com [Status: 200, Size: 174442, Words: 6078, Lines: 86, Duration: 1856ms][0m
+[2Kwww.id-id.youghaluniteda.f.c.facebook.com [Status: 200, Size: 91524, Words: 907, Lines: 30, Duration: 290ms][0m
+[2Kko-kr.es-es.ar-ar.o.lite.facebook.com [Status: 200, Size: 84192, Words: 872, Lines: 30, Duration: 243ms][0m
+[2Kwww.de-de.fbjs.facebook.com [Status: 200, Size: 91039, Words: 907, Lines: 30, Duration: 343ms][0m
+[2Kpl-pl.fr-ca.de-de.ms-my.fbjs.facebook.com [Status: 200, Size: 82690, Words: 979, Lines: 30, Duration: 304ms][0m
+[2Kes-la.c.facebook.com    [Status: 200, Size: 81729, Words: 978, Lines: 30, Duration: 248ms][0m
+[2Kes-es.facebook.com      [Status: 200, Size: 81655, Words: 986, Lines: 30, Duration: 307ms][0m
+[2Kwww.id-id.tr-tr.prod.facebook.com [Status: 200, Size: 91260, Words: 907, Lines: 30, Duration: 296ms][0m
+[2Kfr-fr.apps.ror-ro.fbjs.facebook.com [Status: 200, Size: 82300, Words: 997, Lines: 30, Duration: 288ms][0m
+[2Kit-it.fi-fi.th-th.lite.facebook.com [Status: 200, Size: 81910, Words: 983, Lines: 30, Duration: 252ms][0m
+[2Kpl-pl.0.facebook.com    [Status: 200, Size: 81955, Words: 979, Lines: 30, Duration: 263ms][0m
+[2Kwww.de-de.ms-my.fbjs.facebook.com [Status: 200, Size: 91240, Words: 907, Lines: 30, Duration: 282ms][0m
+[2Kes-es.de-de.prod.facebook.com [Status: 200, Size: 82045, Words: 986, Lines: 30, Duration: 254ms][0m
+[2Kwww.m.fbjs.facebook.com [Status: 200, Size: 90901, Words: 907, Lines: 30, Duration: 332ms][0m
+[2Khi-in.f1.fbjs.facebook.com [Status: 200, Size: 88217, Words: 991, Lines: 30, Duration: 258ms][0m
+[2Ktr-tr.coonect.connect.facebook.com [Status: 200, Size: 84900, Words: 917, Lines: 30, Duration: 297ms][0m
+[2Kms-my.register.lite.facebook.com [Status: 200, Size: 81646, Words: 929, Lines: 30, Duration: 392ms][0m
+[2Kwww.login.fbjs.facebook.com [Status: 200, Size: 91034, Words: 907, Lines: 30, Duration: 299ms][0m
+[2Kwww.es-la.eo-eo.developers.prod.facebook.com [Status: 200, Size: 92394, Words: 897, Lines: 28, Duration: 462ms][0m
+[2Kdevelopers.lite.facebook.com [Status: 200, Size: 174049, Words: 6078, Lines: 86, Duration: 5470ms][0m
+[2Kbs-ba.r.connect.facebook.com [Status: 200, Size: 82293, Words: 1008, Lines: 30, Duration: 312ms][0m
+[2Kwww.fi-fi.hide.lite.facebook.com [Status: 200, Size: 91209, Words: 907, Lines: 30, Duration: 295ms][0m
+[2Kwww.es-la.de-de.fbjs.facebook.com [Status: 200, Size: 91250, Words: 907, Lines: 30, Duration: 295ms][0m
+[2Kit-it.ms-my.it-it.prod.facebook.com [Status: 200, Size: 81766, Words: 983, Lines: 30, Duration: 296ms][0m
+[2Kko-kr.es-la.tr-tr.prod.facebook.com [Status: 200, Size: 84132, Words: 872, Lines: 30, Duration: 295ms][0m
+[2Kja-jp.f.b.c.facebook.com [Status: 200, Size: 84471, Words: 715, Lines: 30, Duration: 286ms][0m
+[2Kit-it.id-id.es-es.prod.facebook.com [Status: 200, Size: 81913, Words: 983, Lines: 30, Duration: 487ms][0m
+[2Khi-in.id-id.prod.facebook.com [Status: 200, Size: 88322, Words: 991, Lines: 30, Duration: 301ms][0m
+[2Kdevelopers.es-es.prod.facebook.com [Status: 200, Size: 175397, Words: 6101, Lines: 91, Duration: 1646ms][0m
+[2Kwww.c.facebook.com      [Status: 200, Size: 90719, Words: 907, Lines: 30, Duration: 258ms][0m
+[2Kwww.www.f.connect.facebook.com [Status: 200, Size: 91043, Words: 907, Lines: 30, Duration: 306ms][0m
+[2Kes-la.vi-vn.c.facebook.com [Status: 200, Size: 81941, Words: 978, Lines: 30, Duration: 298ms][0m
+[2Kfi-fi.facebook.com      [Status: 200, Size: 81359, Words: 845, Lines: 30, Duration: 258ms][0m
+[2Kwww.new.facebook.com    [Status: 200, Size: 90788, Words: 907, Lines: 30, Duration: 296ms][0m
+[2Kwww.ebudy.com.0.facebook.com [Status: 200, Size: 91069, Words: 907, Lines: 30, Duration: 290ms][0m
+[2Kfi-fi.connect.facebook.com [Status: 200, Size: 81640, Words: 845, Lines: 30, Duration: 269ms][0m
+[2Kwww.hr.facebook.com     [Status: 200, Size: 90754, Words: 907, Lines: 30, Duration: 302ms][0m
+[2Kdevelopers.register.lite.facebook.com [Status: 200, Size: 174537, Words: 6078, Lines: 86, Duration: 1833ms][0m
+[2Kzh-cn.da-dk.lite.facebook.com [Status: 200, Size: 82704, Words: 760, Lines: 30, Duration: 279ms][0m
+[2Kar-ar.tr-tr.ms-my.fbjs.facebook.com [Status: 200, Size: 89583, Words: 1020, Lines: 30, Duration: 289ms][0m
+[2Kar-ar.da-dk.lite.facebook.com [Status: 200, Size: 89356, Words: 1020, Lines: 30, Duration: 285ms][0m
+[2Kpt-br.de-de.ms-my.fbjs.facebook.com [Status: 200, Size: 82122, Words: 997, Lines: 30, Duration: 257ms][0m
+[2Kar-ar.es-es.youghaluniteda.f.c.facebook.com [Status: 200, Size: 89843, Words: 1020, Lines: 30, Duration: 337ms][0m
+[2Kar-ar.te-in.developers.prod.facebook.com [Status: 200, Size: 90487, Words: 1010, Lines: 28, Duration: 328ms][0m
+[2Kd.ns.c10r.facebook.com  [Status: 200, Size: 15535, Words: 589, Lines: 2, Duration: 295ms][0m
+[2Kes-la.es-la.prod.facebook.com [Status: 200, Size: 81892, Words: 978, Lines: 30, Duration: 296ms][0m
+[2Kes-la.it-it.en-gb.ro-ro.fbjs.facebook.com [Status: 200, Size: 82476, Words: 978, Lines: 30, Duration: 258ms][0m
+[2Kda-dk.developers.prod.facebook.com [Status: 200, Size: 82601, Words: 907, Lines: 28, Duration: 466ms][0m
+[2Kwww.proxygen-verifier.facebook.com [Status: 200, Size: 91279, Words: 907, Lines: 30, Duration: 300ms][0m
+[2Kdevelopers.c.facebook.com [Status: 200, Size: 173898, Words: 6078, Lines: 86, Duration: 2021ms][0m
+[2Kmk-mk.facebook.com      [Status: 200, Size: 89219, Words: 1002, Lines: 30, Duration: 270ms][0m
+[2Kit-it.ru-ru.es-es.c.facebook.com [Status: 200, Size: 81805, Words: 983, Lines: 30, Duration: 257ms][0m
+[2Kpt-br.tr-tr.fbjs.facebook.com [Status: 200, Size: 81918, Words: 997, Lines: 30, Duration: 307ms][0m
+[2Kar-ar.en-gb.ro-ro.fbjs.facebook.com [Status: 200, Size: 89564, Words: 1020, Lines: 30, Duration: 289ms][0m
+[2Kpt-br.fr-ca.de-de.ms-my.fbjs.facebook.com [Status: 200, Size: 82326, Words: 997, Lines: 30, Duration: 262ms][0m
+[2Kwww.it-it.ror-ro.fbjs.facebook.com [Status: 200, Size: 91279, Words: 907, Lines: 30, Duration: 261ms][0m
+[2Kit-it.m.lite.facebook.com [Status: 200, Size: 81558, Words: 983, Lines: 30, Duration: 406ms][0m
+[2Kfr-fr.te-in.developers.prod.facebook.com [Status: 200, Size: 83222, Words: 987, Lines: 28, Duration: 403ms][0m
+[2Kit-it.es-es.youghaluniteda.f.c.facebook.com [Status: 200, Size: 82192, Words: 983, Lines: 30, Duration: 306ms][0m
+[2Kuk-ua.apps.prod.facebook.com [Status: 200, Size: 89513, Words: 976, Lines: 30, Duration: 253ms][0m
+[2Kko-kr.register.lite.facebook.com [Status: 200, Size: 84022, Words: 872, Lines: 30, Duration: 242ms][0m
+[2Khi-in.zh-tw.tr-tr.fbjs.facebook.com [Status: 200, Size: 88796, Words: 991, Lines: 30, Duration: 303ms][0m
+[2Kwww.hs.facebook.com     [Status: 200, Size: 90756, Words: 907, Lines: 30, Duration: 319ms][0m
+[2Kar-ar.sv-se.es-es.prod.facebook.com [Status: 200, Size: 89565, Words: 1020, Lines: 30, Duration: 311ms][0m
+[2Kar-ar.connect.facebook.com [Status: 200, Size: 89250, Words: 1020, Lines: 30, Duration: 286ms][0m
+[2Kko-kr.f1.fbjs.facebook.com [Status: 200, Size: 83816, Words: 872, Lines: 30, Duration: 254ms][0m
+[2Kms-my.fbjs.facebook.com [Status: 200, Size: 81313, Words: 929, Lines: 30, Duration: 254ms][0m
+[2Kes-la.nl-nl.ro-ro.fbjs.facebook.com [Status: 200, Size: 82252, Words: 978, Lines: 30, Duration: 311ms][0m
+[2Ktr-tr.di-dn.connect.facebook.com [Status: 200, Size: 84834, Words: 917, Lines: 30, Duration: 311ms][0m
+[2Kar-ar.es-la.prod.facebook.com [Status: 200, Size: 89356, Words: 1020, Lines: 30, Duration: 288ms][0m
+[2Kuz-uz.facebook.com      [Status: 200, Size: 81698, Words: 938, Lines: 30, Duration: 315ms][0m
+[2Kde-de.sv-se.youghaluniteda.f.c.facebook.com [Status: 200, Size: 82305, Words: 914, Lines: 30, Duration: 259ms][0m
+[2Kwww.vi-vn.en-gb.fbjs.facebook.com [Status: 200, Size: 91245, Words: 907, Lines: 30, Duration: 308ms][0m
+[2Kde-de.en-gb.ro-ro.fbjs.facebook.com [Status: 200, Size: 82035, Words: 914, Lines: 30, Duration: 278ms][0m
+[2Kid-id.facebook.com      [Status: 200, Size: 80997, Words: 912, Lines: 30, Duration: 252ms][0m
+[2Kfr-fr.es-es.pt-pt.ro-ro.fbjs.facebook.com [Status: 200, Size: 82510, Words: 997, Lines: 30, Duration: 296ms][0m
+[2Kja-jp.tr-tr.es-la.prod.facebook.com [Status: 200, Size: 84863, Words: 715, Lines: 30, Duration: 285ms][0m
+[2Kit-it.en-gb.fbjs.facebook.com [Status: 200, Size: 81696, Words: 983, Lines: 30, Duration: 289ms][0m
+[2Kzh-cn.lite.facebook.com [Status: 200, Size: 82495, Words: 760, Lines: 30, Duration: 282ms][0m
+[2Kplatform.facebook.com   [Status: 200, Size: 90243, Words: 907, Lines: 30, Duration: 291ms][0m
+[2Ksl-si.prod.facebook.com [Status: 200, Size: 81839, Words: 980, Lines: 30, Duration: 260ms][0m
+[2Kit-it.prod.facebook.com [Status: 200, Size: 81494, Words: 983, Lines: 30, Duration: 295ms][0m
+[2Kfr-fr.facebook.com      [Status: 200, Size: 81715, Words: 997, Lines: 30, Duration: 245ms][0m
+[2Kde-de.f.b.c.facebook.com [Status: 200, Size: 81642, Words: 914, Lines: 30, Duration: 256ms][0m
+[2Kzh-cn.beta.facebook.com [Status: 200, Size: 82504, Words: 760, Lines: 30, Duration: 248ms][0m
+[2Kwww.ro-ro.fbjs.facebook.com [Status: 200, Size: 91038, Words: 907, Lines: 30, Duration: 259ms][0m
+[2Kzh-cn.es-la.prod.facebook.com [Status: 200, Size: 82706, Words: 760, Lines: 30, Duration: 248ms][0m
+[2Kwww.fr-ca.de-de.ms-my.fbjs.facebook.com [Status: 200, Size: 91449, Words: 907, Lines: 30, Duration: 302ms][0m
+[2Khi-in.f.b.c.facebook.com [Status: 200, Size: 88164, Words: 991, Lines: 30, Duration: 598ms][0m
+[2Kuk-ua.facebook.com      [Status: 200, Size: 89160, Words: 976, Lines: 30, Duration: 252ms][0m
+[2Kwww.tr-tr.fbjs.facebook.com [Status: 200, Size: 91038, Words: 907, Lines: 30, Duration: 329ms][0m
+[2Kwww.ja-jp.prod.facebook.com [Status: 200, Size: 91034, Words: 907, Lines: 30, Duration: 242ms][0m
+[2Kfr-fr.it-it.en-gb.ro-ro.fbjs.facebook.com [Status: 200, Size: 82507, Words: 997, Lines: 30, Duration: 300ms][0m
+[2Kfr-fr.af-za.fbjs.facebook.com [Status: 200, Size: 82092, Words: 997, Lines: 30, Duration: 308ms][0m
+[2Kko-kr.en-gb.prod.facebook.com [Status: 200, Size: 83917, Words: 872, Lines: 30, Duration: 293ms][0m
+[2Kwww.ro-ro.prod.facebook.com [Status: 200, Size: 91038, Words: 907, Lines: 30, Duration: 301ms][0m
+[2Ktr-tr.fbjs.facebook.com [Status: 200, Size: 84518, Words: 917, Lines: 30, Duration: 365ms][0m
+[2Kdevelopers.da-dk.c.facebook.com [Status: 200, Size: 175254, Words: 6101, Lines: 91, Duration: 1733ms][0m
+[2Kpl-pl.hr-hr.google.fbjs.facebook.com [Status: 200, Size: 82520, Words: 979, Lines: 30, Duration: 305ms][0m
+[2Kde-de.vi-vn.lite.facebook.com [Status: 200, Size: 81828, Words: 914, Lines: 30, Duration: 291ms][0m
+[2Kfr-fr.zer.o.lite.facebook.com [Status: 200, Size: 82098, Words: 997, Lines: 30, Duration: 296ms][0m
+[2Kms-my.facebook.com      [Status: 200, Size: 81155, Words: 929, Lines: 30, Duration: 256ms][0m
+[2Kar-ar.da-dk.c.facebook.com [Status: 200, Size: 89248, Words: 1020, Lines: 30, Duration: 295ms][0m
+[2Kfr-fr.vi-vn.en-gb.fbjs.facebook.com [Status: 200, Size: 82313, Words: 997, Lines: 30, Duration: 256ms][0m
+[2Kes-la.apps.prod.facebook.com [Status: 200, Size: 82015, Words: 978, Lines: 30, Duration: 302ms][0m
+[2Kit-it.lm.prod.facebook.com [Status: 200, Size: 81593, Words: 983, Lines: 30, Duration: 267ms][0m
+[2Kdevelopers.alpha.facebook.com [Status: 200, Size: 174132, Words: 6078, Lines: 86, Duration: 2083ms][0m
+[2Knl-nl.connect.facebook.com [Status: 200, Size: 81570, Words: 921, Lines: 30, Duration: 300ms][0m
+[2Kfr-fr.ta-in.pt-pt.prod.facebook.com [Status: 200, Size: 82315, Words: 997, Lines: 30, Duration: 253ms][0m
+[2Ken-gb.fr-fr.af-za.fbjs.facebook.com [Status: 200, Size: 81906, Words: 944, Lines: 30, Duration: 283ms][0m
+[2Kde-de.es-la.vi-vn.lite.facebook.com [Status: 200, Size: 82030, Words: 914, Lines: 30, Duration: 263ms][0m
+[2Ken-gb.hi-in.m.lite.facebook.com [Status: 200, Size: 81751, Words: 944, Lines: 30, Duration: 245ms][0m
+[2Kwww.zh-tw.pt-pt.fbjs.facebook.com [Status: 200, Size: 91247, Words: 907, Lines: 30, Duration: 290ms][0m
+[2Kwww.zh-tw.tr-tr.fbjs.facebook.com [Status: 200, Size: 91249, Words: 907, Lines: 30, Duration: 291ms][0m
+[2Kja-jp.prod.facebook.com [Status: 200, Size: 84436, Words: 715, Lines: 30, Duration: 277ms][0m
+[2Kdevelopers.tr-tr.es-la.prod.facebook.com [Status: 200, Size: 175717, Words: 6101, Lines: 91, Duration: 1824ms][0m
+[2Kwww.connect.facebook.com [Status: 200, Size: 90943, Words: 907, Lines: 30, Duration: 289ms][0m
+[2Kdevelopers.hr-hr.google.fbjs.facebook.com [Status: 200, Size: 175767, Words: 6101, Lines: 91, Duration: 1756ms][0m
+[2Kes-la.google.fbjs.facebook.com [Status: 200, Size: 82077, Words: 978, Lines: 30, Duration: 256ms][0m
+[2Kta-in.facebook.com      [Status: 200, Size: 90173, Words: 907, Lines: 30, Duration: 304ms][0m
+[2Kes-la.ha.lite.facebook.com [Status: 200, Size: 81954, Words: 978, Lines: 30, Duration: 343ms][0m
+[2Kde-de.es-es.c.facebook.com [Status: 200, Size: 81726, Words: 914, Lines: 30, Duration: 260ms][0m
+[2Kes-la.zer.o.lite.facebook.com [Status: 200, Size: 82051, Words: 978, Lines: 30, Duration: 325ms][0m
+[2Kit-it.es-es.c.facebook.com [Status: 200, Size: 81594, Words: 983, Lines: 30, Duration: 333ms][0m
+[2Kwww.pt-br.prod.facebook.com [Status: 200, Size: 91033, Words: 907, Lines: 30, Duration: 344ms][0m
+[2Kdevelopers.developers.prod.facebook.com [Status: 200, Size: 174112, Words: 6078, Lines: 86, Duration: 2020ms][0m
+[2Kit-it.ro-ro.fbjs.facebook.com [Status: 200, Size: 81701, Words: 983, Lines: 30, Duration: 354ms][0m
+[2Kja-jp.alpha.facebook.com [Status: 200, Size: 84477, Words: 715, Lines: 30, Duration: 322ms][0m
+[2Kar-ar.login.fbjs.facebook.com [Status: 200, Size: 89357, Words: 1020, Lines: 30, Duration: 248ms][0m
+[2Kar-ar.zh-tw.tr-tr.fbjs.facebook.com [Status: 200, Size: 89567, Words: 1020, Lines: 30, Duration: 242ms][0m
+[2Kes-la.tr-tr.fbjs.facebook.com [Status: 200, Size: 82042, Words: 978, Lines: 30, Duration: 246ms][0m
+[2Kwww.turkcell-imbenim.0.facebook.com [Status: 200, Size: 91313, Words: 907, Lines: 30, Duration: 298ms][0m
+[2Kbn-in.facebook.com      [Status: 200, Size: 88765, Words: 969, Lines: 30, Duration: 288ms][0m
+[2Kko-kr.facebook.com      [Status: 200, Size: 83536, Words: 872, Lines: 30, Duration: 300ms][0m
+[2Kwww.m.fr-fr.de-de.prod.facebook.com [Status: 200, Size: 91319, Words: 907, Lines: 30, Duration: 263ms][0m
+[2Km.pt-br.prod.facebook.com [Status: 200, Size: 15553, Words: 589, Lines: 2, Duration: 276ms][0m
+[2Kdevelopers.fr-ca.de-de.ms-my.fbjs.facebook.com [Status: 200, Size: 176048, Words: 6101, Lines: 91, Duration: 1576ms][0m
+[2Kdevelopers.te-in.developers.prod.facebook.com [Status: 200, Size: 174443, Words: 6078, Lines: 86, Duration: 1511ms][0m
